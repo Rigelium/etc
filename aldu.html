@@ -7,14 +7,18 @@
 <body>
   <input type="number" id="input" placeholder="D'esdath aldot" />
   <button onclick="tr()">Ciath</button>
-  <p id="result">....</p>
+  <p id="output">....</p>
   <p id="length">....</p>
 
   <script>
     function tr() {
       const input = document.getElementById("input").value;
       const length = String(input).length;
-      document.getElementById("result").textContent = input;
+      let output = "";
+      for (let i=length; i < 0; i--){
+        output = i + output;
+      }
+      document.getElementById("output").textContent = output;
       document.getElementById("length").textContent = length;
     }
   </script>
