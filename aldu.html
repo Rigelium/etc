@@ -5,11 +5,11 @@
 </head>
 <body>
   <input type="number" id="input" placeholder="D'esdath aldot" />
-  <button onclick="translate()">Ciath</button>
-  <p id="result">...</p>
+  <button onclick="tr()">Ciath</button>
+  <p id="result">....</p>
 
   <script>
-    function translate() {
+    function tr() {
       const input = document.getElementById("input").value;
       document.getElementById("result").textContent = input;
     }
