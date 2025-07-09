@@ -13,6 +13,8 @@
   <h2>Esdatont:</h2>
   <p>reumnas</p>
   <pre id="verbs">...</pre>
+  <p>dannas</p>
+  <pre id="nouns">...</pre>
   <p>sanetnas</p>
   <pre id="results">...</pre>
 
@@ -21,6 +23,7 @@
       const keyword = document.getElementById('search-input').value.toLowerCase();
       const resultsContainer = document.getElementById('results');
       const verbsContainer = document.getElementById('verbs');
+      const nounsContainer = document.getElementById('nouns');
 
       fetch('adjectives.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
@@ -31,7 +34,7 @@
           if (matches.length > 0) {
             resultsContainer.textContent = matches.join(' (adj.)\n');
           } else {
-            resultsContainer.textContent = 'Cu leas-e fendae.';
+            resultsContainer.textContent = 'Sanetnas leas-e fendae.';
           }
         })
         .catch(error => {
@@ -52,7 +55,24 @@
           }
         })
         .catch(error => {
-          verbssContainer.textContent = 'Error loading file.';
+          verbsContainer.textContent = 'Error loading file.';
+          console.error(error);
+        });
+
+      fetch('verbs.txt')  // Adjust path if your .txt file is elsewhere
+        .then(response => response.text())
+        .then(text => {
+          const lines = text.split('\n');
+          const matches = lines.filter(line => line.toLowerCase().includes(keyword));
+
+          if (matches.length > 0) {
+            nounsContainer.textContent = matches.join(' (n.)\n');
+          } else {
+            nounsContainer.textContent = 'Dannas leas-e fendae.';
+          }
+        })
+        .catch(error => {
+          nounsContainer.textContent = 'Error loading file.';
           console.error(error);
         });
     }
