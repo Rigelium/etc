@@ -8,11 +8,14 @@
   <input type="number" id="input" placeholder="D'esdath aldot" />
   <button onclick="tr()">Ciath</button>
   <p id="result">....</p>
+  <p id="length">....</p>
 
   <script>
     function tr() {
       const input = document.getElementById("input").value;
+      const length = String(input).length;
       document.getElementById("result").textContent = input;
+      document.getElementById("length").textContent = length;
     }
   </script>
 </body>
