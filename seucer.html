@@ -18,7 +18,7 @@
       const keyword = document.getElementById('search-input').value.toLowerCase();
       const resultsContainer = document.getElementById('results');
 
-      fetch('data/data.txt')  // Adjust path if your .txt file is elsewhere
+      fetch('verbs.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
         .then(text => {
           const lines = text.split('\n');
