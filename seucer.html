@@ -11,11 +11,11 @@
   <button onclick="searchText()">Suge</button>
 
   <h2>Esdatont:</h2>
-  <p>reumnas</p>
+  <p>REUMNAS</p>
   <pre id="verbs">...</pre>
-  <p>dannas</p>
+  <p>DANNAS</p>
   <pre id="nouns">...</pre>
-  <p>sanetnas</p>
+  <p>SANETNAS</p>
   <pre id="results">...</pre>
 
   <script>
@@ -59,7 +59,7 @@
           console.error(error);
         });
 
-      fetch('verbs.txt')  // Adjust path if your .txt file is elsewhere
+      fetch('nouns.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
         .then(text => {
           const lines = text.split('\n');
