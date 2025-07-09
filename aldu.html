@@ -18,7 +18,7 @@
       let output = "";
       for (let i=0; i < length; i++){
         if (i == 0){
-          output = firstCardinal[Number(String(input)[i])] + output;
+          output = firstCardinal[Number(String(input)[length-1-i])] + output;
         } else {
         output = i + output;
         }
