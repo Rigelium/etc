@@ -11,12 +11,14 @@
   <button onclick="searchText()">Suge</button>
 
   <h2>Esdatont:</h2>
+  <pre id="verbs">...</pre>
   <pre id="results">...</pre>
 
   <script>
     function searchText() {
       const keyword = document.getElementById('search-input').value.toLowerCase();
       const resultsContainer = document.getElementById('results');
+      const verbsContainer = document.getElementById('verbs');
 
       fetch('adjectives.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
@@ -42,13 +44,13 @@
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
 
           if (matches.length > 0) {
-            resultsContainer.textContent = matches.join(' (v.)\n');
+            verbsContainer.textContent = matches.join(' (v.)\n');
           } else {
-            resultsContainer.textContent = 'Cu leas-e fendae.';
+            verbsContainer.textContent = 'Reumnas leas-e fendae.';
           }
         })
         .catch(error => {
-          resultsContainer.textContent = 'Error loading file.';
+          verbssContainer.textContent = 'Error loading file.';
           console.error(error);
         });
     }
