@@ -3,4 +3,16 @@
 </head>
 <body>
   <p>Erstmal testen ne?</p>
+  <pre id="text-output">Loading...</pre>
+   <script>
+    fetch('data/verbs.txt')
+      .then(response => response.text())
+      .then(text => {
+        document.getElementById('text-output').textContent = text;
+      })
+      .catch(error => {
+        document.getElementById('text-output').textContent = 'Error loading file.';
+        console.error(error);
+      });
+  </script>
 </body>
