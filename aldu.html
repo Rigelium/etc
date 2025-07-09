@@ -17,6 +17,7 @@
       const firstCardinal = ["zereu", "seue", "neu", "dac", "riec", "gaur", "teus", "ger", "sun", "far"];
       const secondCardinal = ["", "par", "neupar", "dapar", "riepar", "gaupar", "teuspar", "gerpar", "sunpar", "farpar"];
       const thirdCardinal = ["", "liteu", "neulteu", "dalteu", "rielteu", "gaulteu", "teusliteu", "gerliteu", "sunliteu", "farliteu"];
+      const fourthCardinal = ["", "seue", "neu", "dac", "riec", "gaur", "teus", "ger", "sun", "far"];
       const input = document.getElementById("input").value;
       const length = String(input).length;
       let output = "";
@@ -38,7 +39,7 @@
           output = thirdCardinal[Number(String(input)[length-1-i])] + output;
           } else if ( i == 3 ) {
              output = "-aūreu-" + output;
-          output = firstCardinal[Number(String(input)[length-1-i])] + output;
+          output = fourthCardinal[Number(String(input)[length-1-i])] + output;
           } else {
         output = i + output;
         }
