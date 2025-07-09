@@ -1,0 +1,152 @@
+i casvauris - Kształty i geometria
+koło - bear
+kwadrat - rens 
+Antanoc - Materiały
+aezoc - metal
+drevoc - drewno
+cunstoc - plastic
+linsoc - papier
+cidroc - wodór
+oxegoc - tlen 
+Części ciała
+galf - głowa
+adnas - mózg
+paeser/sem - oko, oczy
+recas - nos
+reul - twarz
+ram - ręka
+ceurs - dłoń
+leb - stopa 
+Itis i itstacis - lingwistyka i nauka języków
+itū - język
+cū - słowo
+menas - litera 
+Pajū - jedzenie
+aemū  - jabłko
+mius - mleko
+braut - chleb
+voedū - woda
+pomaudo - pomidor
+sausū - sos
+leyet - zupa
+onen - cebula 
+Iu - ludzie
+sac - mężczyzna
+mae - kobieta
+fauro - kolega
+dáec - chłopak
+mé - dziewczyna
+sauto - dziecko
+breur - brat
+sveur - siostra
+mamū - mama
+papū - tata
+babū - babcia
+dadū - dziadek
+thatic - ciocia
+vutic - wujek
+staciu - nauczyciel
+roviu - wykładowca
+rovsen - student
+stacsen - uczeń
+sanoc - osoba 
+Eucmantū - transport
+citu - pociąg
+bus - autobus
+vagū - auto
+vealu - rower
+miarces - przystanek
+citcias - dworzec kolejowy
+buscias - dworzec autobusowy
+cialest - bilet 
+Caenid - Bez kategorii
+caèlù - niebo
+pocaul - piekło
+itù - język/mowa
+nemù - imię/nazwa
+bed - rok
+priex - sposób
+seur - czas
+samo - wszystko
+samio - wszyscy
+sint - powód
+nivo - poziom
+nito - pokój
+chetete - ruch
+ach - dzień
+man - miejsco
+gedo - pieniądze
+garo - kraj
+dan - rzecz
+sauno - dom
+drago - droga
+astero - gwiazda
+aset - miasto
+co - słowo
+prat - świat
+tete - zdanie
+meazo - zainteresowanie
+meazte - ciekawostka
+neto - dowód
+nelo - nauka
+nadete - nadzieja
+vero - faith
+abro - prawdza
+paveaste - uważność
+cavel - kawałek
+stedū - strona
+chadū - cień
+scesū - obraz
+caenū - rodzaj
+sapū - cisza
+feurū - ogień
+linū - strach
+axer - urządzenie
+chevaxer - urządzenie mobilne
+birū - ubranie
+sauris - inteligencja 
+fincū - chwila
+medū  - środek 
+lunū - księżyc 
+blat - liść 
+taethis - pogoda
+miscū - spokój
+neazcitū - napięcie
+drevcas - las
+liscū  - piosenka
+jeunciatū - postęp 
+steūs - dumny
+navces - drzwi
+peuse -wrócić 
+citcias - dworzec
+rizenetū - pochodna
+egesic - całka 
+fald - pole
+adis - umysł 
+reuvgantū - telewizja
+reuvganer, RG - telewizor
+reuisis - prawo, zasada
+stacdaevū, lysū - lekcja
+vardū - wartość 
+foc - typ, ziom, gostek
+iuces - populacja, ludność 
+iusis - ludzkość
+ceudu - problem
+danest - temat
+scit - część
+scitsen - członek 
+seces - grupa
+meslejū - układ, layout
+axis - firma
+maūt - śmieć, śmieci
+maūtnas - śmietnik
+dajis - kolejność
+seuroc - moment
+vilcu - los
+gasū - głos
+stacdan - przedmiot szkolny/uczelniany
+mald - sens
+fincū - moment chwila
+molcias - kościół
+léztach - plecak
+besū - cena 
