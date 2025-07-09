@@ -16,6 +16,7 @@
     function tr() {
       const firstCardinal = ["zereu", "seue", "neu", "dac", "riec", "gaur", "teus", "ger", "sun", "far"];
       const secondCardinal = ["", "par", "neupar", "dapar", "riepar", "gaupar", "teuspar", "gerpar", "sunpar", "farpar"];
+      const thirdCardinal = ["", "liteu", "neulteu", "dalteu", "rielteu", "gaulteu", "teusliteu", "gerliteu", "sunliteu", "farliteu"];
       const input = document.getElementById("input").value;
       const length = String(input).length;
       let output = "";
@@ -30,6 +31,11 @@
              output = "'" + output;
           }
           output = secondCardinal[Number(String(input)[length-1-i])] + output;
+          } else if (i == 2) {
+          if (Number(String(input)[length-3-i]) != 0 && Number(String(input)[length-2-i])){
+             output = "'" + output;
+          }
+          output = thirdCardinal[Number(String(input)[length-1-i])] + output;
           } else {
         output = i + output;
         }
