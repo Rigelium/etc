@@ -40,7 +40,7 @@
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
 
           if (matches.length > 0) {
-            resultsContainer.textContent = matches.join(' (adj.)\n');
+            resultsContainer.textContent = matches.join('\n');
           } else {
             resultsContainer.textContent = 'Sanetnas leas-e fendae.';
           }
@@ -57,7 +57,7 @@
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
 
           if (matches.length > 0) {
-            verbsContainer.textContent = matches.join(' (v.)\n');
+            verbsContainer.textContent = matches.join('\n');
           } else {
             verbsContainer.textContent = 'Reumnas leas-e fendae.';
           }
@@ -74,7 +74,7 @@
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
 
           if (matches.length > 0) {
-            nounsContainer.textContent = matches.join(' (n.)\n');
+            nounsContainer.textContent = matches.join('\n');
           } else {
             nounsContainer.textContent = 'Dannas leas-e fendae.';
           }
@@ -91,7 +91,7 @@
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
 
           if (matches.length > 0) {
-            otherContainer.textContent = matches.join(' (n.)\n');
+            otherContainer.textContent = matches.join('\n');
           } else {
             otherContainer.textContent = 'Caz iu leas fendae.';
           }
