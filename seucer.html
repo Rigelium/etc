@@ -17,6 +17,8 @@
   <pre id="nouns">...</pre>
   <p>SANETNAS</p>
   <pre id="results">...</pre>
+    <p>ID CATEGORIS</p>
+  <pre id="other">...</pre>
 
   <script>
     function searchText() {
@@ -24,6 +26,7 @@
       const resultsContainer = document.getElementById('results');
       const verbsContainer = document.getElementById('verbs');
       const nounsContainer = document.getElementById('nouns');
+      const otherContainer = document.getElementById('other');
 
       fetch('adjectives.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
@@ -73,6 +76,23 @@
         })
         .catch(error => {
           nounsContainer.textContent = 'Error loading file.';
+          console.error(error);
+        });
+      
+       fetch('other.txt')  // Adjust path if your .txt file is elsewhere
+        .then(response => response.text())
+        .then(text => {
+          const lines = text.split('\n');
+          const matches = lines.filter(line => line.toLowerCase().includes(keyword));
+
+          if (matches.length > 0) {
+            otherContainer.textContent = matches.join(' (n.)\n');
+          } else {
+            otherContainer.textContent = 'Caz iu leas fendae.';
+          }
+        })
+        .catch(error => {
+          otherContainer.textContent = 'Error loading file.';
           console.error(error);
         });
     }
