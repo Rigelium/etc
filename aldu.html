@@ -15,7 +15,7 @@
       const input = document.getElementById("input").value;
       const length = String(input).length;
       let output = "";
-      for (let i=length; i < 0; i--){
+      for (let i=length; i > 0; i--){
         output = i + output;
       }
       document.getElementById("output").textContent = output;
