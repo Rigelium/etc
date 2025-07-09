@@ -20,7 +20,7 @@
       let output = "";
       for (let i=0; i < length; i++){
         if (i == 0){
-          if (length > 0 && Number(String(input)[length-1-i]) == 0){
+          if (length > 1 && Number(String(input)[length-1-i]) == 0){
           } else {
           output = firstCardinal[Number(String(input)[length-1-i])] + output;
           }
