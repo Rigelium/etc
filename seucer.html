@@ -1,10 +1,13 @@
+<!DOCTYPE html>
+<html>
 <head>
-  <title>Seucer Etces neyu</title>
+  <title>Text File Viewer</title>
 </head>
 <body>
-  <p>Erstmal testen ne?</p>
+  <h1>Text File Contents:</h1>
   <pre id="text-output">Loading...</pre>
-   <script>
+
+  <script>
     fetch('verbs.txt')
       .then(response => response.text())
       .then(text => {
@@ -16,3 +19,4 @@
       });
   </script>
 </body>
+</html>
