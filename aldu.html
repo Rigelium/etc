@@ -26,12 +26,12 @@
           } else {
           output = firstCardinal[Number(String(input)[length-1-i])] + output;
           }
-          } else if (i == 1) {
+          } else if (i == 1 || i == 4) {
           if (Number(String(input)[length-2-i]) != 0){
              output = "'" + output;
           }
           output = secondCardinal[Number(String(input)[length-1-i])] + output;
-          } else if (i == 2) {
+          } else if (i == 2 || i == 5) {
           if (Number(String(input)[length-3-i]) != 0 && Number(String(input)[length-2-i]) != 0){
              output = "'" + output;
           }
