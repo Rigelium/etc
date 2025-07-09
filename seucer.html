@@ -43,7 +43,7 @@
           if (matches.length > 0) {
             resultsContainer.textContent = matches.join('\n');
           } else {
-            resultsContainer.textContent = 'Sanetnas leas-e fendae.';
+            resultsContainer.textContent = '';
           }
         })
         .catch(error => {
@@ -60,7 +60,7 @@
           if (matches.length > 0) {
             verbsContainer.textContent = matches.join('\n');
           } else {
-            verbsContainer.textContent = 'Reumnas leas-e fendae.';
+            verbsContainer.textContent = '';
           }
         })
         .catch(error => {
@@ -77,7 +77,7 @@
           if (matches.length > 0) {
             nounsContainer.textContent = matches.join('\n');
           } else {
-            nounsContainer.textContent = 'Dannas leas-e fendae.';
+            nounsContainer.textContent = '';
           }
         })
         .catch(error => {
@@ -94,7 +94,7 @@
           if (matches.length > 0) {
             otherContainer.textContent = matches.join('\n');
           } else {
-            otherContainer.textContent = 'Caz iu leas fendae.';
+            otherContainer.textContent = '';
           }
         })
         .catch(error => {
