@@ -12,12 +12,13 @@
 
   <script>
     function tr() {
+      const firstCardinal = ["zereu", "seue", "neu", "dac", "riec", "gaur", "teus", "ger", "sun", "far"];
       const input = document.getElementById("input").value;
       const length = String(input).length;
       let output = "";
       for (let i=length-1; i > -1; i--){
         if (i == 0){
-          output = output + "first";
+          output = output + firstCardinal[Number(String(input)[i])];
         } else {
         output = i + output;
         }
