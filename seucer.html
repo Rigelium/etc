@@ -5,20 +5,20 @@
     <link rel="icon" type="image/x-icon" href="https://media.discordapp.net/attachments/1204013419506700300/1376974510565232716/image.png?ex=686f4eb2&is=686dfd32&hm=217f73ba75a771af37c81af0275f0e62784230f5dc0ebcf6bc0e6d7068571b4d&=&format=webp&quality=lossless">
 </head>
 <body>
-  <h1>Search in Text File</h1>
+  <h1>Da suge léz cu</h1>
 
   <input type="text" id="search-input" placeholder="Enter word or phrase" />
-  <button onclick="searchText()">Search</button>
+  <button onclick="searchText()">Suge</button>
 
   <h2>Matching Lines:</h2>
-  <pre id="results">No search yet.</pre>
+  <pre id="results">...</pre>
 
   <script>
     function searchText() {
       const keyword = document.getElementById('search-input').value.toLowerCase();
       const resultsContainer = document.getElementById('results');
 
-      fetch('verbs.txt')  // Adjust path if your .txt file is elsewhere
+      fetch('adjectives.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
         .then(text => {
           const lines = text.split('\n');
@@ -27,7 +27,7 @@
           if (matches.length > 0) {
             resultsContainer.textContent = matches.join('\n');
           } else {
-            resultsContainer.textContent = 'No matching lines found.';
+            resultsContainer.textContent = 'Cu leas-e fendae.';
           }
         })
         .catch(error => {
