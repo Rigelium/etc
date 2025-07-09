@@ -4,15 +4,15 @@
     <title>Aldū</title>
   </head>
   <body>
-    <input type="text" id="number" placeholder="D'esdath aldot"/>
+    <input type="number" id="number" placeholder="D'esdath aldot"/>
     <button onclick="translate()">Ciath</button>
-    <pre id="result">...</pre>
+    <p id="result">...</p>
     
   <script>
     function translate() = {
-    const number = document.getElementById("number").textContent;
+    const number = document.getElementById("number").value;
     document.getElementById("result").textContent = "baNaNa";
-    });
+    }
   </script>
   </body>
 </html>
