@@ -63,6 +63,7 @@
           }
           
           } else if ( i == 3 /*&& Number(String(input)[length-i-1]) != 0 && Number(String(input)[length-i-2]) != 0 && Number(String(input)[length-i-3]) != 0*/) {
+          if(Number(String(input)[length-i-1]) != 0 && Number(String(input)[length-i-2]) != 0 && Number(String(input)[length-i-3]) != 0){
           if ( Number(String(input)[length-i]) != 0 || Number(String(input)[length+1-i]) != 0 || Number(String(input)[length+2-i]) != 0 ) {
             output = "-" + output;
             ordinal = "-" + ordinal;
@@ -75,7 +76,8 @@
           }
           output = fourthCardinal[Number(String(input)[length-1-i])] + output;
           ordinal = fourthCardinal[Number(String(input)[length-1-i])] + ordinal;
-          } else if ( i == 6 ) {
+        }
+        } else if ( i == 6 ) {
           if ( Number(String(input)[length-i]) != 0 || Number(String(input)[length+1-i]) != 0 || Number(String(input)[length+2-i]) != 0 || Number(String(input)[length+3-i]) != 0 || Number(String(input)[length+4-i]) != 0|| Number(String(input)[length+5-i]) != 0) {
             output = "-" + output;
             ordinal = "-" + ordinal;
