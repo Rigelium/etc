@@ -35,7 +35,7 @@
             ordinal = firstOrdinal[Number(String(input)[length-1-i])] + ordinal;
             ordinalSet = 1;
           }
-          } else if (i == 1 || i == 4) {
+          } else if (i == 1 || i == 4 || i == 7 ) {
           if (Number(String(input)[length-i]) != 0  && Number(String(input)[length-1-i]) != 0){
              output = "'" + output;
              ordinal = "'" + ordinal;
@@ -46,7 +46,7 @@
             ordinalSet = 1;
           }
           ordinal = secondCardinal[Number(String(input)[length-1-i])] + ordinal;
-        } else if ( i == 2 || i == 5 ) {
+        } else if ( i == 2 || i == 5 || i == 8 ) {
           if (Number(String(input)[length-1-i]) != 0 && ( Number(String(input)[length-i]) != 0 || Number(String(input)[length+1-i]) != 0 )){
              output = "'" + output;
              ordinal = "'" + ordinal;
@@ -72,6 +72,22 @@
             ordinal = "-aūra" + ordinal;
           } else {
             ordinal = "-aūreu" + ordinal;
+          }
+          output = fourthCardinal[Number(String(input)[length-1-i])] + output;
+          ordinal = fourthCardinal[Number(String(input)[length-1-i])] + ordinal;
+          } else {
+        output = i + output;
+        }
+        else if ( i == 6 ) {
+          if ( Number(String(input)[length-i]) != 0 || Number(String(input)[length+1-i]) != 0 || Number(String(input)[length+2-i]) != 0 || Number(String(input)[length+3-i]) != 0 || Number(String(input)[length+4-i]) != 0|| Number(String(input)[length+5-i]) != 0) {
+            output = "-" + output;
+            ordinal = "-" + ordinal;
+          }
+             output = "-milieu" + output;
+          if (ordinalSet == 0){
+            ordinal = "-milia" + ordinal;
+          } else {
+            ordinal = "-milieu" + ordinal;
           }
           output = fourthCardinal[Number(String(input)[length-1-i])] + output;
           ordinal = fourthCardinal[Number(String(input)[length-1-i])] + ordinal;
