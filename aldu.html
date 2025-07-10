@@ -63,7 +63,11 @@
           }
           
           } else if ( i == 3 ) {
-             output = "-aūreu-" + output;
+          if ( Number(String(input)[length-1-i]) != 0 || Number(String(input)[length-i]) != 0 || Number(String(input)[length+1-i]) != 0 ) {
+            output = "-" + output;
+            ordinal = "-" + ordinal;
+          }
+             output = "-aūreu" + output;
           output = fourthCardinal[Number(String(input)[length-1-i])] + output;
           } else {
         output = i + output;
