@@ -40,19 +40,24 @@
           }
           output = secondCardinal[Number(String(input)[length-1-i])] + output;
           if (ordinalSet == 0 && Number(String(input)[length-1-i]) != 0 ) {
-          ordinal = "u" + ordinal;
-          ordinalSet = 1;
+            ordinal = "u" + ordinal;
+            ordinalSet = 1;
           }
           ordinal = secondCardinal[Number(String(input)[length-1-i])] + ordinal;
-        } else if (i == 2 || i == 5) {
+        } else if ( i == 2 || i == 5 ) {
           if (Number(String(input)[length+1-i]) != 0 && Number(String(input)[length-i]) != 0){
              output = "'" + output;
              ordinal = "'" + ordinal;
           }
           output = thirdCardinal[Number(String(input)[length-1-i])] + output;
-          if (ordinalSet == 0 && Number(String(input)[length-1-i]) != 0 ) {
-          ordinal = thirdOrdinal[Number(String(input)[length-1-i])] + ordinal;
-          ordinalSet = 1;
+          if (Number(String(input)[length-1-i]) != 0 ) {
+            if (ordinalSet == 1 ){
+              ordinal = thirdCardinal[Number(String(input)[length-1-i])] + ordinal;  
+            } else {
+              ordinal = thirdOrdinal[Number(String(input)[length-1-i])] + ordinal;   
+              ordinalSet = 1;
+            }
+            
           }
           
           } else if ( i == 3 ) {
