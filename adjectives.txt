@@ -1,43 +1,53 @@
+▶️ kolory - coleur
+nox - niebieski
+cheld - zielony
+nab - żółty
+bras - pomarańczowy
+card - czerwony
+nec - biały
+cieur - czarny 
+neuv - ciemny
+ran - jasny 
+▶️ id vassanu
 para - odpowiedni, poprawny
-tauv - dobry // irreg. teuv teuvan teuvas (adverbs) 
+tauv - dobry  [teuv teuven teuvas] 
 fam - zły
-faed - szybko
-meaza - ciekawe
+faed, rig - szybki
+meana - ciekawy
 saega - użyteczny
 laga - śmieszny
-náec - poważny
-abra - prawdziwy (neazabro? / abraú?)
-fauga - cool fajny
-prosty - seuiha (einhaft) 
-lekki/łatwy 
-ciężki - tajar
-trudny - jeus
-skomplikowany - auvvenda
-następny - neach
-późny - pagna
-wczesny - chesna
-ostatni - laes
-ostatni (poprzedni) - preva
-mały - gels
-duży - nog
-cały - eges
-silny - reuz
-słaby - sag
-długi - dauv
-krótki - carta
-różny - rizen
-równy - riven
-szczęśliwy - gelca
-smutny - jal
+naèc - poważny
+avra - prawdziwy (neazabro? / abraú?)
+faeca - fajny
+seuiga - łatwy
+sod - lekki/łatwy
+thar - ciężki
+jeus - trudny
+complex - skomplikowany
+necheas, nes - następny
+pag - póżny
+ches - wczesny
+laes - ostatni
+preva - poprzedni
+gels - mały
+nog - duży
+eges - cały
+reuz - silny
+sag - słaby
+dauv - długi
+carta - krótki
+riez - różny
+riven - równy
+gelca - szczęśliwy, wesoły
+jal - smutny
 fand - ważny
 norna - do zrobienia
 ilverna - niewiarygodny
 saurna - zrozumiały
 eusta - szczery
-dawny - setra
+setra - dawny
 pata - tani
 vasca - fałszywy
-galete - informować
 ciana - wspólny
 thag - darmowy 
 pra - nowy
@@ -45,24 +55,24 @@ sauj - podobny
 cej - dokładnie, ceja - dokładny
 gar - ładny
 sen - sam, samemu
-vraes - pewny
+vraes - pewny [vraesaū - prawdopodobnie, pewnie]
 smeca - smaczny
 lan - zimny
-rig - szybki
 valen, led - wolny
-avrūsenca - prawdopodobny
+avresenca - prawdopodobny
 nej - niski
 suvena - piękny
 fardae - zmęczony
 duv - gotowy, gotów
 ful - leniwy
-neusid - jedyny
+nusid - jedyny
 savesca - ogólny
 mescaena - różnorodny
 sner - pełny 
 bel - dziwny
 vilca - randomowy, losowy
-scor - miły
+smienc - miły
 sagala - oczywisty
 cejvesca - szczególny (besonders)
 cejnasa - szczegółowy
+navvesca - publiczny 
