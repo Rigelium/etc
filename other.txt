@@ -1,4 +1,4 @@
-▶️ Particles prepositions etc.
+Particles prepositions etc.
 i - i
 det - a
 chac - ale
@@ -39,7 +39,7 @@ va.../deva.../vava... - ten teges
 deus - cóż...
 eustaū iteno - szczerze powiedziawszy
 vesciu - mam na myśli, I mean
-an saetū - w sensie 
+an saetū - w sensie
 ▶️ S'sanete seur - Descriptions of time
 seur - czas
 ad - since / od
@@ -85,4 +85,20 @@ Nae s'miels ! - Do widzenia!
 Asprathiu, sprathiu - przepraszam
 Giriu/gir's - dziękuję/dzięki
 Cae ! - Hej! 
-Samot tauvas ! - Wszystkiego najlepszego! 
+Samot tauvas ! - Wszystkiego najlepszego!
+▶️ Prepositions
+alt - ponad
+tev - pod
+las - za czymś
+jeun - przed
+in - między
+spen - dookoła
+casp - poza
+tac - obok
+reues - prawo
+lenc - lewo
+
+an    ¦ en     ¦ es   -     w 
+éz    ¦ nas   ¦ zén -     na (horizontal)
+az    ¦ nas   ¦ zan -     na (vertical) 
+vé    ¦ vas   ¦ zav -      przy
