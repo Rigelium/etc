@@ -1,3 +1,32 @@
+▶️ Iu - ludzie
+sac - mężczyzna
+mae - kobieta
+faurū - kolega
+daec - chłopak
+mé - dziewczyna
+sautū - dziecko
+breur - brat
+sveur - siostra
+mamū - mama
+papū - tata
+babū - babcia
+dadū - dziadek
+thatic - ciocia
+vusic - wujek
+stacsen - nauczyciel
+rovsen - wykładowca
+rovas - student
+stacas - uczeń
+senoc - osoba 
+▶️ Eucmantū - transport
+citū - pociąg
+bus, dauvas - autobus
+vagū - auto
+vealū - rower
+gearcias - przystanek
+citcias - dworzec kolejowy
+buscias - dworzec autobusowy
+cialie - bilet 
 ▶️ GEDONT - PAŃSTWA
 Etcas - Eteja
 Polencas - Polska [Polen/Polences - polski]
@@ -59,73 +88,42 @@ aemū  - jabłko
 mius - mleko
 braut - chleb
 voedū - woda
-pomaudo - pomidor
+pomodorū - pomidor
 sausū - sos
-leyet - zupa
+leūcic, supū - zupa
 onen - cebula 
-▶️ Iu - ludzie
-sac - mężczyzna
-mae - kobieta
-fauro - kolega
-dáec - chłopak
-mé - dziewczyna
-sauto - dziecko
-breur - brat
-sveur - siostra
-mamū - mama
-papū - tata
-babū - babcia
-dadū - dziadek
-thatic - ciocia
-vutic - wujek
-staciu - nauczyciel
-roviu - wykładowca
-rovsen - student
-stacsen - uczeń
-sanoc - osoba 
-▶️ Eucmantū - transport
-citu - pociąg
-bus - autobus
-vagū - auto
-vealu - rower
-miarces - przystanek
-citcias - dworzec kolejowy
-buscias - dworzec autobusowy
-cialest - bilet 
 ▶️ Caenid - Bez kategorii
-caèlù - niebo
-pocaul - piekło
-itù - język/mowa
-nemù - imię/nazwa
-bed - rok
-priex - sposób
+caèlū - niebo
+geulū - piekło
+itū - język/mowa
+nemū - imię/nazwa
+beat - rok
+pres - sposób
 seur - czas
-samo - wszystko
-samio - wszyscy
-sint - powód
-nivo - poziom
-nito - pokój
-chetete - ruch
+sintū - powód
+nivū - poziom
+nitū - pokój
+cheftū - ruch
 ach - dzień
 man - miejsco
-gedo - pieniądze
+gedū - państwo
 garo - kraj
+chardie - pieniądze
 dan - rzecz
-sauno - dom
-drago - droga
-astero - gwiazda
+sonū - dom
+dragū - droga
+asterū - gwiazda
 aset - miasto
-co - słowo
+cū - słowo
 prat - świat
-tete - zdanie
-meazo - zainteresowanie
-meazte - ciekawostka
-neto - dowód
-nelo - nauka
-nadete - nadzieja
-vero - faith
-abro - prawdza
-paveaste - uważność
+meanū - zainteresowanie
+meanie - ciekawostka
+smidū - dowód
+stacis - nauka
+nadū - nadzieja
+verū - faith
+avrū - prawdza
+paveasasc - uważność
 cavel - kawałek
 stedū - strona
 chadū - cień
@@ -136,7 +134,7 @@ feurū - ogień
 linū - strach
 axer - urządzenie
 chevaxer - urządzenie mobilne
-birū - ubranie
+berū - ubranie
 sauris - inteligencja 
 fincū - chwila
 medū  - środek 
@@ -144,29 +142,28 @@ lunū - księżyc
 blat - liść 
 taethis - pogoda
 miscū - spokój
-neazcitū - napięcie
+nascitū - napięcie
 drevcas - las
-liscū  - piosenka
+liscū - piosenka
+roesis - muzyka
 jeunciatū - postęp 
-steūs - dumny
-navces - drzwi
-peuse -wrócić 
+navces - drzwi 
 citcias - dworzec
-rizenetū - pochodna
+riezetū - pochodna
 egesic - całka 
 fald - pole
 adis - umysł 
 reuvgantū - telewizja
-reuvganer, RG - telewizor
-reuisis - prawo, zasada
-stacdaevū, lysū - lekcja
+reuvganer, RG, paesie - telewizor
+reues - prawo, zasada
+stacie - lekcja
 vardū - wartość 
 foc - typ, ziom, gostek
 iuces - populacja, ludność 
 iusis - ludzkość
-ceudu - problem
-danest - temat
-scit - część
+ceudū - problem
+danie - temat
+scitū - część
 scitsen - członek 
 seces - grupa
 meslejū - układ, layout
@@ -181,5 +178,5 @@ stacdan - przedmiot szkolny/uczelniany
 mald - sens
 fincū - moment chwila
 molcias - kościół
-léztach - plecak
+lastach - plecak
 besū - cena 
