@@ -1,5 +1,5 @@
-wybrać - váele
-czekać (na) - fáere (neaz) 
+vaèle, esseuce - wybrać
+fáere (nas) - czekać (na)
 vaete - zostać
 frese - usunąć
 spać - chepe
@@ -8,32 +8,26 @@ roye - brzmieć
 creye - dotknąć, dotykać
 dine - służyć
 bande - uderzyć, bić
-caùe - hauen
+caūe - hauen
 core - prowadzić
-corete, coreye
 neme - nazywać (się)
-nemte, nemeye
 caje - pokazać
 geuse - próbować
 gaete - spaść, upaść
-gade - gotować
-gadū - danie
+gade - gotować [gadū - danie]
 liczyć - alde
-leure - spalić
 niceye - zniknąć
 seumeye - pojawić się 
 cére - pytać
 thase - wystarczyć
-zaite - rozkazać/zamówić
-feje - płynąć
-fejtū - rzeka
-ruse - płynąć
-rusimū - basen
+zaete - rozkazać/zamówić
+feje - płynąć [fejtū - rzeka]
+ruse - płynąć [ruscias - basen]
 pearse - martwić się
 nave - otworzyć, otwierać
 bare - nudzić się
 paese - patrzeć, wyglądać
-vesce - mieć na myśli
+vesce - mieć na myśli, meinen
 sence - wydawać się, scheinen
 dasceye - brakować
 geare - zatrzymać
@@ -71,60 +65,56 @@ bere - nosić (ubrania)
 fade - łamać 
 canse - skończyć 
 acaure - zgadzać się, zgodzić się
-dacaure - pogodzić
+dacaure - pogodzić się
 lioacaure - pokłócić się
-zaze - jarać
 paje - jeść
 naje - pić
 faye - celeborwać
 bete - urodzić (się) 
 taste - ciąć
-liotaste - zdecydować (liotaumete - decyzja)
+lerse - zdecydować, decydować
 roche - palić
 lage - śmiać się
 axe - pracować
 prache - brać, wziąć
-tratchame -
 naspene - podarować
-dethe - nosić
-aspratche - przeprosić
+bere - nosić
+asprate - przeprosić
 frese - usunąć
 stace - uczyć 
-stacte, staceye
 caute - żyć
 gaène - mieszkać
 rove - studiować 
-tchente - wysyłać/wysłać
-jaule - życzyć (mont jaulte - życzenia) 
+thende - wysyłać/wysłać
+jaule - życzyć
 derese/nete - dostać
-tele - dzwonić
-gede - odpowiedzieć
+thele - dzwonić
+peusite - odpowiedzieć
 pede - rzucić
-fare - jechać
+ciale - jechać
 mire - umrzeć
-enathe - zabić
+nate - zabić
 gelve - lubić 
 praste - kochać
-itede - nienawidzić
+thede - nienawidzić
 chane - zmienić/zmienić się
-dare - dać
-esdare - wydać (pieniądze)
-flise -
+date - dać
+esdate - wydać (pieniądze)
+vriese - spędzać (czas)
 cheve - ruszać (się) 
 nare - słyszeć
-carnare - słuchać
-miele - spotkać się
-pece - pozwolić
-sere - stać
+narete - słuchać
+mielse - spotkać się
+ise - pozwolić
 cite - ciągnąć
 cheye - musieć
 chete - potrzebować
-leye - lać
+leūce - lać
 antane - budować
-nete - udowodnić 
-chelle - pomagać 
+smide - udowodnić 
+chelle - pomagać, pomóc
 sane - pisać
-ate (a) - uważać/myśleć (, że) 
+ate (ja) - uważać/myśleć (że) 
 gale - wiedzieć/znać
 degale - dowiedzieć się/poznać
 gane - widzieć 
@@ -132,25 +122,22 @@ saure - rozumieć
 rese - mieć
 liorese - stracić
 le - być
-mete- mieć powinność 
+mete - mieć powinność 
 dele - zostać
 nore - robić
 saye - znaczyć
-daste - chcieć
+deste - chcieć
 sete - móc
 desete - umożliwić
-ciete - iść
-seuciete - wrócić
+ciate - iść
+peuse - wrócić
 saege - używać
-seusaege - używać ponownie
-laése - leżeć
 leteye - istnieć
 letete - tworzyć
-te - powiedzieć
-ite - mówić
+ite - mówić, powiedzieć 
 cade - latać
 defaureye - zaprzyjaźnić się
-fente - znaleźć
+fende - znaleźć
 seuce - szukać
 esseuce - wybierać
 mane - umieścić / place
@@ -165,7 +152,7 @@ vere - wierzyć
 nade - mieć nadzieję
 pavease - uważać
 pede - rzucić
-gaùde - trzymać
+gaūde - trzymać
 pade - spadać
 lise - czytać
 sare - zamknąć
@@ -175,7 +162,6 @@ ciale - jechać
 sege - oglądać
 steze - sprawdzić
 roese - ratować, uratować
-sive - pomóc
 cave - wydawać się
 cape - kryć
 liocape - odkryć 
