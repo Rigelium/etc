@@ -1,4 +1,4 @@
-Particles prepositions etc.
+▶️ Particles prepositions etc.
 i - i
 det - a
 chac - ale
@@ -23,26 +23,24 @@ viscaū - może
 cod, riv - też
 jencaū - właściwie 
 valen - chyba
-reuvan - dalej
-reuv - daleki
-
+reuvan - dalej [reuv - daleki]
 avrūsenca - prawdopodobny 
 naū - jako
 naūdis - w ogóle
 michet - tylko (sondern)
 dismich - a nie
-Miscancelaneous
+▶️ Miscancelaneous
 Dis - nie
 Gen - tak
 chan - trochę
-Filler words
+▶️ Filler words
 so... - nooo...
 va.../deva.../vava... - ten teges
 deus - cóż...
 eustaū iteno - szczerze powiedziawszy
 vesciu - mam na myśli, I mean
 an saetū - w sensie 
-S'sanete seur - Descriptions of time
+▶️ S'sanete seur - Descriptions of time
 seur - czas
 ad - since / od
 nae - until / do
@@ -50,7 +48,7 @@ neu chas aúris - two weeks ago
 jeun - przed
 léz - po
 greas - teraz
-Diuvasc - Częstotliwość
+▶️ Diuvasc - Częstotliwość
 sacam - zawsze
 normaū - zazwyczaj
 diuvaū  - często
@@ -58,9 +56,9 @@ seuru - czasem
 iliaū - nigdy
 citaū - ciągle
 necaū - rzadko
-Seueces neseur - Jednostki czasu
-nogneas - dekada
-rog - rok
+▶️ Seueces neseur - Jednostki czasu
+beatpar - dekada
+beat - rok
 mesit - miesiąc 
 chascansū - weekend
 chas - tydzień 
@@ -69,14 +67,22 @@ notū - noc
 daevū - godzina
 minutū - minuta
 second - sekunda
-Mesit - miesiące
+▶️ Mesit - miesiące
 Deces - Styczeń
 Breznas - Marzec
 Cardnas - Czerwiec
-Ach niechas
+▶️ Ach niechas
 Lunnas Dinnas Chasmed Richnas Cheunas Ternas Cansces
-Beatseur - pory roku
+▶️ Beatseur - pory roku
 vencū - wiosna
-lincū -
-blatnas -
-lances - zima 
+lincū - lato
+blatnas - jesień
+lances - zima
+▶️ Pozdrowienia
+Tauv ach ! - Dzień dobry!
+Tauv nottot ! - Dobranoc! 
+Nae s'miels ! - Do widzenia! 
+Asprathiu, sprathiu - przepraszam
+Giriu/gir's - dziękuję/dzięki
+Cae ! - Hej! 
+Samot tauvas ! - Wszystkiego najlepszego! 
