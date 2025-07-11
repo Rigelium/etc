@@ -1,4 +1,4 @@
-Particles prepositions etc.
+▶️ Particles prepositions etc.
 i - i
 det - a
 chac - ale
@@ -68,11 +68,23 @@ daevū - godzina
 minutū - minuta
 second - sekunda
 ▶️ Mesit - miesiące
-Deces - Styczeń
-Breznas - Marzec
-Cardnas - Czerwiec
+deces - styczeń
+dreusnas - luty
+breznas - narzec
+cevitces - kwiecień
+mayus - maj
+cardnas - czerwiec
+julie - lipiec
+
+
 ▶️ Ach niechas
-Lunnas Dinnas Chasmed Richnas Cheunas Ternas Cansces
+lunnas - poniedziałek
+dinnas - wtorek
+chasmed - środa
+richnas - czwartek
+gaurnas - piątek
+thernas - sobota
+cansces - niedziela
 ▶️ Beatseur - pory roku
 vencū - wiosna
 lincū - lato
@@ -85,7 +97,7 @@ Nae s'miels ! - Do widzenia!
 Asprathiu, sprathiu - przepraszam
 Giriu/gir's - dziękuję/dzięki
 Cae ! - Hej! 
-Samot tauvas ! - Wszystkiego najlepszego!
+Samot tauvas ! - Wszystkiego najlepszego! 
 ▶️ Prepositions
 alt - ponad
 tev - pod
@@ -97,8 +109,12 @@ casp - poza
 tac - obok
 reues - prawo
 lenc - lewo
+asū - góra
+as - na górze czegoś
+utū - dół
+ut - na dole
 
-an    ¦ en     ¦ es   -     w 
+an   ¦ en     ¦ es   -    w 
 éz    ¦ nas   ¦ zén -     na (horizontal)
 az    ¦ nas   ¦ zan -     na (vertical) 
-vé    ¦ vas   ¦ zav -      przy
+vé    ¦ vas   ¦ zav -      przy 
