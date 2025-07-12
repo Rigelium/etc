@@ -84,7 +84,8 @@ frese - usunąć
 stace - uczyć 
 caute - żyć
 gaène - mieszkać
-rove - studiować 
+rove - studiować
+galete - informować 
 thende - wysyłać/wysłać
 jaule - życzyć
 derese/nete - dostać
@@ -147,7 +148,7 @@ esplice - wytłumaczyć, tłumaczyć
 ceame - czuć / odczuwać
 este - wyjść, przestać
 seane - wygrać
-meaze - interesować ciekawić
+meane - interesować ciekawić
 vere - wierzyć
 nade - mieć nadzieję
 pavease - uważać
@@ -164,4 +165,7 @@ steze - sprawdzić
 roese - ratować, uratować
 cave - wydawać się
 cape - kryć
-liocape - odkryć 
+liocape - odkryć
+crade - porządkować, ordnen [vascrade - zurodnen]
+dreuse - mrozić
+breuse - nacisnąć, przycisnąć [przycisk - breusnas] 
