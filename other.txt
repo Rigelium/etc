@@ -3,13 +3,13 @@ i - i
 det - a
 chac - ale
 meas - nawet
-ém - dla
-or - już
+em - dla
+o - już
 je - jeszcze
 umae - znowu
 maès - nadal
-aúris - o (about a topic)
-arys - tylko
+aūris - o (about a topic)
+aris, ac - tylko
 aval - prawie
 pris - czy?
 mich - zamiast
@@ -17,36 +17,36 @@ acos - pomimo
 ceunaū - właściwie/eigentlich
 avies - przeciw, przeciwko
 rean - wobec
-noe - przez
+no - przez
 id - bez
 viscaū - może
 cod, riv - też
-jencaū - właściwie 
 valen - chyba
 reuvan - dalej [reuv - daleki]
-avrūsenca - prawdopodobny 
+avresenca - prawdopodobny 
 naū - jako
 naūdis - w ogóle
 michet - tylko (sondern)
 dismich - a nie
+for - według
 ▶️ Miscancelaneous
 Dis - nie
 Gen - tak
 chan - trochę
 ▶️ Filler words
 so... - nooo...
-va.../deva.../vava... - ten teges
+da.../dava...- ten teges
 deus - cóż...
 eustaū iteno - szczerze powiedziawszy
 vesciu - mam na myśli, I mean
-an saetū - w sensie
+an saetū - w sensie 
 ▶️ S'sanete seur - Descriptions of time
 seur - czas
 ad - since / od
 nae - until / do
-neu chas aúris - two weeks ago
+neu chas aūris - two weeks ago
 jeun - przed
-léz - po
+las - po
 greas - teraz
 ▶️ Diuvasc - Częstotliwość
 sacam - zawsze
@@ -70,13 +70,11 @@ second - sekunda
 ▶️ Mesit - miesiące
 deces - styczeń
 dreusnas - luty
-breznas - narzec
+breznas - marzec
 cevitces - kwiecień
 mayus - maj
 cardnas - czerwiec
 julie - lipiec
-
-
 ▶️ Ach niechas
 lunnas - poniedziałek
 dinnas - wtorek
@@ -112,9 +110,16 @@ lenc - lewo
 asū - góra
 as - na górze czegoś
 utū - dół
-ut - na dole
 
-an   ¦ en     ¦ es   -    w 
-éz    ¦ nas   ¦ zén -     na (horizontal)
-az    ¦ nas   ¦ zan -     na (vertical) 
-vé    ¦ vas   ¦ zav -      przy 
+an    ¦ en    ¦ es  -    w 
+éz    ¦ nas   ¦ zén -    na (horizontal)
+az    ¦ nas   ¦ zan -    na (vertical) 
+vé    ¦ vas   ¦ zav -    przy 
+▶️ Ilość
+dużo - geu
+więcej - geun
+najwięcej - ceus
+mało - mieu
+mniej - mieun
+najmniej - mieus
+camies - kilka 
