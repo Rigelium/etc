@@ -92,6 +92,8 @@ pomodorū - pomidor
 sausū - sos
 leūcic, supū - zupa
 onen - cebula 
+. 
+. 
 ▶️ Caenid - Bez kategorii
 caèlū - niebo
 geulū - piekło
@@ -117,7 +119,7 @@ aset - miasto
 cū - słowo
 prat - świat
 meanū - zainteresowanie
-meanie - ciekawostka
+meanoc - ciekawostka
 smidū - dowód
 stacis - nauka
 nadū - nadzieja
@@ -179,4 +181,5 @@ mald - sens
 fincū - moment chwila
 molcias - kościół
 lastach - plecak
-besū - cena 
+besū - cena
+danse - wiązać [zadansae - powiązany] 
