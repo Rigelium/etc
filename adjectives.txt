@@ -8,7 +8,7 @@ nec - biały
 cieur - czarny 
 neuv - ciemny
 ran - jasny 
-▶️ id vassanu
+# `▶️` Id vassanū 
 para - odpowiedni, poprawny
 tauv - dobry  [teuv teuven teuvas] 
 fam - zły
@@ -75,4 +75,13 @@ smienc - miły
 sagala - oczywisty
 cejvesca - szczególny (besonders)
 cejnasa - szczegółowy
-navvesca - publiczny 
+steūs - dumny
+navvesca - publiczny
+raud - gruby
+sund - szeroki
+dies - wąski
+blec - gęsty
+neca - rzadki
+diuva - częsty
+meū - ciepły
+gath - gorący
