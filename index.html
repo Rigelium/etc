@@ -47,6 +47,7 @@
           const lines = text.split('\n');
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
           console.log(matches.length);
+adjAmount = matches.length;
           if (matches.length > 0) {
             resultsContainer.textContent = matches.join('\n');
           } else {
