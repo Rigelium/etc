@@ -11,8 +11,8 @@ mamū - mama
 papū - tata
 babū - babcia
 dadū - dziadek
-thatic - ciocia
-vusic - wujek
+thantic - ciocia
+gachoc - wujek
 stacsen - nauczyciel
 rovsen - wykładowca
 rovas - student
@@ -63,6 +63,7 @@ Ameriecū - Ameryka [Ameriecam - amerykański]
 ▶️ Formū i casvauris - Kształty i geometria
 koło - bear
 kwadrat - rens 
+
 ▶️ Antanoc - Materiały
 aezoc - metal [aezuc - metalowy]
 drevoc - drewno
@@ -79,6 +80,7 @@ reul - twarz
 ram - ręka
 ceurs - dłoń
 leb - stopa 
+tothū - szyja
 ▶️ Itgalis i itstacis - lingwistyka i nauka języków
 itū - język
 cū - słowo
@@ -179,4 +181,6 @@ mald - sens
 fincū - moment chwila
 molcias - kościół
 lastach - plecak
-besū - cena 
+besū - cena
+jaènū - światło
+
