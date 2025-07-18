@@ -154,7 +154,6 @@ galete - informować
 thende - wysyłać/wysłać
 jaule - życzyć
 derese/nete - dostać
-thele - dzwonić
 peusite - odpowiedzieć
 pede - rzucić
 ciale - jechać
@@ -178,3 +177,16 @@ chete - potrzebować
 leūce - lać
 antane - budować
 smide - udowodnić
+scache - dzwonić
+gite - wołać
+jeure - chodzić, spacerować
+seave - 
+gaèle
+baete - piec
+cece - falować, chwiać się
+sisceate
+jaèpe
+naetieme
+geuede
+chwycić
+podnieść
