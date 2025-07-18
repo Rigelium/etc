@@ -31,10 +31,11 @@
   <pre id="results" style="margin-left: 15px;">...</pre>
   <h3 id="idcategoris">➡️ ID CATEGORIS</h3>
   <pre id="other" style="margin-left: 15px;">...</pre>
+<h3 id="latheno">...</h3>
 
   <script>
     function searchText() {
-      let adjAmount, verbAmount, nounAmount, otherAmount = 0;
+      let adjAmount, verbAmount, nounAmount, otherAmount, sumAmount = 0;
       const keyword = document.getElementById('search-input').value.toLowerCase();
       const resultsContainer = document.getElementById('results');
       const verbsContainer = document.getElementById('verbs');
@@ -102,6 +103,8 @@
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
  otherAmount = matches.length;
           document.getElementById("idcategoris").textContent = "➡️ ID CATEGORIS " + "(" + String(otherAmount) + " esdatū)";
+          sumAmount = adjAmount + verbAmount + nounAmount + otherAmount;
+           document.getElementById("latheno").textContent = "Latheno vele " + String(sumAmount) + " esdatū)";
           if (matches.length > 0) {
             otherContainer.textContent = matches.join('\n');
           } else {
@@ -112,6 +115,7 @@
           otherContainer.textContent = 'Error loading file.';
           console.error(error);
         });
+      
     }
 window.onload = searchText();
   </script>
