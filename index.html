@@ -27,13 +27,14 @@
   <pre id="verbs" style="margin-left: 15px;">...</pre>
   <h3>➡️ DANNAS</h3>
   <pre id="nouns" style="margin-left: 15px;">...</pre>
-  <h3>➡️ SANETNAS</h3>
+  <h3 id="sanetnas">➡️ SANETNAS</h3>
   <pre id="results" style="margin-left: 15px;">...</pre>
   <h3>➡️ ID CATEGORIS</h3>
   <pre id="other" style="margin-left: 15px;">...</pre>
 
   <script>
     function searchText() {
+      let adjAmount = 0;
       const keyword = document.getElementById('search-input').value.toLowerCase();
       const resultsContainer = document.getElementById('results');
       const verbsContainer = document.getElementById('verbs');
@@ -48,6 +49,7 @@
 
           if (matches.length > 0) {
             resultsContainer.textContent = matches.join('\n');
+            adjAmount++;
           } else {
             resultsContainer.textContent = '';
           }
@@ -107,6 +109,7 @@
           otherContainer.textContent = 'Error loading file.';
           console.error(error);
         });
+document.getElementById("sanetnas").textContent = "➡️ SANETNAS " + "(" + adjAmount + "esdatū)";
     }
 window.onload = searchText();
   </script>
