@@ -11,9 +11,12 @@
  function verbs() {
   let words = [""];
   const vowels = ['a','a','a','a', 'a', 'e','e','e','e','e','e', 'o', 'au', 'eu', 'eu', 'ae', 'ae', 'ea', 'ea', 'u', 'u', 'eue', 'aè', 'aè', 'i', 'i', 'i', 'ie', 'ie' ];
-  const initCons = ['b', '','','','','','','','','','','','','','','',''];
-  const finalCons = [""];
-  document.getElementById("Words").textContent = vowels[Math.floor(Math.random()*29)];
+  const initCons = ['b', 'c','d','f','g','j','l','m','n','p','r','s','t','v','z'];
+  const finalCons = ['b', 'c','d','f','g','j','l','m','n','p','r','s','t','v','z'];
+  for (let i = 0; i < 5; i++){
+   words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "e"; 
+  }
+  document.getElementById("Words").textContent = words;
  }
 </script>
 </body>
