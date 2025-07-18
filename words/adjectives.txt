@@ -94,3 +94,5 @@ neat - uporządkowany, aufgeräumt
 laès - młody
 driec - stary
 feal - wolny, frei
+baèn - biedny
+naes - bogaty
