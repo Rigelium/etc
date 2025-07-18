@@ -29,7 +29,7 @@ necheas, nes - następny
 pag - póżny
 ches - wczesny
 laes - ostatni
-preva - poprzedni
+laèga - poprzedni
 gels - mały
 nog - duży
 eges - cały
@@ -50,7 +50,7 @@ setra - dawny
 pata - tani
 vasca - fałszywy
 ciana - wspólny
-thag - darmowy 
+thag, chardid - darmowy 
 pra - nowy
 sauj - podobny
 cej - dokładnie, ceja - dokładny
@@ -90,5 +90,7 @@ bond - mądry
 gaen - głośny
 fiech - prosty (np. linia)
 raf - czysty
-laès
-driec 
+neat - uporządkowany, aufgeräumt
+laès - młody
+driec - stary
+feal - wolny, frei
