@@ -103,8 +103,6 @@
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
  otherAmount = matches.length;
           document.getElementById("idcategoris").textContent = "➡️ ID CATEGORIS " + "(" + String(otherAmount) + " esdatū)";
-          //sumAmount = adjAmount + verbAmount + nounAmount + otherAmount;
-           //document.getElementById("latheno").textContent = "Latheno vele " + String(sumAmount) + " esdatū";
           if (matches.length > 0) {
             otherContainer.textContent = matches.join('\n');
           } else {
@@ -115,7 +113,8 @@
           otherContainer.textContent = 'Error loading file.';
           console.error(error);
         });
-      
+      sumAmount = adjAmount + verbAmount + nounAmount + otherAmount;
+          document.getElementById("latheno").textContent = "Latheno vele " + String(sumAmount) + " esdatū";
     }
 window.onload = searchText();
   </script>
