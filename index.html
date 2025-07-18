@@ -56,7 +56,7 @@
           console.error(error);
         });
       
-      fetch('verbs.txt')  // Adjust path if your .txt file is elsewhere
+      fetch('words/verbs.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
         .then(text => {
           const lines = text.split('\n');
@@ -73,7 +73,7 @@
           console.error(error);
         });
 
-      fetch('nouns.txt')  // Adjust path if your .txt file is elsewhere
+      fetch('words/nouns.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
         .then(text => {
           const lines = text.split('\n');
@@ -90,7 +90,7 @@
           console.error(error);
         });
       
-       fetch('other.txt')  // Adjust path if your .txt file is elsewhere
+       fetch('words/other.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
         .then(text => {
           const lines = text.split('\n');
