@@ -63,12 +63,14 @@ Eūropeasam Unis - Unia Europejska
 Ameriecū - Ameryka [Ameriecam - amerykański] 
 ▶️ Maèv i casvauris - Kształty i geometria
 bear - koło
+vaèzū - okrąg [vaèza - okrągły, vaèze - krążyć]
 rens - kwadrat
 pad - kąt
 dacpadnas - trójkát
 reuespadnas - prostokąt
 maètū - patyk, sztanga
-neath 
+neath - linia, wstęga, wstążka
+caèd - kula
 ▶️ Antanoc - Materiały
 aezoc - metal [aezuc - metalowy]
 drevoc - drewno
@@ -90,6 +92,7 @@ tothū - szyja
 itū - język
 cū - słowo
 menas - litera 
+vescie - zdanie
 ▶️ Axer - urządzenia
 scachnas - telefon
 dreusie - zamrażarka
@@ -111,7 +114,9 @@ thae - herbata
 ▶️ Andan - Meble
 sedie - krzesło
 chibū - stół
-
+seavces - szuflada
+lejces - łóżko
+lejnas - leżak
 ▶️ Caenid - Bez kategorii
 caèlū - niebo
 geulū - piekło
@@ -204,6 +209,7 @@ jaènū - światło
 taèjū - fakt
 rafmaètū - miotła
 drasnas - komputer
+dag - raz, mal
 nutaèrū -
 gadeur - 
 neaūl - futro
