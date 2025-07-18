@@ -6,17 +6,22 @@
 </head>
 <body>
 <button onclick="verbs()">Reumnas</button>
-<pre id="Words">...<pre>
+<p>Seuesilba cont</p>
+<pre id="1s">...<pre>
+<p>Neusilba cont</p>
+<pre id="2s">...<pre>
 <script>
  function verbs() {
   let words = [""];
+  let wordsStr = '';
   const vowels = ['a','a','a','a', 'a', 'e','e','e','e','e','e', 'o', 'au', 'eu', 'eu', 'ae', 'ae', 'ea', 'ea', 'u', 'u', 'eue', 'aè', 'aè', 'i', 'i', 'i', 'ie', 'ie' ];
   const initCons = ['b', 'c','d','f','g','j','l','m','n','p','r','s','t','v','z'];
   const finalCons = ['b', 'c','d','f','g','j','l','m','n','p','r','s','t','v','z'];
   for (let i = 0; i < 5; i++){
    words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "e"; 
+   wordsStr = wordsStr + words[i] + " "
   }
-  document.getElementById("Words").textContent = words;
+  document.getElementById("1s").textContent = wordsStr;
  }
 </script>
 </body>
