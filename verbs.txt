@@ -18,6 +18,71 @@ gade - gotować [gadū - danie]
 liczyć - alde
 niceye - zniknąć
 seumeye - pojawić się 
+chele - pomagać, pomóc
+sane - pisać
+ate (ja) - uważać/myśleć (że) 
+gale - wiedzieć/znać
+degale - dowiedzieć się/poznać
+gane - widzieć 
+saure - rozumieć 
+rese - mieć
+liorese - stracić
+le - być
+mete - mieć powinność 
+dele - zostać
+nore - robić
+saye - znaczyć
+deste - chcieć
+sete - móc
+desete - umożliwić
+ciate - iść
+peuse - wrócić
+saege - używać
+leteye - istnieć
+letete - tworzyć
+ite - mówić, powiedzieć 
+cade - latać
+defaureye - zaprzyjaźnić się
+fende - znaleźć
+seuce - szukać
+esseuce - wybierać
+mane - umieścić / place
+cire - zgadnąć, zgadywać
+mice - tulić
+esplice - wytłumaczyć, tłumaczyć
+ceame - czuć / odczuwać
+este - wyjść, przestać
+seane - wygrać
+meane - interesować ciekawić
+vere - wierzyć
+nade - mieć nadzieję
+pavease - uważać
+pede - rzucić
+gaūde - trzymać
+pade - spadać
+lise - czytać
+sare - zamknąć
+rase - przerwać
+roele - kierować
+ciale - jechać
+sege - oglądać
+steze - sprawdzić
+roese - ratować, uratować
+cave - wydawać się
+cape - kryć
+liocape - odkryć
+crade - porządkować, ordnen [vascrade - zurodnen]
+dreuse - mrozić
+breuse - nacisnąć, przycisnąć [przycisk - breusnas]
+naceye - obudzić się [nac - obudzony, na jawie]
+nacete - obudzić
+sabe - zepsuć się [liosabe - naprawić, sabae - zepsuty]
+vame - rządzić
+linte - spieszyć się
+lande - skakać
+minte - głaskać
+lieve - ufać
+danse - wiązać [zadansae - powiązany] 
 cére - pytać
 thase - wystarczyć
 zaete - rozkazać/zamówić
@@ -112,60 +177,4 @@ cheye - musieć
 chete - potrzebować
 leūce - lać
 antane - budować
-smide - udowodnić 
-chelle - pomagać, pomóc
-sane - pisać
-ate (ja) - uważać/myśleć (że) 
-gale - wiedzieć/znać
-degale - dowiedzieć się/poznać
-gane - widzieć 
-saure - rozumieć 
-rese - mieć
-liorese - stracić
-le - być
-mete - mieć powinność 
-dele - zostać
-nore - robić
-saye - znaczyć
-deste - chcieć
-sete - móc
-desete - umożliwić
-ciate - iść
-peuse - wrócić
-saege - używać
-leteye - istnieć
-letete - tworzyć
-ite - mówić, powiedzieć 
-cade - latać
-defaureye - zaprzyjaźnić się
-fende - znaleźć
-seuce - szukać
-esseuce - wybierać
-mane - umieścić / place
-cire - zgadnąć, zgadywać
-mice - tulić
-esplice - wytłumaczyć, tłumaczyć
-ceame - czuć / odczuwać
-este - wyjść, przestać
-seane - wygrać
-meane - interesować ciekawić
-vere - wierzyć
-nade - mieć nadzieję
-pavease - uważać
-pede - rzucić
-gaūde - trzymać
-pade - spadać
-lise - czytać
-sare - zamknąć
-rase - przerwać
-roele - kierować
-ciale - jechać
-sege - oglądać
-steze - sprawdzić
-roese - ratować, uratować
-cave - wydawać się
-cape - kryć
-liocape - odkryć
-crade - porządkować, ordnen [vascrade - zurodnen]
-dreuse - mrozić
-breuse - nacisnąć, przycisnąć [przycisk - breusnas] 
+smide - udowodnić
