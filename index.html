@@ -31,8 +31,6 @@
   <pre id="results" style="margin-left: 15px;">...</pre>
   <h3 id="idcategoris">➡️ ID CATEGORIS</h3>
   <pre id="other" style="margin-left: 15px;">...</pre>
-<h3 id="latheno">...</h3>
-<pre>coū aūris vez cū an eges itū</pre>
   <script>
     function searchText() {
       let adjAmount, verbAmount, nounAmount, otherAmount, sumAmount = 0;
@@ -113,8 +111,6 @@
           otherContainer.textContent = 'Error loading file.';
           console.error(error);
         });
-      sumAmount = adjAmount + verbAmount + nounAmount + otherAmount;
-          document.getElementById("latheno").textContent = "Latheno vele " + String(sumAmount) + " esdatū";
     }
 window.onload = searchText();
   </script>
