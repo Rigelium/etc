@@ -7,6 +7,7 @@
 <body>
 <img src="etcesflag.png" style="width: 100%; height: 25px;" alt="flag">
 <button onclick="verbs()">Reumnas</button>
+<button onclick="adjectives()">Sanetnas</button>
 <h2>SEUESILBA CONT</h2>
 <p id="1s" style="font-size: 10px">...</p>
 <h2>NEUSILBA CONT</h2>
@@ -26,6 +27,24 @@
   wordsStr = "";
     for (let i = 0; i < 30; i++){
    words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] +initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "e"; 
+   wordsStr = wordsStr + words[i] + " ";
+  }
+  document.getElementById("2s").textContent = wordsStr;
+ }
+ function adjectives() {
+  let words = [""];
+  let wordsStr = '';
+  const vowels = ['a','a','a','a', 'a', 'e','e','e','e','e','e', 'o', 'au', 'eu', 'eu', 'ae', 'ae', 'ea', 'ea', 'u', 'u', 'eue', 'aè', 'aè', 'i', 'i', 'i', 'ie', 'ie' ];
+  const initCons = ['b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z','b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z', 'pr','dr','cr','vr','st','sc','sm', 'gl', "th", "th", "sp", "ch", "ch", "ch"];
+  const finalCons = ['b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z', 'y', 'y', 't', "th", "th", "ch", "ch"];
+  for (let i = 0; i < 50; i++){
+   words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)]; 
+   wordsStr = wordsStr + words[i] + " ";
+  }
+  document.getElementById("1s").textContent = wordsStr;
+  wordsStr = "";
+    for (let i = 0; i < 30; i++){
+   words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] +initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)]; 
    wordsStr = wordsStr + words[i] + " ";
   }
   document.getElementById("2s").textContent = wordsStr;
