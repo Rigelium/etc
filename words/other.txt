@@ -16,6 +16,7 @@ mich - zamiast
 acos - pomimo
 ceunaū - właściwie/eigentlich
 naezaū - właśnie (w tym momencie)
+son - za (np. za coś płacić)
 avies - przeciw, przeciwko
 rean - wobec
 no - przez
@@ -72,9 +73,10 @@ chas - tydzień
 ach - dzień
 notū - noc
 daevū - godzina
-minutū - minuta
-second - sekunda
+daèzog - minuta
+naèdit - sekunda
 jasaèlū - jutro
+pralies - wczoraj
 ▶️ Mesit - miesiące
 deces - styczeń
 dreusnas - luty
