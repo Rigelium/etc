@@ -39,7 +39,7 @@
       const nounsContainer = document.getElementById('nouns');
       const otherContainer = document.getElementById('other');
 
-      fetch('adjectives.txt')  // Adjust path if your .txt file is elsewhere
+      fetch('words/adjectives.txt')  // Adjust path if your .txt file is elsewhere
         .then(response => response.text())
         .then(text => {
           const lines = text.split('\n');
