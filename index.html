@@ -47,7 +47,8 @@
           const lines = text.split('\n');
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
           console.log(matches.length);
-adjAmount = matches.length;
+          adjAmount = matches.length;
+          document.getElementById("sanetnas").textContent = "➡️ SANETNAS " + "(" + String(adjAmount) + " esdatū)"; //HEREEEEEEEEEEEEEEEEEEE
           if (matches.length > 0) {
             resultsContainer.textContent = matches.join('\n');
           } else {
@@ -109,7 +110,6 @@ adjAmount = matches.length;
           otherContainer.textContent = 'Error loading file.';
           console.error(error);
         });
-document.getElementById("sanetnas").textContent = "➡️ SANETNAS " + "(" + String(adjAmount) + "esdatū)";
     }
 window.onload = searchText();
   </script>
