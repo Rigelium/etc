@@ -19,6 +19,17 @@ rovas - student
 stacas - uczeń
 senoc - osoba 
 cianis - społeczeństwo
+▶️ Degitū - zawody
+rocsen - kasjer
+liosmetas - sprzedawca
+baetas - piekarz
+beucgaūdas - księgowy [Beucgaūdis - księgowość]
+maūtsen - śmieciarz
+neatsen - sprzątaczka
+reutas - badacz
+atas - filozof, myśliciel
+gadas - kucharz
+chelas - pomocnik, asystent
 ▶️ Eucmantū - transport
 citū - pociąg
 bus, dauvas - autobus
@@ -28,6 +39,7 @@ gearcias - przystanek
 citcias - dworzec kolejowy
 buscias - dworzec autobusowy
 cialie - bilet 
+tag - statek, Schiff
 ▶️ GEDONT - PAŃSTWA
 Etcas - Eteja
 Polencas - Polska [Polen/Polences - polski]
@@ -71,14 +83,15 @@ reuespadnas - prostokąt
 maètū - patyk, sztanga
 neath - linia, wstęga, wstążka
 caèd - kula
-▶️ Antanoc - Materiały
+▶️ Antoc - Materiały
 aezoc - metal [aezuc - metalowy]
 drevoc - drewno
 cunstoc - plastic
 linsoc - papier
 cidroc - wodór
 oxegoc - tlen 
-▶️ Części ciała
+▶️ Scitū nereusaèt - Części ciała
+reusaèt - ciało
 galf - głowa
 adnas - mózg
 paeser/sem - oko, oczy
@@ -101,9 +114,11 @@ baetie - piekarnik
 ▶️ Pajū - jedzenie
 aemū  - jabłko
 reuet - gruszka
+lestaèj - brzoskwinia
 prean - mąka
+preanneath - makaron
 mius - mleko
-braut - chleb
+thig - chleb
 voedū - woda
 pomodorū - pomidor
 sausū - sos
@@ -162,7 +177,7 @@ chevaxer - urządzenie mobilne
 berū - ubranie
 sauris - inteligencja 
 fincū - chwila
-medū  - środek 
+medū  - środek, centrum
 scaèt - księżyc 
 blat - liść 
 taethis - pogoda
@@ -205,11 +220,37 @@ fincū - moment chwila
 molcias - kościół
 lastach - plecak
 besū - cena
-jaènū - światło
+taedū - światło
 taèjū - fakt
 rafmaètū - miotła
 drasnas - komputer
 dag - raz, mal
-nutaèrū -
-gadeur - 
+atoc - fakt
+paesoc - film
+jeurnas - chodnik
+jeurcas - podłoga
+astevū - sufit
 neaūl - futro
+vamū - władza
+vamis - rząd
+vamsen - władca
+saèlcias - toaleta
+gadcias - kuchnia
+thezū - gość
+theznitū - salon, duży pokój
+jacaèd - półkula, miska
+vaèzezū - talerz
+aznas - ściana
+gaèz - kosmos
+gaèztag - statek kosmiczny, rakieta
+theue - kamień
+ciansaurū - umowa, Vertrag
+roc - lada, sklep
+smetcias - sklep
+smetroc - kasa
+fraen - prąd
+senur - kabel
+paèd - przestrzeń
+laet -
+nutaèrū - 
+gadeur - 
