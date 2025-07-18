@@ -55,7 +55,7 @@
   let wordsStr = '';
   const vowels = ['a','a','a','a', 'a', 'e','e','e','e','e','e', 'o', 'au', 'eu', 'eu', 'ae', 'ae', 'ea', 'ea', 'u', 'u', 'eue', 'aè', 'aè', 'i', 'i', 'i', 'ie', 'ie' ];
   const initCons = ['b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z','b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z', 'pr','dr','cr','vr','st','sc','sm', 'gl', "th", "th", "sp", "ch", "ch", "ch"];
-  const finalCons = ['b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z', 't' 't', "th", "th", "ch", "ch"];
+  const finalCons = ['b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z', 't', 't', "th", "th", "ch", "ch"];
   for (let i = 0; i < 50; i++){
    words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "ū"; 
    wordsStr = wordsStr + words[i] + " ";
