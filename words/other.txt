@@ -15,6 +15,7 @@ pris - czy?
 mich - zamiast
 acos - pomimo
 ceunaū - właściwie/eigentlich
+naezaū - właśnie (w tym momencie)
 avies - przeciw, przeciwko
 rean - wobec
 no - przez
@@ -29,10 +30,7 @@ naūdis - w ogóle
 michet - tylko (sondern)
 dismich - a nie
 for - według
-▶️ Miscancelaneous
-Dis - nie
-Gen - tak
-chan - trochę
+ec - jakby, jak gdyby
 ▶️ Filler words
 so... - nooo...
 da.../dava...- ten teges
@@ -48,6 +46,15 @@ neu chas aūris - two weeks ago
 jeun - przed
 las - po
 greas - teraz
+ranach - dzień (jako pora dnia)
+chesnoc - rano
+jeunjūach - przedpołudnie
+jeun'ach - południe
+lasjūach - popołudnie
+jeunnotū - wieczór
+notū - noc
+raen - zaraz
+gevetū - jutro
 ▶️ Diuvasc - Częstotliwość
 sacam - zawsze
 normaū - zazwyczaj
@@ -67,6 +74,7 @@ notū - noc
 daevū - godzina
 minutū - minuta
 second - sekunda
+jasaèlū - jutro
 ▶️ Mesit - miesiące
 deces - styczeń
 dreusnas - luty
@@ -95,7 +103,7 @@ Nae s'miels ! - Do widzenia!
 Asprathiu, sprathiu - przepraszam
 Giriu/gir's - dziękuję/dzięki
 Cae ! - Hej! 
-Samot tauvas ! - Wszystkiego najlepszego! 
+Tauveas samot ! - Wszystkiego najlepszego! 
 ▶️ Prepositions
 alt - ponad
 tev - pod
@@ -123,3 +131,8 @@ mało - mieu
 mniej - mieun
 najmniej - mieus
 camies - kilka 
+▶️ Miscancelaneous
+Dis - nie
+Gen - tak
+chan - trochę
+veus - bardzo
