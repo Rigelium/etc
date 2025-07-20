@@ -40,6 +40,7 @@ citcias - dworzec kolejowy
 buscias - dworzec autobusowy
 cialie - bilet 
 tag - statek, Schiff
+cadas - samolot
 ▶️ GEDONT - PAŃSTWA
 Etcas - Eteja
 Polencas - Polska [Polen/Polences - polski]
@@ -83,6 +84,9 @@ reuespadnas - prostokąt
 maètū - patyk, sztanga
 neath - linia, wstęga, wstążka
 caèd - kula
+glaèd - słup
+caèc - lina
+caūn (fiech) - linia (prosta)
 ▶️ Antoc - Materiały
 aezoc - metal [aezuc - metalowy]
 drevoc - drewno
@@ -92,8 +96,8 @@ cidroc - wodór
 oxegoc - tlen 
 ▶️ Scitū nereusaèt - Części ciała
 reusaèt - ciało
-galf - głowa
-adnas - mózg
+galvū - głowa
+atnas - mózg
 paeser/sem - oko, oczy
 recas - nos
 reul - twarz
@@ -101,6 +105,12 @@ ram - ręka
 ceurs - dłoń
 leb - stopa 
 tothū - szyja
+saèv - włosy
+smig - paznokcie
+tevoc - tyłek
+taez - noga
+um - palec
+reuzoc - mięśnie
 ▶️ Itgalis i itstacis - lingwistyka i nauka języków
 itū - język
 cū - słowo
@@ -115,8 +125,11 @@ baetie - piekarnik
 aemū  - jabłko
 reuet - gruszka
 lestaèj - brzoskwinia
+nutaèr - banan
 prean - mąka
 preanneath - makaron
+paūth - ciasto
+paūthie - ciastko, ciasteczko
 mius - mleko
 thig - chleb
 voedū - woda
@@ -126,28 +139,33 @@ leūcic, supū - zupa
 onen - cebula 
 cavie - kawa
 thae - herbata
-▶️ Andan - Meble
+sal - sól
+▶️ Andan i auta dan an sonū - Meble i inne rzeczy w domu
 sedie - krzesło
 chibū - stół
 seavces - szuflada
 lejces - łóżko
 lejnas - leżak
+gathetas - kaloryfer
+taedie - lampa
+stuvces - kontakt
+nopaesū - okno
 ▶️ Caenid - Bez kategorii
 caèlū - niebo
-geulū - piekło
+ceulū - piekło
 itū - język/mowa
 nemū - imię/nazwa
 beat - rok
 pres - sposób
 seur - czas
-sintū - powód
-nivū - poziom
+sint - powód
+lejvisū - poziom
 nitū - pokój
 cheftū - ruch
 ach - dzień
 man - miejsco
 gedū - państwo
-garo - kraj
+cas - kraj, ziemia
 chardie - pieniądze
 dan - rzecz
 sonū - dom
@@ -180,7 +198,7 @@ fincū - chwila
 medū  - środek, centrum
 scaèt - księżyc 
 blat - liść 
-taethis - pogoda
+caspis - pogoda
 miscū - spokój
 nascitū - napięcie
 drevcas - las
@@ -250,7 +268,26 @@ smetcias - sklep
 smetroc - kasa
 fraen - prąd
 senur - kabel
+gaūlie - ładowarka
+stuvnas - wtyczka 
 paèd - przestrzeń
-laet -
-nutaèrū - 
-gadeur - 
+notcias - hotel
+reuznas - silnik
+loen - słońce
+laet - warstwa
+nacnas - budzik
+raètū - zdrowie
+cethū - żart 
+teazū - wstyd [teazeye - wstydzić się]
+sield - pas, pasmo, streifen
+smentū - lek
+smencias - apteka
+smenciassen - aptekarz
+smienas - lekarz
+dietū - zasada
+gadeur - toaleta
+atoc - pomysł
+speuftū - duch 
+zél - dusza
+cathū - cel [cathe - celować]
+peusitis - odpowiedzialność
