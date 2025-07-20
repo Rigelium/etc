@@ -1,6 +1,6 @@
 ▶️ kolory - coleur
-violet
-nox - niebieski
+violet - fioletowy
+neux - niebieski
 cheld - zielony
 nab - żółty
 bras - pomarańczowy
@@ -29,7 +29,7 @@ necheas, nes - następny
 pag - póżny
 ches - wczesny
 laes - ostatni
-laèga - poprzedni
+laèg - poprzedni
 gels - mały
 nog - duży
 eges - cały
@@ -44,6 +44,7 @@ jal - smutny
 fand - ważny
 norna - do zrobienia
 ilverna - niewiarygodny
+ilversat - małowierny
 saurna - zrozumiały
 eusta - szczery
 setra - dawny
@@ -52,15 +53,14 @@ vasca - fałszywy
 ciana - wspólny
 thag, chardid - darmowy 
 pra - nowy
-sauj - podobny
+vrav - podobny
 cej - dokładnie, ceja - dokładny
 gar - ładny
 sen - sam, samemu
-vraes - pewny [vraesaū - prawdopodobnie, pewnie]
+vraes - pewny [vraesaū - na pewno, pewnie]
 smeca - smaczny
 lan - zimny
 valen, led - wolny
-avresenca - prawdopodobny
 nej - niski
 suvena - piękny
 fardae - zmęczony
@@ -96,3 +96,8 @@ driec - stary
 feal - wolny, frei
 baèn - biedny
 naes - bogaty
+savron - niesamowity, awesome
+caèder - żałosny
+noeca - przyjemny
+autsenca - alternatywny
+sevota - wzajemny [sevotaū - nawzajem]
