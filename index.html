@@ -113,6 +113,14 @@
         });
     }
 window.onload = searchText();
+    const input = document.getElementById("input");
+
+        // Add event listener for keydown
+        input.addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                searchText();
+            }
+        });
   </script>
 </body>
 </html>
