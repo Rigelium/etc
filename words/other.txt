@@ -24,6 +24,7 @@ id - bez
 viscaū - może
 cod, riv - też
 valen - chyba
+spaed - pewnie, najprawdopodobniej, wohl, probably
 reuvan - dalej [reuv - daleki]
 avresenca - prawdopodobny 
 naū - jako
@@ -55,7 +56,6 @@ lasjūach - popołudnie
 jeunnotū - wieczór
 notū - noc
 raen - zaraz
-gevetū - jutro
 ▶️ Diuvasc - Częstotliwość
 sacam - zawsze
 normaū - zazwyczaj
@@ -75,7 +75,7 @@ notū - noc
 daevū - godzina
 daèzog - minuta
 naèdit - sekunda
-jasaèlū - jutro
+gavetū - jutro
 pralies - wczoraj
 ▶️ Mesit - miesiące
 deces - styczeń
@@ -101,7 +101,7 @@ lances - zima
 ▶️ Pozdrowienia
 Tauv ach ! - Dzień dobry!
 Tauv nottot ! - Dobranoc! 
-Nae s'miels ! - Do widzenia! 
+Nae s'mielse ! - Do widzenia! 
 Asprathiu, sprathiu - przepraszam
 Giriu/gir's - dziękuję/dzięki
 Cae ! - Hej! 
