@@ -111,6 +111,9 @@ tevoc - tyłek
 taez - noga
 um - palec
 reuzoc - mięśnie
+rieth - serce
+vaūn - skóra
+sneur - kość
 ▶️ Itgalis i itstacis - lingwistyka i nauka języków
 itū - język
 cū - słowo
@@ -126,20 +129,36 @@ aemū  - jabłko
 reuet - gruszka
 lestaèj - brzoskwinia
 nutaèr - banan
+bris - owoc
+casbris - ziemniak
+ceūt - marchewka
+bec - cebula
+silen - warzywo
+ceup - tłuszcz
+bleur - olej
+miusbleur - masło
+baèg - jajko
+teut - mięso
 prean - mąka
 preanneath - makaron
-paūth - ciasto
-paūthie - ciastko, ciasteczko
+baūth - ciasto (surowe)
+baūthnas - ciasto, tort, placek
+baūthie - ciastko, ciasteczko
 mius - mleko
 thig - chleb
 voedū - woda
-pomodorū - pomidor
-sausū - sos
+cardocie - pomidor
+sosū - sos
 leūcic, supū - zupa
-onen - cebula 
 cavie - kawa
 thae - herbata
 sal - sól
+fan - przyprawa
+chesgadū - śniadanie
+axgadū - lunch
+galvgadū - obiad
+paggadū - kolacja
+inpajū - przekąska
 ▶️ Andan i auta dan an sonū - Meble i inne rzeczy w domu
 sedie - krzesło
 chibū - stół
@@ -291,3 +310,15 @@ speuftū - duch
 zél - dusza
 cathū - cel [cathe - celować]
 peusitis - odpowiedzialność
+toelū - wojna
+parciatū - sukces
+faūciatū - porażka, fail, Versagen
+saner - zeszyt
+sannas - długopis
+radnas - kredka
+radū - rysunek
+sanie - esej, wypracowanie
+flaūt - trawa, zioło
+daūtū - blok, klocek [daūte - blokować]
+aviescajū - protest
+faūreftū - koszmar, zły sen
