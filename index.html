@@ -50,7 +50,7 @@
           if (matches.length > 0) {
             for (let k = 0; k < matches.length; k++){
               console.log("For loop working");
-              if (matches.includes("#")){
+              if (matches[k].includes("#")){
                 console.log("Yeah it includes #");
                 matches[k] = matches[k].split("#")[0];
               }
