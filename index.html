@@ -49,9 +49,7 @@
           document.getElementById("sanetnas").textContent = "➡️ SANETNAS " + "(" + String(adjAmount) + " esdatū)";
           if (matches.length > 0) {
             for (let k = 0; k < matches.length; k++){
-              console.log("For loop working");
               if (matches[k].includes("#")){
-                console.log("Yeah it includes #");
                 matches[k] = matches[k].split("#")[0];
               }
             }
@@ -73,6 +71,11 @@
  verbAmount = matches.length;
           document.getElementById("reumnas").textContent = "➡️ REUMNAS " + "(" + String(verbAmount) + " esdatū)";
           if (matches.length > 0) {
+            for (let k = 0; k < matches.length; k++){
+              if (matches[k].includes("#")){
+                matches[k] = matches[k].split("#")[0];
+              }
+            }
             verbsContainer.textContent = matches.join('\n');
           } else {
             verbsContainer.textContent = '';
@@ -91,6 +94,11 @@
  nounAmount = matches.length;
           document.getElementById("dannas").textContent = "➡️ DANNAS " + "(" + String(nounAmount) + " esdatū)";
           if (matches.length > 0) {
+            for (let k = 0; k < matches.length; k++){
+              if (matches[k].includes("#")){
+                matches[k] = matches[k].split("#")[0];
+              }
+            }
             nounsContainer.textContent = matches.join('\n');
           } else {
             nounsContainer.textContent = '';
@@ -109,6 +117,11 @@
  otherAmount = matches.length;
           document.getElementById("idcategoris").textContent = "➡️ ID CATEGORIS " + "(" + String(otherAmount) + " esdatū)";
           if (matches.length > 0) {
+            for (let k = 0; k < matches.length; k++){
+              if (matches[k].includes("#")){
+                matches[k] = matches[k].split("#")[0];
+              }
+            }
             otherContainer.textContent = matches.join('\n');
           } else {
             otherContainer.textContent = '';
