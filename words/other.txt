@@ -1,6 +1,6 @@
 ▶️ Particles prepositions etc.
-i - i
-det - a
+i - i 
+det - a 
 chac - ale
 meas - nawet
 em - dla
@@ -11,7 +11,7 @@ maès - nadal
 aūris - o (about a topic)
 aris, ac - tylko
 aval - prawie
-pris - czy?
+pris - czy
 mich - zamiast
 acos - pomimo
 ceunaū - właściwie/eigentlich
@@ -65,14 +65,14 @@ lasjūach - popołudnie
 jeunnotū - wieczór
 notū - noc
 raen - zaraz
-▶️ Diuvasc - Częstotliwość
-sacam - zawsze
-normaū - zazwyczaj
-diuvaū  - często
-seuru - czasem
-iliaū - nigdy
-citaū - ciągle
-necaū - rzadko
+▶️ Diuvasc - Częstotliwość [!4]
+sacam - zawsze #!4
+normaū - zazwyczaj #!4
+diuvaū  - często #!4
+seuru - czasem #!4
+iliaū - nigdy #!4
+citaū - ciągle #!4
+necaū - rzadko #!4
 ▶️ Seueces neseur - Jednostki czasu
 beatpar - dekada
 beat - rok
