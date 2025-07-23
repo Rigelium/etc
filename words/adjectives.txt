@@ -1,5 +1,5 @@
 ▶️ kolory - coleur
-violet - fioletowy
+violet - fioletowy #testing
 neux - niebieski
 cheld - zielony
 nab - żółty
