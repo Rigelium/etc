@@ -1,5 +1,5 @@
 ▶️ kolory - coleur
-violet - fioletowy #testing
+violet - fioletowy
 neux - niebieski
 cheld - zielony
 nab - żółty
@@ -101,3 +101,7 @@ caèder - żałosny
 noeca - przyjemny
 autsenca - alternatywny
 sevota - wzajemny [sevotaū - nawzajem]
+pravesca - oryginalny (originell)
+suvesca - oryginalny (original)
+medvesca - średni, average
+meda {Aezocis Meda} - środkowy, centralny {Aezocis Główny}
