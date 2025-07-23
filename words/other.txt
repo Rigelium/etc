@@ -1,5 +1,5 @@
 ▶️ Particles prepositions etc.
-i - i
+i - i #testing
 det - a
 chac - ale
 meas - nawet
