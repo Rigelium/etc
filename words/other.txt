@@ -1,5 +1,5 @@
 ▶️ Particles prepositions etc.
-i - i #testing
+i - i
 det - a
 chac - ale
 meas - nawet
@@ -33,6 +33,10 @@ michet - tylko (sondern)
 dismich - a nie
 for - według
 ec - jakby, jak gdyby
+ta - bo
+bis - dopiero
+finccam - kiedy tylko, as soon as, sobald
+tandauv - dopóki, tak długo jak, solange
 ▶️ Filler words
 so... - nooo...
 da.../dava...- ten teges
@@ -40,11 +44,16 @@ deus - cóż...
 eustaū iteno - szczerze powiedziawszy
 vesciu - mam na myśli, I mean
 an saetū - w sensie 
-▶️ S'sanete seur - Descriptions of time
+▶️ S'sanete seur - Określanie czasu
 seur - czas
 ad - since / od
 nae - until / do
-neu chas aūris - two weeks ago
+beat aūris, jeun beat - rok temu, vor einem Jahr
+an beat - w ciągu roku, innerhalb eines Jahres
+no beat - za rok, in einem Jahr
+beat jeunet/laset - rok wcześniej/później 
+seuru nebeat - podczas roku 
+tev da beat - w tym roku 
 jeun - przed
 las - po
 greas - teraz
@@ -86,7 +95,7 @@ mayus - maj
 cardnas - czerwiec
 julie - lipiec
 ▶️ Ach niechas
-lunnas - poniedziałek
+scaètnas - poniedziałek
 dinnas - wtorek
 chasmed - środa
 richnas - czwartek
@@ -126,9 +135,9 @@ an    ¦ en    ¦ es  -    w
 az    ¦ nas   ¦ zan -    na (vertical) 
 vé    ¦ vas   ¦ zav -    przy 
 ▶️ Ilość
-dużo - geu
-więcej - geun
-najwięcej - ceus
+dużo - rieu
+więcej - rieun
+najwięcej - rieus
 mało - mieu
 mniej - mieun
 najmniej - mieus
