@@ -1,5 +1,5 @@
 ▶️ Iu - ludzie
-sac - mężczyzna #testing
+sac - mężczyzna
 mae - kobieta
 faurū - kolega
 daec - chłopak
@@ -114,6 +114,8 @@ reuzoc - mięśnie
 rieth - serce
 vaūn - skóra
 sneur - kość
+sob - brzuch
+nug - komórka
 ▶️ Itgalis i itstacis - lingwistyka i nauka języków
 itū - język
 cū - słowo
@@ -322,3 +324,8 @@ flaūt - trawa, zioło
 daūtū - blok, klocek [daūte - blokować]
 aviescajū - protest
 faūreftū - koszmar, zły sen
+bor - moneta, pieniądz
+dhel - towar
+glam - termin
+vraj - bóg
+faūie, fer - błąd
