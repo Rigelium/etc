@@ -1,14 +1,15 @@
-vaèle, esseuce - wybrać #  testing2
+vaèle, esseuce - wybrać
 fáere (nas) - czekać (na)
 vaete - zostać
 frese - usunąć
-spać - chepe
+chepe - spać
 bege - biegać, biec
 roye - brzmieć 
 creye - dotknąć, dotykać
-dine - służyć
+caete - służyć
+caetete - obsłużyć [caetetū - obsługa]
 bande - uderzyć, bić
-caūe - hauen
+caūe - hauen, uderzyć, walnąć
 core - prowadzić
 neme - nazywać (się)
 caje - pokazać
@@ -208,6 +209,11 @@ teuvvaène - polecić, rekomendować
 sisceate - zaprosić
 saène (aū) - marzyć (o)
 meslare - decay, rozkładać się
-neseye - następować
-laègeye - poprzedzać, proceed
+nesete - następować
+laègete - poprzedzać, proceed
 bite - głaskać
+escaue - wybuchnąć, eksplodować
+gaūne - pomylić
+dame - zamienić, wechseln
+beuye (euc) - dbać, troszczyć się (o)
+decore - kontrolować, sterować
