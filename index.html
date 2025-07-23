@@ -49,7 +49,7 @@
           document.getElementById("sanetnas").textContent = "➡️ SANETNAS " + "(" + String(adjAmount) + " esdatū)";
           if (matches.length > 0) {
             for (let k = 0; k < matches.length; k++){
-              if (matches.toLowerCase().includes("#")){
+              if (matches.includes("#")){
                 matches[k] = matches[k].split("#")[0];
               }
             }
