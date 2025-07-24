@@ -35,6 +35,8 @@ for - według
 ec - jakby, jak gdyby
 ta - bo
 bis - dopiero
+seuram - podczas
+on - za, pro {Axiu 40 daèv on chas. Ve bude €5 on baūd}
 finccam - kiedy tylko, as soon as, sobald
 tandauv - dopóki, tak długo jak, solange
 ▶️ Filler words
@@ -63,7 +65,7 @@ jeunjūach - przedpołudnie
 jeun'ach - południe
 lasjūach - popołudnie
 jeunnotū - wieczór
-notū - noc
+spatū - noc
 raen - zaraz
 ▶️ Diuvasc - Częstotliwość [!4]
 sacam - zawsze #!4
@@ -125,13 +127,13 @@ spen - dookoła
 casp - poza
 tac - obok
 reues - prawo
-lenc - lewo
+lend - lewo
 asū - góra
 as - na górze czegoś
 utū - dół
 
-an    ¦ en    ¦ es  -    w 
-éz    ¦ nas   ¦ zén -    na (horizontal)
+an    ¦ en    ¦ és  -    w 
+ez    ¦ nas   ¦ zen -    na (horizontal)
 az    ¦ nas   ¦ zan -    na (vertical) 
 vé    ¦ vas   ¦ zav -    przy 
 ▶️ Ilość
@@ -143,7 +145,7 @@ mniej - mieun
 najmniej - mieus
 camies - kilka 
 ▶️ Miscancelaneous
-Dis - nie
-Gen - tak
+dis - nie
+gen - tak
 chan - trochę
 veus - bardzo
