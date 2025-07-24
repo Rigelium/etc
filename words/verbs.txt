@@ -1,4 +1,4 @@
-vaèle, esseuce - wybrać
+vaèle, ésseuce - wybrać, wybierać
 fáere (nas) - czekać (na)
 vaete - zostać
 frese - usunąć
@@ -46,7 +46,6 @@ cade - latać
 defaureye - zaprzyjaźnić się
 fende - znaleźć
 seuce - szukać
-esseuce - wybierać
 mane - umieścić / place
 cire - zgadnąć, zgadywać
 mice - tulić
@@ -177,7 +176,7 @@ cite - ciągnąć
 cheye - musieć
 chete - potrzebować
 leūce - lać
-ante - budować [antis - budownictwo, antū - budowa, antie - budynek]
+unte - budować [untis - budownictwo, untū - budowa, untie - budynek]
 smide - udowodnić
 scache - dzwonić 
 gite - wołać
@@ -189,7 +188,7 @@ cece - falować, chwiać się
 jaèpe - chwycić [jaèpu - uchwyt]
 saèle - myć się
 maène - czarować [maènis - magia]
-pracheye (asu) - zajmować się (czymś)
+pracheye (nasu) - zajmować się (czymś)
 reute - badać
 vede - kręcić
 geate - złapać
@@ -212,8 +211,14 @@ meslare - decay, rozkładać się
 nesete - następować
 laègete - poprzedzać, proceed
 bite - głaskać
-escaue - wybuchnąć, eksplodować
+éscaūe - wybuchnąć, eksplodować
 gaūne - pomylić
 dame - zamienić, wechseln
 beuye (euc) - dbać, troszczyć się (o)
 decore - kontrolować, sterować
+espe - zarabiać
+bude - kosztować
+geve - woleć, preferować [geftū - preferencja]
+onse - minąć [onstū - przeszłość]
+pase - stać się
+éscaje - reprezentować
