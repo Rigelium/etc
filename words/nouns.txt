@@ -87,6 +87,8 @@ caèd - kula
 glaèd - słup
 caèc - lina
 caūn (fiech) - linia (prosta)
+blasces - płaszczyzna
+ezū - powierzchnia
 ▶️ Antoc - Materiały
 aezoc - metal [aezuc - metalowy]
 drevoc - drewno
@@ -171,6 +173,19 @@ gathetas - kaloryfer
 taedie - lampa
 stuvces - kontakt
 nopaesū - okno
+▶️ Pratvama i aldgalsa caspetū - Pojęcia fizyczne i matematyczne
+manaètū - pozycja
+eucmanaètū - przemieszczenie
+rigesc - prędkość, velocity
+faedesc - szybkość, speed
+delinte - przyspieszenie
+reuzū - siła
+gaūlfraena - elektryczny
+aezcitū - magnes [aezcitis - magnetyzm, aezcita - magnetyczny, aezcituc - magnesowy] #magnet
+nasreumū - oddziaływanie 
+energis - energia
+somrig cheftū - ruch jednostajny
+breustū - ciśnienie, nacisk
 ▶️ Caenid - Bez kategorii
 caèlū - niebo
 ceulū - piekło
@@ -180,7 +195,7 @@ beat - rok
 pres - sposób
 seur - czas
 sint - powód
-lejvisū - poziom
+lejvistū - poziom
 nitū - pokój
 cheftū - ruch
 ach - dzień
@@ -249,7 +264,7 @@ meslejū - układ, layout
 axis - firma
 maūt - śmieć, śmieci
 maūtnas - śmietnik
-dajis - kolejność
+nesis - kolejność
 seuroc - moment
 vilcu - los
 gasū - głos
@@ -268,7 +283,7 @@ atoc - fakt
 paesoc - film
 jeurnas - chodnik
 jeurcas - podłoga
-astevū - sufit
+asteftū - sufit
 neaūl - futro
 vamū - władza
 vamis - rząd
@@ -292,7 +307,7 @@ senur - kabel
 gaūlie - ładowarka
 stuvnas - wtyczka 
 paèd - przestrzeń
-notcias - hotel
+spatcias - hotel
 reuznas - silnik
 loen - słońce
 laet - warstwa
@@ -329,3 +344,5 @@ dhel - towar
 glam - termin
 vraj - bóg
 faūie, fer - błąd
+reūcat - wzór, Muster, pattern
+plid - wzór, Formel, formula
