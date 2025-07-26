@@ -1,4 +1,4 @@
-▶️ Iu - ludzie
+▶️ IU - LUDZIE
 sac - mężczyzna
 mae - kobieta
 faurū - kolega
@@ -19,7 +19,7 @@ rovas - student
 stacas - uczeń
 senoc - osoba 
 cianis - społeczeństwo
-▶️ Degitū - zawody
+▶️ DEGITŪ - ZAWODY
 rocsen - kasjer
 liosmetas - sprzedawca
 baetas - piekarz
@@ -30,7 +30,7 @@ reutas - badacz
 atas - filozof, myśliciel
 gadas - kucharz
 chelas - pomocnik, asystent
-▶️ Eucmantū - transport
+▶️ EUCMÉNTŪ - TRANSPORT
 citū - pociąg
 bus, dauvas - autobus
 vagū - auto
@@ -70,11 +70,11 @@ Seuyetae Candū Nameriecū, SCN - USA, Stany Zjednoczone [SC-Ameriecam - ameryka
 Sina - Chiny [Sinam - chiński]
 Indis - Indie [Indsa - indyjski]
 Braziel - Brazylia [brazielam - brazylijski]
-▶️ Continentū i s'sauj - Kontynenty itp.
+▶️ CONTINENTŪ I VRAVENT - KONTYNENTY ITP.
 Eūropea - Europa [Eūropeasam - europejski]
 Eūropeasam Unis - Unia Europejska
 Ameriecū - Ameryka [Ameriecam - amerykański] 
-▶️ Maèv i casvauris - Kształty i geometria
+▶️ MAÈV I CASVAURIS - KSZTAŁTY I GEOMETRIA
 bear - koło
 vaèzū - okrąg [vaèza - okrągły, vaèze - krążyć]
 rens - kwadrat
@@ -89,14 +89,15 @@ caèc - lina
 caūn (fiech) - linia (prosta)
 blasces - płaszczyzna
 ezū - powierzchnia
-▶️ Antoc - Materiały
+▶️ UNTOC - MATERIAŁY
 aezoc - metal [aezuc - metalowy]
 drevoc - drewno
 cunstoc - plastic
 linsoc - papier
 cidroc - wodór
 oxegoc - tlen 
-▶️ Scitū nereusaèt - Części ciała
+vecoc - szkło
+▶️ SCITŪ NEREUSAÈT
 reusaèt - ciało
 galvū - głowa
 atnas - mózg
@@ -118,17 +119,17 @@ vaūn - skóra
 sneur - kość
 sob - brzuch
 nug - komórka
-▶️ Itgalis i itstacis - lingwistyka i nauka języków
+▶️ ITGALIS I ITSTACIS - LINGWISTYKA I NAUKA JĘZYKÓW
 itū - język
 cū - słowo
 menas - litera 
 vescie - zdanie
-▶️ Axer - urządzenia
+▶️ AXER - URZĄDZENIA
 scachnas - telefon
 dreusie - zamrażarka
 cecie - mikrofalówka
 baetie - piekarnik
-▶️ Pajū - jedzenie
+▶️ PAJŪ I NAJŪ - JEDZENIE I PICIE
 aemū  - jabłko
 reuet - gruszka
 lestaèj - brzoskwinia
@@ -163,9 +164,9 @@ axgadū - lunch
 galvgadū - obiad
 paggadū - kolacja
 inpajū - przekąska
-▶️ Andan i auta dan an sonū - Meble i inne rzeczy w domu
+▶️ ANDAN I AUTA DAN AN SONŪ - MEBLE I INNE RZECZY W DOMU
 sedie - krzesło
-chibū - stół
+thibū - stół
 seavces - szuflada
 lejces - łóżko
 lejnas - leżak
@@ -173,7 +174,7 @@ gathetas - kaloryfer
 taedie - lampa
 stuvces - kontakt
 nopaesū - okno
-▶️ Pratvama i aldgalsa caspetū - Pojęcia fizyczne i matematyczne
+▶️ PRATVAMA I ALDGALSA CASPETONT - POJĘCIA FIZYCZNE I MATEMATYCZNE
 manaètū - pozycja
 eucmanaètū - przemieszczenie
 rigesc - prędkość, velocity
@@ -186,7 +187,7 @@ nasreumū - oddziaływanie
 energis - energia
 somrig cheftū - ruch jednostajny
 breustū - ciśnienie, nacisk
-▶️ Caenid - Bez kategorii
+▶️ ID VASSANTŪ - BEZ KATEGORII
 caèlū - niebo
 ceulū - piekło
 itū - język/mowa
@@ -347,3 +348,6 @@ faūie, fer - błąd
 reūcat - wzór, Muster, pattern
 plid - wzór, Formel, formula
 baūd - sztuka (jedna sztuka)
+gaèzcaèd - planeta
+vuzū - dziura
+stud - most
