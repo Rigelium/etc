@@ -41,8 +41,21 @@ li a:hover {
     border-radius: 10px;
   }
   h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', arial;
+  font-family: Roboto, arial;
 }
+h1 {
+  font-size: 2.25em
+}
+h2 {
+  font-size: 2em
+}
+h3 {
+  font-size: 1.75em
+}
+h4 {
+  font-size: 1.5em
+}
+
   .bg {
     background-color: #EEEEEE;
     padding: 20px;
