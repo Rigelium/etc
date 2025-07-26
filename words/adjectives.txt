@@ -1,4 +1,4 @@
-▶️ kolory - coleur
+▶️ LISPEN - KOLOR
 violet - fioletowy
 neux - niebieski
 cheld - zielony
@@ -9,7 +9,8 @@ nec - biały
 cieur - czarny 
 neuv - ciemny
 ran - jasny 
-▶️ Id vassanū 
+lispena - kolorowy
+▶️ ID VASSANTŪ
 para - odpowiedni, poprawny
 tauv - dobry  [teuv teuven teuvas] 
 fam - zły
@@ -18,11 +19,11 @@ meana - ciekawy
 saega - użyteczny
 laga - śmieszny
 naèc - poważny
-avra - prawdziwy (neazabro? / abraú?)
+avra - prawdziwy
 faeca - fajny
 seuiga - łatwy
-sod - lekki/łatwy
-thar - ciężki
+sod - lekki, łatwy
+thar - ciężki 
 jeus - trudny
 complex - skomplikowany
 necheas, nes - następny
@@ -106,6 +107,9 @@ suvesca - oryginalny (original)
 medvesca - średni, average
 meda {Aezocis Meda} - środkowy, centralny {Aezocis Główny}
 fien - cienki, chudy
-orisa - gorzki
+orsa - gorzki [oris - gorycz]
 blas - płaski
 som - stały #stale
+preg - pusty #empty
+flap - grzeczny
+gom - brzydki
