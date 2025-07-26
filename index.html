@@ -4,11 +4,16 @@
   <title>Etces Seucer Necū</title>
     <link rel="icon" type="image/x-icon" href="assets/etcesflag.png">
 <style>
+  body {
+    font-family: arial;
+  }
+  pre {
+    font-family: arial;
+  }
   .bg {
-    display: block;
     background-color: #EEEEEE;
     padding: 20px;
-      border-radius: 10px;
+      border-radius: 20px;
   }
 </style>
 </head>
@@ -30,6 +35,7 @@
   <input type="text" id="search-input" style="width: 33%; height: 40px" placeholder="D'ensane cot ia caspetot" />
   <button onclick="searchText()" style="width: 33%; height: 40px">Seuce</button>
   </div>
+  <div class="bg">
   <h2>Esdatont:</h4>
   <h3 id="reumnas">➡️ REUMNAS</h3>
   <pre id="verbs" style="margin-left: 15px;">...</pre>
@@ -39,6 +45,7 @@
   <pre id="results" style="margin-left: 15px;">...</pre>
   <h3 id="idcategoris">➡️ ID CATEGORIS</h3>
   <pre id="other" style="margin-left: 15px;">...</pre>
+  </div>
   <script>
     function searchText() {
       let adjAmount, verbAmount, nounAmount, otherAmount, sumAmount = 0;
