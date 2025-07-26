@@ -3,6 +3,13 @@
 <head>
   <title>Etces Seucer Necū</title>
     <link rel="icon" type="image/x-icon" href="assets/etcesflag.png">
+<style>
+  .bg {
+    display: block;
+    width: 100%;
+    background-color: #101510;
+  }
+</style>
 </head>
 <body>
     <img src="assets/etcesflag.png" style="width: 100%; height: 25px;" alt="flag">
@@ -16,12 +23,12 @@
   <a href="culetis/" style="margin-right: 10px;">Cūletis</a>
   <a href="vilca/" style="margin-right: 10px;">Noras vilca necū</a>
 <a href="https://github.com/Rigelium/etc/tree/main/words" style="margin-right: 10px;">Vasdate pra cot</a>
-  
+  <div class="bg">
   <h2>Da seuce léz cū</h2>
 
   <input type="text" id="search-input" style="width: 33%; height: 40px" placeholder="D'ensane cot ia caspetot" />
   <button onclick="searchText()" style="width: 33%; height: 40px">Seuce</button>
-
+  </div>
   <h2>Esdatont:</h4>
   <h3 id="reumnas">➡️ REUMNAS</h3>
   <pre id="verbs" style="margin-left: 15px;">...</pre>
