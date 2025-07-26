@@ -1,6 +1,7 @@
-▶️ Particles prepositions etc.
+▶️ PREPOSITIS I VRAVENT - PREPOZYCJE ITP.
 i - i 
 det - a 
+jiel - ani
 chac - ale
 meas - nawet
 em - dla
@@ -39,14 +40,14 @@ seuram - podczas
 on - za, pro {Axiu 40 daèv on chas. Ve bude €5 on baūd}
 finccam - kiedy tylko, as soon as, sobald
 tandauv - dopóki, tak długo jak, solange
-▶️ Filler words
+▶️ SNERETCONT - FILLER WORDS
 so... - nooo...
 da.../dava...- ten teges
 deus - cóż...
 eustaū iteno - szczerze powiedziawszy
 vesciu - mam na myśli, I mean
 an saetū - w sensie 
-▶️ S'sanete seur - Określanie czasu
+▶️ S'SANETE SEURET - OPISYWANIE CZASU
 seur - czas
 ad - since / od
 nae - until / do
@@ -67,7 +68,7 @@ lasjūach - popołudnie
 jeunnotū - wieczór
 spatū - noc
 raen - zaraz
-▶️ Diuvasc - Częstotliwość [!4]
+▶️ DIUVASC - CZĘSTOTLIWOŚĆ [!4]
 sacam - zawsze #!4
 normaū - zazwyczaj #!4
 diuvaū  - często #!4
@@ -75,7 +76,7 @@ seuru - czasem #!4
 iliaū - nigdy #!4
 citaū - ciągle #!4
 necaū - rzadko #!4
-▶️ Seueces neseur - Jednostki czasu
+▶️ SEUECES - JEDNOSTKI CZAS
 beatpar - dekada
 beat - rok
 mesit - miesiąc 
@@ -88,7 +89,7 @@ daèzog - minuta
 naèdit - sekunda
 gavetū - jutro
 pralies - wczoraj
-▶️ Mesit - miesiące
+▶️ MESIT - MIESIĄCE
 deces - styczeń
 dreusnas - luty
 breznas - marzec
@@ -96,7 +97,7 @@ cevitces - kwiecień
 mayus - maj
 cardnas - czerwiec
 julie - lipiec
-▶️ Ach niechas
+▶️ ACH NECHAS - DNI TYGODNIA
 scaètnas - poniedziałek
 dinnas - wtorek
 chasmed - środa
@@ -104,20 +105,23 @@ richnas - czwartek
 gaurnas - piątek
 thernas - sobota
 cansces - niedziela
-▶️ Beatseur - pory roku
+▶️ BEATSEUR - PORY ROKU
 vencū - wiosna
 lincū - lato
 blatnas - jesień
 lances - zima
-▶️ Pozdrowienia
+▶️ PUGONT - POZDROWIENIA
 Tauv ach ! - Dzień dobry!
 Tauv nottot ! - Dobranoc! 
 Nae s'mielse ! - Do widzenia! 
-Asprathiu, sprathiu - przepraszam
+Asprathiu, sprathiu - Przepraszam
 Giriu/gir's - dziękuję/dzięki
 Cae ! - Hej! 
-Tauveas samot ! - Wszystkiego najlepszego! 
-▶️ Prepositions
+Tauveas samot (son betach) ! - Wszystkiego najlepszego (z okazji urodzin)! 
+Ge destū ! - Nie ma za co!
+Son raètū ! - Na zdrowie!
+puge - pozdrowić
+▶️ PREPOSITIS NECHEFTŪ I NEMANAÈTŪ - PREPOSITIONS OF MOVEMENT AND POSITION
 alt - ponad
 tev - pod
 las - za czymś
@@ -128,7 +132,7 @@ casp - poza
 tac - obok
 reues - prawo
 lend - lewo
-asū - góra
+astū - góra
 as - na górze czegoś
 utū - dół
 
