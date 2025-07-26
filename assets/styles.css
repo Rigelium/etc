@@ -26,6 +26,8 @@ li a:hover {
     font-family: arial;
   }
   pre {
+    white-space: pre-wrap;   /* Preserve formatting but allow wrapping */
+  word-wrap: break-word;   /* Break long words if necessary */
     font-family: arial;
   }
   input {
