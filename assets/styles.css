@@ -61,12 +61,13 @@ h4 {
     padding: 20px;
       border-radius: 20px;
     margin-bottom: 10px; margin-top: 10px;
-    /* 
-    background-image: url('assets/brightbg.png');
+  }
+.coolbg {
+    background-image: url('https://images.wallpapersden.com/image/download/mountain-roads-hd-landscape-art_bmZlZmeUmZqaraWkpJRmbmpnrWZmZ2U.jpg');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; */
-/* Container for flexboxes */
+    background-attachment: fixed; 
+}
 .row {
   display: -webkit-flex;
   display: flex;
