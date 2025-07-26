@@ -67,6 +67,7 @@ h4 {
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 
+  color: white;
 }
 .row {
   display: -webkit-flex;
