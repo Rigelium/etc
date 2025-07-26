@@ -3,17 +3,24 @@
 <head>
 <title>Vilca cū</title>
  <link rel="icon" type="image/x-icon" href="../assets/etcesflag.png">
+ <link rel="stylesheet" href="../assets/styles.css">
 </head>
 <body>
-<img src="../assets/etcesflag.png" style="width: 100%; height: 25px" alt="flag">
+<div class="bg">
  <h1>NORAS VILCA NECŪ</h1>
 <button onclick="verbs()" style="width: 33%; height: 40px">Reumnas</button>
 <button onclick="nouns()" style="width: 33%; height: 40px">Dannas ge "ū"</button>
 <button onclick="adjectives()" style="width: 33%; height: 40px">Sanetnas ia dannas id "ū"</button>
+</div>
+ <div class="bg">
 <h2>SEUESILBA CONT</h2>
 <p id="1s" style="font-size: 10px">...</p>
-<h2>NEUSILBA CONT</h2>
+ </div>
+ <div class="bg">
+  <h2>NEUSILBA CONT</h2>
 <p id="2s" style="font-size: 10px">...</p>
+ </div>
+ <img src="assets/etcesflag.png" style="width: 100%; height: 30px; border-radius: 10px;" alt="flag">
 <script>
  function verbs() {
   let words = [""];
