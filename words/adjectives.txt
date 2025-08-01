@@ -9,6 +9,10 @@ nec - biały
 cieur - czarny 
 neuv - ciemny
 ran - jasny 
+lang - szary
+siaj - różowy
+raund - brązowy
+noganna - przezroczysty
 lispena - kolorowy
 ▶️ ID VASSANTŪ
 para - odpowiedni, poprawny
@@ -21,7 +25,7 @@ laga - śmieszny
 naèc - poważny
 avra - prawdziwy
 faeca - fajny
-seuiga - łatwy
+seuega - łatwy
 sod - lekki, łatwy
 thar - ciężki 
 jeus - trudny
@@ -113,3 +117,6 @@ som - stały #stale
 preg - pusty #empty
 flap - grzeczny
 gom - brzydki
+lig - bezpieczny
+illig - niebezpieczny
+vayan - raczej
