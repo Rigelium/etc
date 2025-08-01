@@ -1,122 +1,155 @@
-▶️ LISPEN - KOLOR
-violet - fioletowy
-neux - niebieski
-cheld - zielony
-nab - żółty
-bras - pomarańczowy
-card - czerwony
-nec - biały
-cieur - czarny 
-neuv - ciemny
-ran - jasny 
-lang - szary
-siaj - różowy
-raund - brązowy
-noganna - przezroczysty
-lispena - kolorowy
-▶️ ID VASSANTŪ
-para - odpowiedni, poprawny
-tauv - dobry  [teuv teuven teuvas] 
-fam - zły
-faed, rig - szybki
-meana - ciekawy
-saega - użyteczny
-laga - śmieszny
-naèc - poważny
-avra - prawdziwy
-faeca - fajny
-seuega - łatwy
-sod - lekki, łatwy
-thar - ciężki 
-jeus - trudny
-complex - skomplikowany
-necheas, nes - następny
-pag - póżny
-ches - wczesny
-laes - ostatni
-laèg - poprzedni
-gels - mały
-nog - duży
-eges - cały
-reuz - silny
-sag - słaby
-dauv - długi
-carta - krótki
-riez - różny
-riven - równy
-gelca - szczęśliwy, wesoły
-jal - smutny
-fand - ważny
-norna - do zrobienia
-ilverna - niewiarygodny
-ilversat - małowierny
-saurna - zrozumiały
-eusta - szczery
-setra - dawny
-pata - tani
-vasca - fałszywy
-ciana - wspólny
-thag, chardid - darmowy 
-pra - nowy
-vrav - podobny
-cej - dokładnie, ceja - dokładny
-gar - ładny
-sen - sam, samemu
-vraes - pewny [vraesaū - na pewno, pewnie]
-smeca - smaczny
-lan - zimny
-valen, led - wolny
-nej - niski
-suvena - piękny
-fardae - zmęczony
-duv - gotowy, gotów
-ful - leniwy
-nusid - jedyny
-savesca - ogólny
-mescaena - różnorodny
-sner - pełny 
-bel - dziwny
-vilca - randomowy, losowy
-smienc - miły
-sagala - oczywisty
-cejvesca - szczególny (besonders)
-cejnasa - szczegółowy
-steūs - dumny
-navvesca - publiczny
-raud - gruby
-sund - szeroki
-dies - wąski
-blec - gęsty
-neca - rzadki
-diuva - częsty
-meū - ciepły
-gath - gorący
-bond - mądry
-gaen - głośny
-fiech - prosty (np. linia)
-raf - czysty
-neat - uporządkowany, aufgeräumt
-laès - młody
-driec - stary
-feal - wolny, frei
-baèn - biedny
-naes - bogaty
-savron - niesamowity, awesome
-caèder - żałosny
-noeca - przyjemny
-autsenca - alternatywny
-sevota - wzajemny [sevotaū - nawzajem]
-pravesca - oryginalny (originell)
-suvesca - oryginalny (original)
-medvesca - średni, average
-meda {Aezocis Meda} - środkowy, centralny {Aezocis Główny}
-fien - cienki, chudy
-orsa - gorzki [oris - gorycz]
-blas - płaski
-som - stały #stale
-preg - pusty #empty
-flap - grzeczny
-gom - brzydki
-lig - bezpieczny
-illig - niebezpieczny
-vayan - raczej
+▶️ PREPOSITIS I VRAVENT - PREPOZYCJE ITP.
+i - i 
+det - a 
+jiel - ani
+chac - ale
+meas - nawet
+em - dla
+o - już
+je - jeszcze
+umae - znowu
+maès - nadal
+aūris - o (about a topic)
+aris, ac - tylko
+aval - prawie
+pris - czy
+mich - zamiast
+acos - pomimo
+ceunaū - właściwie/eigentlich
+naezaū - właśnie (w tym momencie)
+son - za (np. za coś płacić)
+avies - przeciw, przeciwko
+rean - wobec
+no - przez
+id - bez
+viscaū - może
+cod, riv - też
+valen - chyba
+spaed - pewnie, najprawdopodobniej, wohl, probably
+reuvan - dalej [reuv - daleki]
+avresenca - prawdopodobny 
+naū - jako
+naūdis - w ogóle
+michet - tylko (sondern)
+dismich - a nie
+for - według
+ec - jakby, jak gdyby
+ta - bo
+bis - dopiero
+seuram - podczas
+on - za, pro {Axiu 40 daèv on chas. Ve bude €5 on baūd}
+finccam - kiedy tylko, as soon as, sobald
+tandauv - dopóki, tak długo jak, solange
+▶️ SNERETCONT - FILLER WORDS
+so... - nooo...
+da.../dava...- ten teges
+deus - cóż...
+eustaū iteno - szczerze powiedziawszy
+vesciu - mam na myśli, I mean
+an saetū - w sensie 
+▶️ S'SANETE SEURET - OPISYWANIE CZASU
+seur - czas
+ad - since / od
+nae - until / do
+beat aūris, jeun beat - rok temu, vor einem Jahr
+an beat - w ciągu roku, innerhalb eines Jahres
+no beat - za rok, in einem Jahr
+beat jeunet/laset - rok wcześniej/później 
+seuru nebeat - podczas roku 
+tev da beat - w tym roku 
+jeun - przed
+las - po
+greas - teraz
+ranach - dzień (jako pora dnia)
+chesnoc - rano
+jeunjūach - przedpołudnie
+jeun'ach - południe
+lasjūach - popołudnie
+jeunnotū - wieczór
+spatū - noc
+raen - zaraz
+▶️ DIUVASC - CZĘSTOTLIWOŚĆ [!4]
+sacam - zawsze #!4
+normaū - zazwyczaj #!4
+diuvaū  - często #!4
+seuru - czasem #!4
+iliaū - nigdy #!4
+citaū - ciągle #!4
+necaū - rzadko #!4
+▶️ SEUECES - JEDNOSTKI CZAS
+beatpar - dekada
+beat - rok
+mesit - miesiąc 
+chascansū - weekend
+chas - tydzień 
+ach - dzień
+notū - noc
+daevū - godzina
+daèzog - minuta
+naèdit - sekunda
+gavetū - jutro
+pralies - wczoraj
+▶️ MESIT - MIESIĄCE
+deces - styczeń
+dreusnas - luty
+breznas - marzec
+cevitces - kwiecień
+mayus - maj
+cardnas - czerwiec
+julie - lipiec
+▶️ ACH NECHAS - DNI TYGODNIA
+scaètnas - poniedziałek
+dinnas - wtorek
+chasmed - środa
+richnas - czwartek
+gaurnas - piątek
+thernas - sobota
+cansces - niedziela
+▶️ BEATSEUR - PORY ROKU
+vencū - wiosna
+lincū - lato
+blatnas - jesień
+lances - zima
+▶️ PUGONT - POZDROWIENIA
+Tauv ach ! - Dzień dobry!
+Tauv nottot ! - Dobranoc! 
+Nae s'mielse ! - Do widzenia! 
+Asprathiu, sprathiu - Przepraszam
+Giriu/gir's - dziękuję/dzięki
+Cae ! - Hej! 
+Tauveas samot (son betach) ! - Wszystkiego najlepszego (z okazji urodzin)! 
+Ge destū ! - Nie ma za co!
+Son raètū ! - Na zdrowie!
+puge - pozdrowić
+▶️ PREPOSITIS NECHEFTŪ I NEMANAÈTŪ - PREPOSITIONS OF MOVEMENT AND POSITION
+alt - ponad
+tev - pod
+las - za czymś
+jeun - przed
+in - między
+spen - dookoła
+casp - poza
+tac - obok
+reues - prawo
+lend - lewo
+astū - góra
+as - na górze czegoś
+utū - dół
+
+an    ¦ en    ¦ és  -    w 
+ez    ¦ nas   ¦ zen -    na (horizontal)
+az    ¦ nas   ¦ zan -    na (vertical) 
+vé    ¦ vas   ¦ zav -    przy 
+▶️ Ilość
+dużo - rieu
+więcej - rieun
+najwięcej - rieus
+mało - mieu
+mniej - mieun
+najmniej - mieus
+camies - kilka 
+▶️ Miscancelaneous
+dis - nie
+gen - tak
+chan - trochę
+veus - bardzo
