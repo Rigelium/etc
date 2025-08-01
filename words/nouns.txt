@@ -89,6 +89,7 @@ caèc - lina
 caūn (fiech) - linia (prosta)
 blasces - płaszczyzna
 ezū - powierzchnia
+luet - belka
 ▶️ UNTOC - MATERIAŁY
 aezoc - metal [aezuc - metalowy]
 drevoc - drewno
@@ -164,6 +165,7 @@ axgadū - lunch
 galvgadū - obiad
 paggadū - kolacja
 inpajū - przekąska
+dreusie - lody
 ▶️ ANDAN I AUTA DAN AN SONŪ - MEBLE I INNE RZECZY W DOMU
 sedie - krzesło
 thibū - stół
@@ -241,7 +243,7 @@ nascitū - napięcie
 drevcas - las
 liscū - piosenka
 roesis - muzyka
-jeunciatū - postęp 
+jeuntaetū - postęp 
 navces - drzwi 
 citcias - dworzec
 riezetū - pochodna
@@ -351,3 +353,20 @@ baūd - sztuka (jedna sztuka)
 gaèzcaèd - planeta
 vuzū - dziura
 stud - most
+flar - zapał
+flaris - pasja
+faūtaetū - przestępstwo
+stag - kara [stagete - ukarać]
+saèm - los
+jeungasetū - przeznaczenie
+zier - plotka
+jeunciatū - proces, Vorgang
+machinū - maszyna
+senreumas - automat [senreuma - automatyczny]
+sug - ślad
+dezesc - ilość
+gald - głód [galda - głodny, galdeye - głodować, galdete - głodzi]
+fras - wiatr
+degchas - wakacje
+mescajū - wykaz, tabelka
+feard - okres (np. czasu)
