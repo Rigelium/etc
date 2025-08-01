@@ -1,6 +1,7 @@
 vaèle, ésseuce - wybrać, wybierać
-fáere (nas) - czekać (na)
+faère (nas) - czekać (na)
 vaete - zostać
+vaète - zostawić #lassen leave
 frese - usunąć
 chepe - spać
 bege - biegać, biec
@@ -16,7 +17,7 @@ caje - pokazać
 geuse - próbować
 gaete - spaść, upaść
 gade - gotować [gadū - danie]
-liczyć - alde
+alde - liczyć
 niceye - zniknąć
 seumeye - pojawić się 
 chele - pomagać, pomóc
@@ -27,7 +28,6 @@ degale - dowiedzieć się/poznać
 gane - widzieć 
 saure - rozumieć 
 rese - mieć
-liorese - stracić
 le - być
 mete - mieć powinność 
 dele - zostać
@@ -51,7 +51,7 @@ cire - zgadnąć, zgadywać
 mice - tulić
 esplice - wytłumaczyć, tłumaczyć
 ceame - czuć / odczuwać
-este - wyjść, przestać
+ese - wyjść, przestać
 seane - wygrać
 meane - interesować ciekawić
 vere - wierzyć
@@ -63,7 +63,7 @@ pade - spadać
 lise - czytać
 sare - zamknąć
 rase - przerwać
-roele - kierować
+roele - kierować [roeltū - kierunek]
 ciale - jechać
 sege - oglądać
 steze - sprawdzić
@@ -115,7 +115,7 @@ daje - podążać, follow, folgen
 rade - rysować 
 sede - siedzieć, posadzić
 cande - stać, postawić
-vese - wisieć, powiesić
+gele - wisieć, powiesić
 leje - leżeć, położyć
 stuve - stecken
 darde - trwać
@@ -235,4 +235,24 @@ blame - żądać, anfragen
 bense (euc) - opierać się (o) [benstū - oparcie] #oprzeć się
 deurete - oprzeć się czemuś #opierać się
 duce - pochylić się
-flare - uwielbiać
+tiese - uwielbiać [tiestū - uwielbienie]
+daūbe - walczyć [daūbū - walka]
+zaleje (zav) - zależeć (od)
+cute - dusić
+saule - tonąć
+vese - zanurzyć (się)
+cieze - rosnąć [decieze - dorosnąć, deciezae - dorosły]
+taye - stąpać, treten [jeuntaetū - postęp]
+rieuye - zwiększyć się, wzrosnąć, steigen # increase
+rieute - zwiększyć, steigern #increase
+mieuye - zmniejszyć się, spaść, sinken #decrease
+mieute - zmniejszyć, senken #decrease
+viende - wspinać się
+neatete - porządkować, robić porządki #aufräumen
+frasite - szeptać
+dege - odpocząć [degū - odpoczynek]
+anrese - zawierać [anrestū - content, Inhalt, składniki]
+corde - pasować [corda - pasujący]
+nopaese - przeglądnąć [nopaeser - przeglądarka]
+parete - poprawić, naprawić #fix
+deparete - naprawić #fix
