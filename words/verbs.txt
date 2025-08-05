@@ -39,8 +39,8 @@ desete - umożliwić
 ciate - iść
 peuse - wrócić
 saege - używać
-leteye - istnieć
-letete - tworzyć
+leye - istnieć
+lete - tworzyć
 ite - mówić, powiedzieć 
 cade - latać
 defaureye - zaprzyjaźnić się
@@ -53,7 +53,7 @@ esplice - wytłumaczyć, tłumaczyć
 ceame - czuć / odczuwać
 ese - wyjść, przestać
 seane - wygrać
-meane - interesować ciekawić
+meane - interesować, ciekawić
 vere - wierzyć
 nade - mieć nadzieję
 pavease - uważać
@@ -68,7 +68,6 @@ ciale - jechać
 sege - oglądać
 steze - sprawdzić
 roese - ratować, uratować
-cave - wydawać się
 cape - kryć
 liocape - odkryć
 crade - porządkować, ordnen [vascrade - zurodnen]
@@ -85,10 +84,10 @@ lieve - ufać
 danse - wiązać [zadansae - powiązany] 
 cére - pytać
 thase - wystarczyć
-zaete - rozkazać/zamówić
-feje - płynąć [fejtū - rzeka]
-ruse - płynąć [ruscias - basen]
-pearse - martwić się
+siuete - rozkazać/zamówić
+feje - płynąć, fließen [fejū - płyn, fejces - rzeka, feja - płynny]
+ruse - płynąć, schwimmen [ruscias - basen]
+peare - martwić się
 nave - otworzyć, otwierać
 bare - nudzić się
 paese - patrzeć, wyglądać
@@ -120,7 +119,7 @@ leje - leżeć, położyć
 stuve - stecken
 darde - trwać
 prade - płakać
-gasete - określać
+gasete - określać, bestimmen
 eucvaène - przekazać, umleiten (vaène - leiten)
 driese - zachowywać się
 driesete - traktować
@@ -227,7 +226,6 @@ neudeye - zgubić się [neude - zgubić]
 liorese, thule - stracić
 rielve - uciec
 seuze - zasłonić
- - błyszczeć, lśnić 
 paèceye - promieniować [paèce - promień]
 bére - wymagać, erfordern
 méne - wozić
@@ -237,7 +235,7 @@ deurete - oprzeć się czemuś #opierać się
 duce - pochylić się
 tiese - uwielbiać [tiestū - uwielbienie]
 daūbe - walczyć [daūbū - walka]
-zaleje (zav) - zależeć (od)
+siuleje (zav) - zależeć (od)
 cute - dusić
 saule - tonąć
 vese - zanurzyć (się)
@@ -256,3 +254,19 @@ corde - pasować [corda - pasujący]
 nopaese - przeglądnąć [nopaeser - przeglądarka]
 parete - poprawić, naprawić #fix
 deparete - naprawić #fix
+zeve - pakować [zeftū - opakowanie, paczka]
+ūare - gonić
+bance - polować, jagen
+siugeate - zaatakować
+daye - błyszczeć, lśnić 
+gate - chrupać [gatie - chipsy, gatic - chrupki, gatir - chrupiący]
+voene - dzielić, trennen
+stale - żegnać
+cave - witać, welcome
+atseane - przekonać
+aūne - kłócić się
+siuate (... son ... / ... i ...) - pomylić (coś za coś/ coś z czymś)
+siucaje - udawać
+(at)paese naū - postrzegać jako, irgendwie ansehen
+enate - uwzględniać, bedenken, berücksichtigen
+parvasate - domyślić się
