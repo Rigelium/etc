@@ -74,6 +74,10 @@ Braziel - Brazylia [brazielam - brazylijski]
 Eūropea - Europa [Eūropeasam - europejski]
 Eūropeasam Unis - Unia Europejska
 Ameriecū - Ameryka [Ameriecam - amerykański] 
+Afriecū - Afryka
+Aūstralis - Australia
+Antarctis - antarktyda
+Azaè - Azja
 ▶️ MAÈV I CASVAURIS - KSZTAŁTY I GEOMETRIA
 bear - koło
 vaèzū - okrąg [vaèza - okrągły, vaèze - krążyć]
@@ -125,6 +129,10 @@ itū - język
 cū - słowo
 menas - litera 
 vescie - zdanie
+menasis - alfabet
+roetū - głoska, dźwięk
+cianroetū - spółgłoska
+voenroetū - samogłoska
 ▶️ AXER - URZĄDZENIA
 scachnas - telefon
 dreusie - zamrażarka
@@ -139,7 +147,7 @@ bris - owoc
 casbris - ziemniak
 ceūt - marchewka
 bec - cebula
-silen - warzywo
+cheldom - warzywo
 ceup - tłuszcz
 bleur - olej
 miusbleur - masło
@@ -189,6 +197,20 @@ nasreumū - oddziaływanie
 energis - energia
 somrig cheftū - ruch jednostajny
 breustū - ciśnienie, nacisk
+▶️ TAP - ZWIERZĘTA
+bram - pies
+caec - kot
+chaen - wilk
+chec - smok
+blae - ptak
+siedoc - małpa
+gil - ślimak
+pleur - świnia
+breul - kura, kurczas [breulnas - kurnik]
+zachū - wąż
+daetop - gołąb
+jiraf - żyrafa
+elefant - słoń
 ▶️ ID VASSANTŪ - BEZ KATEGORII
 caèlū - niebo
 ceulū - piekło
@@ -207,7 +229,7 @@ gedū - państwo
 cas - kraj, ziemia
 chardie - pieniądze
 dan - rzecz
-sonū - dom
+saun - dom
 dragū - droga
 asterū - gwiazda
 aset - miasto
@@ -370,3 +392,23 @@ fras - wiatr
 degchas - wakacje
 mescajū - wykaz, tabelka
 feard - okres (np. czasu)
+glas - skrzydło
+gaūdetas - pojemnik
+loes - pudło
+ūen - para [ūenete - zaparzyć]
+vaèlsetū - opcja, Wahlmöglichkeit
+lad - dach
+chert - koszulka
+lebas - skarpetka
+baun - spodnie 
+galvas - czapka
+bluz - bluza
+euctothū - szalik
+tevberū - majtki
+greal - łańcuch
+atsantū - rozprawka
+raū - chmura
+sarom - brama 
+spenom - ogrodzenie, Zaun
+ciezom - krzew, krzak
+senvescū, atū - opinia {Et senvescoū, esv - moim zdaniem}
