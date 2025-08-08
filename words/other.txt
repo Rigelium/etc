@@ -46,7 +46,7 @@ da.../dava...- ten teges
 deus - cóż...
 eustaū iteno - szczerze powiedziawszy
 vesciu - mam na myśli, I mean
-an saetū - w sensie 
+an saetu - w sensie 
 ▶️ S'SANETE SEURET - OPISYWANIE CZASU
 seur - czas
 ad - since / od
@@ -62,11 +62,11 @@ las - po
 greas - teraz
 ranach - dzień (jako pora dnia)
 chesnoc - rano
-jeunjūach - przedpołudnie
-jeun'ach - południe
-lasjūach - popołudnie
-jeunnotū - wieczór
-spatū - noc
+jeunjeach - przedpołudnie
+jeach - południe
+lasjeach - popołudnie
+jeunnotu - wieczór
+spatu - noc
 raen - zaraz
 ▶️ DIUVASC - CZĘSTOTLIWOŚĆ [!4]
 sacam - zawsze #!4
@@ -83,11 +83,11 @@ mesit - miesiąc
 chascansū - weekend
 chas - tydzień 
 ach - dzień
-notū - noc
-daevū - godzina
+notu - noc
+daev - godzina
 daèzog - minuta
 naèdit - sekunda
-gavetū - jutro
+gavetu - jutro
 pralies - wczoraj
 ▶️ MESIT - MIESIĄCE
 deces - styczeń
@@ -118,8 +118,8 @@ Asprathiu, sprathiu - Przepraszam
 Giriu/gir's - dziękuję/dzięki
 Cae ! - Hej! 
 Tauveas samot (son betach) ! - Wszystkiego najlepszego (z okazji urodzin)! 
-Ge destū ! - Nie ma za co!
-Son raètū ! - Na zdrowie!
+Ge destu ! - Nie ma za co!
+Son raètu ! - Na zdrowie!
 puge - pozdrowić
 ▶️ PREPOSITIS NECHEFTŪ I NEMANAÈTŪ - PREPOSITIONS OF MOVEMENT AND POSITION
 alt - ponad
@@ -132,9 +132,9 @@ casp - poza
 tac - obok
 reues - prawo
 lend - lewo
-astū - góra
+astu - góra
 as - na górze czegoś
-utū - dół
+utu - dół
 
 an    ¦ en    ¦ és  -    w 
 ez    ¦ nas   ¦ zen -    na (horizontal)
