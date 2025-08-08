@@ -8,7 +8,7 @@ bege - biegać, biec
 roye - brzmieć 
 creye - dotknąć, dotykać
 caete - służyć
-caetete - obsłużyć [caetetū - obsługa]
+caetete - obsłużyć [caetetu - obsługa]
 bande - uderzyć, bić
 caūe - hauen, uderzyć, walnąć
 core - prowadzić
@@ -16,7 +16,7 @@ neme - nazywać (się)
 caje - pokazać
 geuse - próbować
 gaete - spaść, upaść
-gade - gotować [gadū - danie]
+gade - gotować [gadu - danie]
 alde - liczyć
 niceye - zniknąć
 seumeye - pojawić się 
@@ -63,7 +63,7 @@ pade - spadać
 lise - czytać
 sare - zamknąć
 rase - przerwać
-roele - kierować [roeltū - kierunek]
+roele - kierować [roeltu - kierunek]
 ciale - jechać
 sege - oglądać
 steze - sprawdzić
@@ -85,7 +85,7 @@ danse - wiązać [zadansae - powiązany]
 cére - pytać
 thase - wystarczyć
 siuete - rozkazać/zamówić
-feje - płynąć, fließen [fejū - płyn, fejces - rzeka, feja - płynny]
+feje - płynąć, fließen [feju - płyn, fejces - rzeka, feja - płynny]
 ruse - płynąć, schwimmen [ruscias - basen]
 peare - martwić się
 nave - otworzyć, otwierać
@@ -158,7 +158,7 @@ pede - rzucić
 ciale - jechać
 mire - umrzeć
 beuche - zabić
-gelve - lubić [gelftū - przysługa, Gefallen]
+gelve - lubić [gelftu - przysługa, Gefallen]
 praste - kochać
 thede - nienawidzić
 chane - zmienić/zmienić się
@@ -175,11 +175,11 @@ cite - ciągnąć
 cheye - musieć
 chete - potrzebować
 leūce - lać
-unte - budować [untis - budownictwo, untū - budowa, untie - budynek]
+unte - budować [untis - budownictwo, untu - budowa, untie - budynek]
 smide - udowodnić
 scache - dzwonić 
 gite - wołać
-jeure - chodzić, spacerować [jeurū - spacer]
+jeure - chodzić, spacerować [jeuru - spacer]
 seave - pchać
 gaèle - podnieść [gaèlie - dźwignia, Hebel]
 baete - piec
@@ -201,7 +201,7 @@ noece - please, sprawić przyjemność
 scoete - ćwiczyć
 naetieme - żałować
 time - całować
-caèbe - uśmiechać się [caèbū - uśmiech]
+caèbe - uśmiechać się [caèbu - uśmiech]
 desence - okazać się
 teuvvaène - polecić, rekomendować
 sisceate - zaprosić
@@ -217,8 +217,8 @@ beuye (euc) - dbać, troszczyć się (o)
 decore - kontrolować, sterować
 espe - zarabiać
 bude - kosztować
-geve - woleć, preferować [geftū - preferencja]
-onse - minąć [onstū - przeszłość]
+geve - woleć, preferować [geftu - preferencja]
+onse - minąć [onstu - przeszłość]
 pase - stać się
 éscaje - reprezentować
 beve - zapisać, speichern
@@ -226,21 +226,21 @@ neudeye - zgubić się [neude - zgubić]
 liorese, thule - stracić
 rielve - uciec
 seuze - zasłonić
-paèceye - promieniować [paèce - promień]
+paèceye - promieniować [paècu - promień]
 bére - wymagać, erfordern
 méne - wozić
 blame - żądać, anfragen
-bense (euc) - opierać się (o) [benstū - oparcie] #oprzeć się
+bense (euc) - opierać się (o) [benstu - oparcie] #oprzeć się
 deurete - oprzeć się czemuś #opierać się
 duce - pochylić się
-tiese - uwielbiać [tiestū - uwielbienie]
-daūbe - walczyć [daūbū - walka]
+tiese - uwielbiać [tiestu - uwielbienie]
+daūbe - walczyć [daūbu - walka]
 siuleje (zav) - zależeć (od)
 cute - dusić
 saule - tonąć
 vese - zanurzyć (się)
 cieze - rosnąć [decieze - dorosnąć, deciezae - dorosły]
-taye - stąpać, treten [jeuntaetū - postęp]
+taye - stąpać, treten [jeuntaetu - postęp]
 rieuye - zwiększyć się, wzrosnąć, steigen # increase
 rieute - zwiększyć, steigern #increase
 mieuye - zmniejszyć się, spaść, sinken #decrease
@@ -248,13 +248,13 @@ mieute - zmniejszyć, senken #decrease
 viende - wspinać się
 neatete - porządkować, robić porządki #aufräumen
 frasite - szeptać
-dege - odpocząć [degū - odpoczynek]
-anrese - zawierać [anrestū - content, Inhalt, składniki]
+dege - odpocząć [degu - odpoczynek]
+anrese - zawierać [anrestu - content, Inhalt, składniki]
 corde - pasować [corda - pasujący]
 nopaese - przeglądnąć [nopaeser - przeglądarka]
 parete - poprawić, naprawić #fix
 deparete - naprawić #fix
-zeve - pakować [zeftū - opakowanie, paczka]
+zeve - pakować [zeftu - opakowanie, paczka]
 ūare - gonić
 bance - polować, jagen
 siugeate - zaatakować
