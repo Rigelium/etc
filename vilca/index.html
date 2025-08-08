@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vilca cū</title>
+<title>Vilca cu</title>
  <link rel="icon" type="image/x-icon" href="../assets/etcesflag.png">
  <link rel="stylesheet" href="../assets/styles.css">
  <meta name="viewport" content="width=device-width, initial-scale=0.5">
@@ -19,11 +19,11 @@
   <li><a href="https://github.com/Rigelium/etc/tree/main/words">Vasdate pra cot</a></li>
 </ul>
 <div class="bg">
- <h1>NORAS VILCA NECŪ</h1>
+ <h1>NORAS VILCA NECU</h1>
  <pre>Leth vilcaū generetae silbont!</pre>
 <button onclick="verbs()" style="width: 33%; height: 40px">Reumnas</button>
-<button onclick="nouns()" style="width: 33%; height: 40px">Dannas ge "ū"</button>
-<button onclick="adjectives()" style="width: 33%; height: 40px">Sanetnas ia dannas id "ū"</button>
+<button onclick="nouns()" style="width: 33%; height: 40px">Dannas ge "u"</button>
+<button onclick="adjectives()" style="width: 33%; height: 40px">Sanetnas ia dannas id "u"</button>
 </div>
  <div class="bg">
 <h2>SEUESILBA CONT</h2>
@@ -78,13 +78,13 @@
   const initCons = ['b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z','b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z', 'pr','dr','cr','vr','st','sc','sm', 'gl', "th", "th", "sp", "ch", "ch", "ch"];
   const finalCons = ['b', 'c','c','c','d','d','d','f','g','g','g','j','l','l','m','n','n','p','p','r','r','s','s','t','t','t','v','v','z', 't', 't', "th", "th", "ch", "ch"];
   for (let i = 0; i < 50; i++){
-   words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "ū"; 
+   words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "u"; 
    wordsStr = wordsStr + words[i] + " ";
   }
   document.getElementById("1s").textContent = wordsStr;
   wordsStr = "";
     for (let i = 0; i < 30; i++){
-   words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] +initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "ū"; 
+   words[i] = initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] +initCons[Math.floor(Math.random()*initCons.length)] + vowels[Math.floor(Math.random()*vowels.length)] + finalCons[Math.floor(Math.random()*finalCons.length)] + "u"; 
    wordsStr = wordsStr + words[i] + " ";
   }
   document.getElementById("2s").textContent = wordsStr;
