@@ -1,16 +1,16 @@
 ▶️ IU - LUDZIE
 sac - mężczyzna
 mae - kobieta
-faurū - kolega
+fauru - kolega
 daec - chłopak
 mé - dziewczyna
 sautū - dziecko
 breur - brat
 seveur - siostra
-mamū - mama
-papū - tata
-babū - babcia
-dadū - dziadek
+mamu - mama
+papu - tata
+babu - babcia
+dadu - dziadek
 thantic - ciocia
 gachoc - wujek
 stacsen - nauczyciel
@@ -19,7 +19,7 @@ rovas - student
 stacas - uczeń
 senoc - osoba 
 cianis - społeczeństwo
-▶️ DEGITŪ - ZAWODY
+▶️ DEGITU - ZAWODY
 rocsen - kasjer
 liosmetas - sprzedawca
 baetas - piekarz
@@ -30,11 +30,11 @@ reutas - badacz
 atas - filozof, myśliciel
 gadas - kucharz
 chelas - pomocnik, asystent
-▶️ EUCMÉNTŪ - TRANSPORT
-citū - pociąg
+▶️ EUCMÉNTU - TRANSPORT
+citu - pociąg
 bus, dauvas - autobus
-vagū - auto
-vealū - rower
+vagu - auto
+vealu - rower
 gearcias - przystanek
 citcias - dworzec kolejowy
 buscias - dworzec autobusowy
@@ -47,7 +47,7 @@ Polencas - Polska [Polen/Polences - polski]
 Doecas - Niemcy [Doeces - niemiecki]
 Belgis - Belgia [Belgsa - belgijski]
 Necralis - Niederlandy, Holandia [Necralsa - niderlandzki, holenderski]
-Eucraenū - Ukraina [Eucraenam - ukraiński]
+Eucraenu - Ukraina [Eucraenam - ukraiński]
 Italis - Włochy [Italsa - włoski]
 Francas - Francja [Frances - francuski]
 Cispanis - Hiszpania [Cispansa - hiszpański]
@@ -65,34 +65,34 @@ Romanis - Rumunia [Romansa - rumuński]
 Necrosis - Białoruś [Necrossa - białoruski]
 Estoncas - Estonia [Estonces - estoński]
 Slovencas - Słowacja [Slovences - słowacki]
-Magarcas - Węgierski [Magar, Magarces - węgierski]
-Seuyetae Candū Nameriecū, SCN - USA, Stany Zjednoczone [SC-Ameriecam - amerykański]
+Madharcas - Węgierski [Madhar, Madharces - węgierski] 
+Seuyetae Candu N'ameriecu, SCN - USA, Stany Zjednoczone [SC-Ameriecam - amerykański]
 Sina - Chiny [Sinam - chiński]
 Indis - Indie [Indsa - indyjski]
 Braziel - Brazylia [brazielam - brazylijski]
-▶️ CONTINENTŪ I VRAVENT - KONTYNENTY ITP.
+▶️ CONTINENTU I VRAVENT - KONTYNENTY ITP.
 Eūropea - Europa [Eūropeasam - europejski]
 Eūropeasam Unis - Unia Europejska
-Ameriecū - Ameryka [Ameriecam - amerykański] 
-Afriecū - Afryka
+Ameriecu - Ameryka [Ameriecam - amerykański] 
+Afriecu - Afryka
 Aūstralis - Australia
 Antarctis - antarktyda
-Azaè - Azja
+Azee - Azja
 ▶️ MAÈV I CASVAURIS - KSZTAŁTY I GEOMETRIA
 bear - koło
-vaèzū - okrąg [vaèza - okrągły, vaèze - krążyć]
+vaèzu - okrąg [vaèza - okrągły, vaèze - krążyć]
 rens - kwadrat
 pad - kąt
 dacpadnas - trójkát
 reuespadnas - prostokąt
-maètū - patyk, sztanga
+maètu - patyk, sztanga
 neath - linia, wstęga, wstążka
 caèd - kula
 glaèd - słup
 caèc - lina
 caūn (fiech) - linia (prosta)
 blasces - płaszczyzna
-ezū - powierzchnia
+ezu - powierzchnia
 luet - belka
 ▶️ UNTOC - MATERIAŁY
 aezoc - metal [aezuc - metalowy]
@@ -102,9 +102,9 @@ linsoc - papier
 cidroc - wodór
 oxegoc - tlen 
 vecoc - szkło
-▶️ SCITŪ NEREUSAÈT
+▶️ SCITU NEREUSAÈT
 reusaèt - ciało
-galvū - głowa
+galvu - głowa
 atnas - mózg
 paeser/sem - oko, oczy
 recas - nos
@@ -112,7 +112,7 @@ reul - twarz
 ram - ręka
 ceurs - dłoń
 leb - stopa 
-tothū - szyja
+tothu - szyja
 saèv - włosy
 smig - paznokcie
 tevoc - tyłek
@@ -125,21 +125,21 @@ sneur - kość
 sob - brzuch
 nug - komórka
 ▶️ ITGALIS I ITSTACIS - LINGWISTYKA I NAUKA JĘZYKÓW
-itū - język
-cū - słowo
+itu - język
+cu - słowo
 menas - litera 
 vescie - zdanie
 menasis - alfabet
-roetū - głoska, dźwięk
-cianroetū - spółgłoska
-voenroetū - samogłoska
+roetu - głoska, dźwięk
+cianroetu - spółgłoska
+voenroetu - samogłoska
 ▶️ AXER - URZĄDZENIA
 scachnas - telefon
 dreusie - zamrażarka
 cecie - mikrofalówka
 baetie - piekarnik
-▶️ PAJŪ I NAJŪ - JEDZENIE I PICIE
-aemū  - jabłko
+▶️ PAJU I NAJU - JEDZENIE I PICIE
+aemu  - jabłko
 reuet - gruszka
 lestaèj - brzoskwinia
 nutaèr - banan
@@ -162,41 +162,41 @@ mius - mleko
 thig - chleb
 voedū - woda
 cardocie - pomidor
-sosū - sos
-leūcic, supū - zupa
+sosu - sos
+leūcic, supu - zupa
 cavie - kawa
 thae - herbata
 sal - sól
 fan - przyprawa
-chesgadū - śniadanie
-axgadū - lunch
-galvgadū - obiad
-paggadū - kolacja
-inpajū - przekąska
+chesgadu - śniadanie
+axgadu - lunch
+galvgadu - obiad
+paggadu - kolacja
+inpaju - przekąska
 dreusie - lody
-▶️ ANDAN I AUTA DAN AN SONŪ - MEBLE I INNE RZECZY W DOMU
+▶️ ANDAN I AUTA DAN AN SAUN - MEBLE I INNE RZECZY W DOMU
 sedie - krzesło
-thibū - stół
+thibu - stół
 seavces - szuflada
 lejces - łóżko
 lejnas - leżak
 gathetas - kaloryfer
 taedie - lampa
 stuvces - kontakt
-nopaesū - okno
+nopaesu - okno
 ▶️ PRATVAMA I ALDGALSA CASPETONT - POJĘCIA FIZYCZNE I MATEMATYCZNE
-manaètū - pozycja
-eucmanaètū - przemieszczenie
+manaètu - pozycja
+eucmanaètu - przemieszczenie
 rigesc - prędkość, velocity
 faedesc - szybkość, speed
 delinte - przyspieszenie
-reuzū - siła
+reuzu - siła
 gaūlfraena - elektryczny
 aezcitū - magnes [aezcitis - magnetyzm, aezcita - magnetyczny, aezcituc - magnesowy] #magnet
-nasreumū - oddziaływanie 
+nasreumu - oddziaływanie 
 energis - energia
-somrig cheftū - ruch jednostajny
-breustū - ciśnienie, nacisk
+somrig cheftu - ruch jednostajny
+breustu - ciśnienie, nacisk
 ▶️ TAP - ZWIERZĘTA
 bram - pies
 caec - kot
@@ -207,123 +207,121 @@ siedoc - małpa
 gil - ślimak
 pleur - świnia
 breul - kura, kurczas [breulnas - kurnik]
-zachū - wąż
+zachu - wąż
 daetop - gołąb
 jiraf - żyrafa
 elefant - słoń
-▶️ ID VASSANTŪ - BEZ KATEGORII
-caèlū - niebo
-ceulū - piekło
-itū - język/mowa
-nemū - imię/nazwa
+▶️ ID VASSANTU - BEZ KATEGORII
+caèlu - niebo
+ceulu - piekło
+nemu - imię/nazwa
 beat - rok
 pres - sposób
 seur - czas
 sint - powód
-lejvistū - poziom
-nitū - pokój
-cheftū - ruch
+lejvistu - poziom
+nitu - pokój
+cheftu - ruch
 ach - dzień
 man - miejsco
-gedū - państwo
+gedu - państwo
 cas - kraj, ziemia
 chardie - pieniądze
 dan - rzecz
 saun - dom
-dragū - droga
-asterū - gwiazda
+dragu - droga
+asteru - gwiazda
 aset - miasto
 cū - słowo
 prat - świat
-meanū - zainteresowanie
+meanu - zainteresowanie
 meanoc - ciekawostka
-smidū - dowód
+smidu - dowód
 stacis - nauka
-nadū - nadzieja
-verū - wiara
-avrū - prawda
+nadu - nadzieja
+veru - wiara
+avru - prawda
 paveasasc - uważność
 cavel - kawałek
-stedū - strona
-chadū - cień
-scesū - obraz
-caenū - rodzaj
-sapū - cisza
-feurū - ogień
-linū - strach
+stedu - strona
+chadu - cień
+scesu - obraz
+caenu - rodzaj
+sapu - cisza
+feuru - ogień
+linu - strach
 axer - urządzenie
 chevaxer - urządzenie mobilne
-berū - ubranie
+beru - ubranie
 sauris - inteligencja 
-fincū - chwila
-medū  - środek, centrum
+fincu - chwila
+medu - środek, centrum
 scaèt - księżyc 
 blat - liść 
 caspis - pogoda
-miscū - spokój
-nascitū - napięcie
+miscu - spokój
+nascitu - napięcie
 drevcas - las
-liscū - piosenka
+liscu - piosenka
 roesis - muzyka
-jeuntaetū - postęp 
+jeuntaetu - postęp 
 navces - drzwi 
 citcias - dworzec
-riezetū - pochodna
+riezetu - pochodna
 egesic - całka 
 fald - pole
 adis - umysł 
-reuvgantū - telewizja
+reuvgantu - telewizja
 reuvganer, RG, paesie - telewizor
 reues - prawo, zasada
 stacie - lekcja
-vardū - wartość 
+vardu - wartość 
 foc - typ, ziom, gostek
 iuces - populacja, ludność 
 iusis - ludzkość
-ceudū - problem
+ceudu - problem
 danie - temat
-scitū - część
+scitu - część
 scitsen - członek 
 seces - grupa
-meslejū - układ, layout
+mesleju - układ, layout
 axis - firma
 maūt - śmieć, śmieci
 maūtnas - śmietnik
 nesis - kolejność
 seuroc - moment
 vilcu - los
-gasū - głos
+gasu - głos
 stacdan - przedmiot szkolny/uczelniany
 mald - sens
-fincū - moment chwila
 molcias - kościół
 lastach - plecak
-besū - cena
-taedū - światło
-taèjū - fakt
-rafmaètū - miotła
+besu - cena
+taedu - światło
+taèju - fakt
+rafmaètu - miotła
 drasnas - komputer
 dag - raz, mal
 atoc - fakt
 paesoc - film
 jeurnas - chodnik
 jeurcas - podłoga
-asteftū - sufit
+asteftu - sufit
 neaūl - futro
-vamū - władza
+vamu - władza
 vamis - rząd
 vamsen - władca
 saèlcias - toaleta
 gadcias - kuchnia
-thezū - gość
-theznitū - salon, duży pokój
+thezu - gość
+theznitu - salon, duży pokój
 jacaèd - półkula, miska
-vaèzezū - talerz
+vaèzezu - talerz
 aznas - ściana
 gaèz - kosmos
 gaèztag - statek kosmiczny, rakieta
 theue - kamień
-ciansaurū - umowa, Vertrag
+ciansauru - umowa, Vertrag
 roc - lada, sklep
 smetcias - sklep
 smetroc - kasa
@@ -337,33 +335,33 @@ reuznas - silnik
 loen - słońce
 laet - warstwa
 nacnas - budzik
-raètū - zdrowie
-cethū - żart 
-teazū - wstyd [teazeye - wstydzić się]
+raètu - zdrowie
+cethu - żart 
+teazu - wstyd [teazeye - wstydzić się]
 sield - pas, pasmo, streifen
-smentū - lek
+smentu - lek
 smencias - apteka
 smenciassen - aptekarz
 smienas - lekarz
-dietū - zasada
+dietu - zasada
 gadeur - toaleta
 atoc - pomysł
-speuftū - duch 
+speuftu - duch 
 zél - dusza
-cathū - cel [cathe - celować]
+cathu - cel [cathe - celować]
 peusitis - odpowiedzialność
-toelū - wojna
-parciatū - sukces
-faūciatū - porażka, fail, Versagen
+toelu - wojna
+parciatu - sukces
+faūciatu - porażka, fail, Versagen
 saner - zeszyt
 sannas - długopis
 radnas - kredka
-radū - rysunek
+radu - rysunek
 sanie - esej, wypracowanie
 flaūt - trawa, zioło
-daūtū - blok, klocek [daūte - blokować]
-aviescajū - protest
-faūreftū - koszmar, zły sen
+daūtu - blok, klocek [daūte - blokować]
+aviescaju - protest
+faūreftu - koszmar, zły sen
 bor - moneta, pieniądz
 dhel - towar
 glam - termin
@@ -373,42 +371,44 @@ reūcat - wzór, Muster, pattern
 plid - wzór, Formel, formula
 baūd - sztuka (jedna sztuka)
 gaèzcaèd - planeta
-vuzū - dziura
+vuzu - dziura
 stud - most
 flar - zapał
 flaris - pasja
-faūtaetū - przestępstwo
+faūtaetu - przestępstwo
 stag - kara [stagete - ukarać]
 saèm - los
-jeungasetū - przeznaczenie
+jeungasetu - przeznaczenie
 zier - plotka
-jeunciatū - proces, Vorgang
-machinū - maszyna
+jeunciatu - proces, Vorgang
+machinu - maszyna
 senreumas - automat [senreuma - automatyczny]
 sug - ślad
 dezesc - ilość
 gald - głód [galda - głodny, galdeye - głodować, galdete - głodzi]
 fras - wiatr
 degchas - wakacje
-mescajū - wykaz, tabelka
+mescaju - wykaz, tabelka
 feard - okres (np. czasu)
 glas - skrzydło
 gaūdetas - pojemnik
 loes - pudło
 ūen - para [ūenete - zaparzyć]
-vaèlsetū - opcja, Wahlmöglichkeit
+vaèlsetu - opcja, Wahlmöglichkeit
 lad - dach
 chert - koszulka
 lebas - skarpetka
 baun - spodnie 
 galvas - czapka
 bluz - bluza
-euctothū - szalik
-tevberū - majtki
+euctothu - szalik
+tevberu - majtki
 greal - łańcuch
-atsantū - rozprawka
+atsantu - rozprawka
 raū - chmura
 sarom - brama 
 spenom - ogrodzenie, Zaun
 ciezom - krzew, krzak
-senvescū, atū - opinia {Et senvescoū, esv - moim zdaniem}
+senvescu, atū - opinia {Et senvescoū, esv - moim zdaniem}
+niee - cud [nieya - cudowny]
+eulc - łyk
