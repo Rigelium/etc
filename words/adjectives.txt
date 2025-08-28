@@ -23,7 +23,6 @@ umami - umami
 orsa - gorzki [oris - gorycz]
 géd, picant - ostry, pikantny
 ▶️ ID VASSANTY
-para - odpowiedni, poprawny
 tâv - dobry  [tyv tyven tyväs] 
 fam - zły
 faid, rig - szybki
@@ -32,106 +31,115 @@ saiga - użyteczny
 laga - śmieszny
 näik - poważny
 avra - prawdziwy
-faika - fajny
-syiga - łatwy
-sod - lekki, łatwy
-čar - ciężki 
-žys - trudny
-komplex - skomplikowany
-nešäs, nes - następny
-pag - póżny
-šes - wczesny
-lais - ostatni, końcowy
-leig - poprzedni, ostatni
-gels - mały
-nog - duży
-egs - cały
-ryz - silny
-sag - słaby
-dâv - długi
-karta - krótki
-riez - różny
+avra - prawdziwy
+bel - dziwny
+blas - płaski
+blek - gęsty
+bond - mądry
 byn - równy
-gelka - szczęśliwy, wesoły
-žal - smutny
+bäin - biedny
+dies - wąski
+diuva - częsty
+driek - stary
+dräi - mokry
+duv - gotowy, gotów
+dâv - długi
+egs - cały
+faid, rig - szybki
+faika - fajny
+fam - zły
 fand - ważny
-norna - do zrobienia
+fardai - zmęczony
+fieš - prosty (np. linia)
+flap - grzeczny
+ful - leniwy
+fäl - wolny, frei
+gar - ładny
+gač - gorący
+gelka - szczęśliwy, wesoły
+gels - mały
+gom - brzydki
+hain - głośny
+heik - uroczy
+hyt - suchy
+illig - niebezpieczny
 ilverna - niewiarygodny
 ilversat - małowierny
-sârna - zrozumiały
-ysta - szczery
-setra - dawny
-pata - tani
-vaska - fałszywy
-kiana - wspólny
-čah, šardid - darmowy, bezpłatny
-pra - nowy
-vrav - podobny
+karta - krótki
 kež - dokładnie, ceja - dokładny
 keždatai - konkretny
-gar - ładny
-sen - sam, samemu
-vrais - pewny [vraisau - na pewno, pewnie]
-smeka - smaczny
+kežnasa - szczegółowy
+kežveska - szczególny (besonders)
+kiana - wspólny
+komplex - skomplikowany
+käider, lagvarda - żałosny
+laga - śmieszny
+lais - ostatni, końcowy
 lan - zimny
 led - wolny
-než - niski
-suvena - piękny
-fardai - zmęczony
-duv - gotowy, gotów
-ful - leniwy
-nusid - jedyny
-saveska - ogólny
-meskaina - różnorodny
-sner - pełny 
-bel - dziwny
-vilka - randomowy, losowy
-smienk - miły
-sagala - oczywisty
-kežveska - szczególny (besonders)
-kežnasa - szczegółowy
-steu - dumny
-navveska - publiczny
-râd - gruby
-sund - szeroki
-dies - wąski
-blek - gęsty
-diuva - częsty
-meu - ciepły
-gač - gorący
-bond - mądry
-hain - głośny
-fieš - prosty (np. linia)
-raf - czysty
-nät - uporządkowany, aufgeräumt
-läis - młody
-driek - stary
-fäl - wolny, frei
-bäin - biedny
-nais - bogaty
-suvräin - niesamowity, awesome
-käider, lagvarda - żałosny
-noika - przyjemny
-âtsenka - alternatywny
-sevota - wzajemny [sevotaū - nawzajem]
-praveska - oryginalny (originell)
-suveska - oryginalny (original)
-medveska - średni, average
-meda {Aizokis Meda} - środkowy, centralny {Aizokis Główny}
-vien - cienki, chudy
-blas - płaski
-som - stały #stale
-preg - pusty #empty
-flap - grzeczny
-gom - brzydki
+leig - poprzedni, ostatni
 lig - bezpieczny
-illig - niebezpieczny
-vajan - raczej
-šiala - szalony
-siuglama - przeterminowany
-hyt - suchy
-dräi - mokry
+läis - młody
+meda {Aizokis Meda} - środkowy, centralny {Aizokis Główny}
+medveska - średni, average
+meskaina - różnorodny
+meu - ciepły
+mäna - ciekawy
+nais - bogaty
+navveska - publiczny
+nešäs, nes - następny
+než - niski
+nog - duży
+noika - przyjemny
+norna - do zrobienia
+nusid - jedyny
+näik - poważny
+nät - uporządkowany, aufgeräumt
+pag - póżny
+para - odpowiedni, poprawny
 paral - sprawiedliwy
-senal - samotny
+pata - tani
+pra - nowy
+praveska - oryginalny (originell)
+preg - pusty #empty
+raf - czysty
+riez - różny
 roi - wielki
-heik - uroczy
+ryz - silny
+râd - gruby
+sag - słaby
+sagala - oczywisty
+saiga - użyteczny
+saveska - ogólny
+sen - sam, samemu
+senal - samotny
+setra - dawny
+sevota - wzajemny [sevotaū - nawzajem]
+siuglama - przeterminowany
+smeka - smaczny
+smienk - miły
+sner - pełny
+sod - lekki, łatwy
+som - stały #stale
+steu - dumny
+sund - szeroki
+suvena - piękny
+suveska - oryginalny (original)
+suvräin - niesamowity, awesome
+syiga - łatwy
+sârna - zrozumiały
+tâv - dobry  [tyv tyven tyväs]
+vajan - raczej
+vaska - fałszywy
+vien - cienki, chudy
+vilka - randomowy, losowy
+vrais - pewny [vraisau - na pewno, pewnie]
+vrav - podobny
+ysta - szczery
+âtsenka - alternatywny
+čah, šardid - darmowy, bezpłatny
+čar - ciężki
+šes - wczesny
+šiala - szalony
+žal - smutny
+žys - trudny
