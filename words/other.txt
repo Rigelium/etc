@@ -1,155 +1,155 @@
 ▶️ PREPOSITIS I VRAVENT - PREPOZYCJE ITP.
 i - i 
 det - a 
-jiel - ani
-chac - ale
-meas - nawet
+žiel - ani
+šak - ale
+mäs - nawet
 em - dla
 o - już
-je - jeszcze
-umae - znowu
-maès - nadal
-aūris - o (about a topic)
-aris, ac - tylko
+že - jeszcze
+umai - znowu
+mäis - nadal
+auris, au - o (about a topic)
+aris, ak - tylko
 aval - prawie
 pris - czy
-mich - zamiast
-acos - pomimo
-ceunaū - właściwie/eigentlich
-naezaū - właśnie (w tym momencie)
+miš - zamiast
+akos - pomimo
+kynau - właściwie/eigentlich
+naizau - właśnie, aktualnie, gerade (w tym momencie)
 son - za (np. za coś płacić)
 avies - przeciw, przeciwko
-rean - wobec
+rän - wobec
 no - przez
 id - bez
-viscaū - może
-cod, riv - też
+viskau - może
+kod, riv - też
 valen - chyba
-spaed - pewnie, najprawdopodobniej, wohl, probably
-reuvan - dalej [reuv - daleki]
-avresenca - prawdopodobny 
-naū - jako
-naūdis - w ogóle
-michet - tylko (sondern)
-dismich - a nie
+spaid - pewnie, najprawdopodobniej, wohl, probably
+ryvan - dalej [ryv - daleki]
+avresenka - prawdopodobny 
+nau - jako
+naudis - w ogóle
+mišet - tylko (sondern)
+dismiš - a nie
 for - według
-ec - jakby, jak gdyby
+ek, kvazie - jakby, jak gdyby, quasi
 ta - bo
 bis - dopiero
-seuram - podczas
+syram - podczas
 on - za, pro {Axiu 40 daèv on chas. Ve bude €5 on baūd}
-finccam - kiedy tylko, as soon as, sobald
-tandauv - dopóki, tak długo jak, solange
-▶️ SNERETCONT - FILLER WORDS
+finkkam - kiedy tylko, as soon as, sobald
+tandâv - dopóki, tak długo jak, solange
+▶️ SNERETKONT - FILLER WORDS
 so... - nooo...
 da.../dava...- ten teges
-deus - cóż...
+dys - cóż...
 eustaū iteno - szczerze powiedziawszy
-vesciu - mam na myśli, I mean
-an saetu - w sensie 
-▶️ S'SANETE SEURET - OPISYWANIE CZASU
-seur - czas
+veskiu - mam na myśli, I mean
+an saity - w sensie 
+ateno - w sumie, w zasadzie
+▶️ S'SANETE SYRET - OPISYWANIE CZASU
+syr - czas
 ad - since / od
-nae - until / do
-beat aūris, jeun beat - rok temu, vor einem Jahr
-an beat - w ciągu roku, innerhalb eines Jahres
-no beat - za rok, in einem Jahr
-beat jeunet/laset - rok wcześniej/później 
-seuru nebeat - podczas roku 
+nai - until / do
+bät auris, žyn bät - rok temu, vor einem Jahr
+an bät - w ciągu roku, innerhalb eines Jahres
+no bät - za rok, in einem Jahr
+bät žynet/laset - rok wcześniej/później 
+syru nebät - podczas roku 
 tev da beat - w tym roku 
-jeun - przed
+žyn - przed
 las - po
-greas - teraz
-ranach - dzień (jako pora dnia)
-chesnoc - rano
-jeunjeach - przedpołudnie
-jeach - południe
-lasjeach - popołudnie
-jeunnotu - wieczór
-spatu - noc
-raen - zaraz
-▶️ DIUVASC - CZĘSTOTLIWOŚĆ [!4]
-sacam - zawsze #!4
-normaū - zazwyczaj #!4
-diuvaū  - często #!4
-seuru - czasem #!4
-iliaū - nigdy #!4
-citaū - ciągle #!4
-necaū - rzadko #!4
-▶️ SEUECES - JEDNOSTKI CZAS
-beatpar - dekada
-beat - rok
-mesit - miesiąc 
-chascansū - weekend
-chas - tydzień 
-ach - dzień
-notu - noc
-daev - godzina
-daèzog - minuta
-naèdit - sekunda
-gavetu - jutro
+gräs, hai - teraz
+ranaš - dzień (jako pora dnia)
+šesog - rano
+žynžaš - przedpołudnie
+žaš - południe
+lasžaš - popołudnie
+žynnoty - wieczór
+noty - noc
+rain - zaraz
+▶️ DIUVASK - CZĘSTOTLIWOŚĆ [!4]
+skam - zawsze #!4
+normau - zazwyczaj #!4
+diuvau  - często #!4
+syru - czasem #!4
+iliau - nigdy #!4
+kitau - ciągle #!4
+nekau - rzadko #!4
+▶️ SYIKES - JEDNOSTKI CZAS
+bätpar - dekada
+bät - rok
+skäits - miesiąc 
+šaskansty - weekend
+šas - tydzień 
+aš - dzień
+noty - noc
+däiv - godzina
+däizog - minuta
+näidik - sekunda
+gavety, venaš - jutro
 pralies - wczoraj
-▶️ MESIT - MIESIĄCE
-deces - styczeń
-dreusnas - luty
+▶️ SKÄITS - MIESIĄCE
+dekes - styczeń
+drysnas - luty
 breznas - marzec
-cevitces - kwiecień
-mayus - maj
-cardnas - czerwiec
+kevitkes - kwiecień
+majus - maj
+kardnas - czerwiec
 julie - lipiec
-▶️ ACH NECHAS - DNI TYGODNIA
-scaètnas - poniedziałek
+▶️ AŠ NEŠAS - DNI TYGODNIA
+skäitnas - poniedziałek
 dinnas - wtorek
-chasmed - środa
-richnas - czwartek
-gaurnas - piątek
-thernas - sobota
-cansces - niedziela
-▶️ BEATSEUR - PORY ROKU
-vencū - wiosna
-lincū - lato
+šasmedy - środa
+riešnas - czwartek
+hârnas - piątek
+černas - sobota
+kanskes - niedziela
+▶️ BÄTSYR - PORY ROKU
+venky - wiosna
+linky - lato
 blatnas - jesień
-lances - zima
+lankes - zima
 ▶️ PUGONT - POZDROWIENIA
-Tauv ach ! - Dzień dobry!
-Tauv nottot ! - Dobranoc! 
-Nae s'mielse ! - Do widzenia! 
-Asprathiu, sprathiu - Przepraszam
+Tâv aš ! - Dzień dobry!
+Tâv noty ! - Dobranoc! 
+Nai s'mielse ! - Do widzenia! 
+Aspračiu, spračiu - Przepraszam
 Giriu/gir's - dziękuję/dzięki
-Cae ! - Hej! 
-Tauveas samot (son betach) ! - Wszystkiego najlepszego (z okazji urodzin)! 
-Ge destu ! - Nie ma za co!
-Son raètu ! - Na zdrowie!
+Kai ! - Hej! 
+Sa tâväs (son betach) ! - Wszystkiego najlepszego (z okazji urodzin)! 
+Ge desty ! - Nie ma za co!
+Son räity ! - Na zdrowie!
 puge - pozdrowić
-▶️ PREPOSITIS NECHEFTŪ I NEMANAÈTŪ - PREPOSITIONS OF MOVEMENT AND POSITION
+▶️ PREPOSITIS NEŠEFTY I NEMANÄITY - PREPOSITIONS OF MOVEMENT AND POSITION
 alt - ponad
 tev - pod
 las - za czymś
-jeun - przed
+žyn - przed
 in - między
 spen - dookoła
 casp - poza
 tac - obok
-reues - prawo
+ryis - prawo
 lend - lewo
-astu - góra
+asty - góra
 as - na górze czegoś
-utu - dół
-
+uty - dół
 an    ¦ en    ¦ és  -    w 
 ez    ¦ nas   ¦ zen -    na (horizontal)
 az    ¦ nas   ¦ zan -    na (vertical) 
 vé    ¦ vas   ¦ zav -    przy 
-▶️ Ilość
-dużo - rieu
-więcej - rieun
-najwięcej - rieus
-mało - mieu
-mniej - mieun
-najmniej - mieus
-camies - kilka 
-▶️ Miscancelaneous
+▶️ DEZESK - ILOŚĆ 
+dużo - riy
+więcej - riyn
+najwięcej - riys
+mało - miy
+mniej - miyn
+najmniej - miys
+kamies - kilka 
+▶️ Âtvaita - Miscancelaneous
 dis - nie
-gen - tak
-chan - trochę
-veus - bardzo
+gen, han - tak
+ša - trochę
+vys - bardzo
