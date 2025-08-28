@@ -1,274 +1,274 @@
-väile, éssyke - wybrać, wybierać
-uiele (nas) - czekać (na)
-vaite - zostać
-väite - zostawić #lassen leave
-frese - usunąć
-šepe - spać
-bege - biegać, biec
-roje - brzmieć 
-kreje - dotknąć, dotykać
-kaite - służyć
-kaitete - obsłużyć [kaitety - obsługa]
-bande - uderzyć, bić
-kaue - hauen, uderzyć, walnąć
-kore - prowadzić
-neme - nazywać (się)
-kaže - pokazać
-gyse - próbować
-haite - spaść, upaść
-hade - gotować [hady - danie]
+(at)paese nau - postrzegać jako, irgendwie ansehen
 alde - liczyć
-nikeje - zniknąć
-symeje - pojawić się 
-šele - pomagać, pomóc
-sane - pisać
-ate (ža) - uważać/myśleć (że) 
-gale - wiedzieć/znać
-degale - dowiedzieć się/poznać
-gane - widzieć 
-sâre - rozumieć 
-rese - mieć
-le - być
-mete - mieć powinność 
-dele - zostać
-nore - robić
-saje - znaczyć
-deste, sure - chcieć
-sete - móc
-desete - umożliwić
-kiate - iść
-pyse - wrócić
-saige - używać
-leje - istnieć
-lete - tworzyć
-ite - mówić, powiedzieć 
-kade - latać
-defâreje - zaprzyjaźnić się
-fende - znaleźć
-syke - szukać
-mane - umieścić / place
-kire - zgadnąć, zgadywać
-mike - tulić
-esplike, ranete - wytłumaczyć, tłumaczyć
-käme - czuć / odczuwać
-ese - wyjść, przestać
-säne - wygrać
-mäne - interesować, ciekawić
-vere - wierzyć
-nade - mieć nadzieję
-paväse - uważać [pavästy - uwaga]
-pede - rzucić
-haude - trzymać
-lise - czytać
-sare - zamknąć
-rase - przerwać, przestać (coś robić)
-roile - kierować [roilty - kierunek]
-kiale - jechać
-sege - oglądać
-steze - sprawdzić
-roise - ratować, uratować
-kape - kryć
-liokape - odkryć
-krade - porządkować, ordnen [vaskrade - zurodnen, przyporządkować]
-dryse - mrozić
-bryse - nacisnąć, przycisnąć [przycisk - brysnas]
-nakeje - obudzić się [nak - obudzony, na jawie] #awake wach
-nakete - obudzić
-sabe - zepsuć się [liosabe - naprawić, sabai - zepsuty]
-vame - rządzić
-linte - spieszyć się
-lande - skakać
-minte - głaskać
-lieve - ufać
-danse - wiązać [zadansae - powiązany] 
-kére - pytać
-čase - wystarczyć
-siuite - rozkazać/zamówić
-veže - płynąć, fließen [vežy - płyn, vežkes - rzeka, veža - płynny]
-ruse - płynąć, schwimmen [ruskias - basen]
-päre (au) - martwić się (o kogoś)
-nave - otworzyć, otwierać
-bare - nudzić się
-paise - patrzeć, wyglądać
-veske - mieć na myśli, meinen
-senke - wydawać się, scheinen
-daskeje - brakować
-gäre - zatrzymać
-ryme - działać
-čarite - narzekać
-nove - rozmawiać
-reke - pachnieć
-faureke - śmierdzieć
-save - udać się
-lape - zdążyć
-granete - chronić
-vene - przyjść
-vense - życzy
-vâre - mierzyć
-lače - łączyć
-smete - kupić
-haule - ładować (kolokwialnie: dawać czadu, lecieć, szaleć, strzelać)
-drase - rozwiązać
-daže - podążać, follow, folgen
-rade - rysować 
-sede - siedzieć, posadzić
-kande - stać, postawić
-gele - wisieć, powiesić
-leže - leżeć, położyć
-stuve - stecken
-darde - trwać
-prade - płakać
-gasete - określać, bestimmen
-ykväine - przekazać, umleiten (väine - leiten)
-driese - zachowywać się
-driesete - traktować
-depaise - zauważyć
-šarde - płacić
-bere - nosić (ubrania)
-fade - łamać 
-kanse - skończyć 
-kâre - zgadzać się, zgodzić się
-decâre - pogodzić się
-liokâre - pokłócić się
-paže - jeść
-naže - pić
-faje - celeborwać
-bete - urodzić (się) 
-taste - ciąć
-lerse - zdecydować, decydować
-roše - palić
-lage - śmiać się
-axe - pracować
-prache - brać, wziąć
-naspene - podarować
-bere - nosić
-asprate - przeprosić
-frese - usunąć
-stake - uczyć 
-kâte - żyć
-gäine - mieszkać
-rove - studiować
-galete - informować 
-čende - wysyłać/wysłać
-žaule - życzyć
-derese/nete - dostać
-pysite - odpowiedzieć
-pede - rzucić
-kiale - jechać
-mire - umrzeć
-byše - zabić
-gelve - lubić [gelft - przysługa, Gefallen]
-praste - kochać
-čede - nienawidzić
-šane - zmienić/zmienić się
-date - dać
-esdate - wydać (pieniądze), ergeben
-vriese - spędzać (czas)
-ševe - ruszać (się) 
-nare - słyszeć
-narete - słuchać
-mielse - spotkać się
-ise - pozwolić
-lioise - zakazać
-kite - ciągnąć
-šeje - musieć
-šete - potrzebować
-leuke - lać
-unte - budować [untis - budownictwo, untu - budowa, untie - budynek]
-smide - udowodnić
-skaše - dzwonić 
-gite - wołać
-žyre - chodzić, spacerować [jeuru - spacer]
-säve - pchać
-gäile - podnieść [gäilie - dźwignia, Hebel]
-baite - piec
-keke - falować, chwiać się
-žäipe - chwycić [žäipy - uchwyt]
-seile - myć się
-mäine - czarować [mäinis - magia]
-prašeje (nasu) - zajmować się (czymś)
-ryte - badać
-vede - kręcić
-gäte - złapać
-däise - przegrać
-rale - bawić się [ralie - zabawka]
-smene - leczyć
-deskesete - wyobrazić
-taike - schalten [yktaike - przełączyć, entaike - włączyć, éstaike - wyłączyć]
-kiene - montować, mocować
-noike - please, sprawić przyjemność
-skoite - ćwiczyć
-naitieme - żałować
-time - całować
-kaibe - uśmiechać się [kaiby - uśmiech]
-desenke - okazać się
-tyvväine - polecić, rekomendować
-engire - zaprosić
-säine (au) - marzyć (o)
-meslare - decay, rozkładać się
-nesete - następować
-leigete - poprzedzać, proceed
-bite - głaskać
-éskaue - wybuchnąć, eksplodować
-gaune - pomylić
-dame - zamienić, wechseln
-byje (euc) - dbać, troszczyć się (o)
-tevkore - kontrolować, sterować
-espe - zarabiać
-bude - kosztować
-geve - woleć, preferować [gefty - preferencja]
-ose - minąć [osty - przeszłość]
-pase - stać się
-éskaže - reprezentować
-beve - zapisać, speichern
-nydeje - zgubić się [nyde - zgubić]
-liorese, čule - stracić
-rielve - uciec
-syze - zasłonić
-päikeje - promieniować [päiky - promień]
-bére - wymagać, erfordern
-méne - wozić
-blame - żądać, anfragen
-bense (yk) - opierać się (o) [bensty - oparcie] #oprzeć się
-dyrete - oprzeć się czemuś #opierać się
-duce - pochylić się
-tiese - uwielbiać [tiesty - uwielbienie]
-daube - walczyć [dauby - walka]
-siuleže (zav) - zależeć (od)
-kute - dusić
-saule - tonąć
-vese - zanurzyć (się)
-kieze - rosnąć [decieze - dorosnąć, deciezae - dorosły]
-taye - stąpać, treten [jeuntaetu - postęp]
-riyje - zwiększyć się, wzrosnąć, steigen # increase
-riyte - zwiększyć, steigern #increase
-miyje - zmniejszyć się, spaść, sinken #decrease
-miyte - zmniejszyć, senken #decrease
-viende - wspinać się
-nätete - porządkować, robić porządki #aufräumen aufgeräumt
-frasite - szeptać
-dege - odpocząć [degy - odpoczynek]
 anrese - zawierać [anrestu - content, Inhalt, składniki]
-korde - pasować [korda - pasujący]
-nopaise - przeglądnąć [nopaiser - przeglądarka]
-parete - poprawić, naprawić #fix
-deparete - naprawić #fix
-zeve - pakować [zefty - opakowanie, paczka]
-uare - gonić
-banke - polować, jagen
-siugäte - zaatakować
-daje - błyszczeć, lśnić 
-gate - chrupać [gatie - chipsy, gatik - chrupki, gatir - chrupiący]
-voine - dzielić, trennen
-stale - żegnać
-kave - witać, welcome
+asprate - przeprosić
+ate (ža) - uważać/myśleć (że)
 atsäne - przekonać
 aune - kłócić się
-siuate (... son ... / ... i ...) - pomylić (coś za coś/ coś z czymś)
-siukaže - udawać
-(at)paese nau - postrzegać jako, irgendwie ansehen
+axe - pracować
+baite - piec
+bande - uderzyć, bić
+banke - polować, jagen
+bare - nudzić się
+bege - biegać, biec
+bense (yk) - opierać się (o) [bensty - oparcie]
+bere - nosić
+bere - nosić (ubrania)
+bete - urodzić (się)
+beve - zapisać, speichern
+bite - głaskać
+blame - żądać, anfragen
+bryse - nacisnąć, przycisnąć [przycisk - brysnas]
+bude - kosztować
+byje (euc) - dbać, troszczyć się (o)
+byše - zabić
+bére - wymagać, erfordern
+daje - błyszczeć, lśnić
+dame - zamienić, wechseln
+danse - wiązać [zadansae - powiązany]
+darde - trwać
+daskeje - brakować
+date - dać
+daube - walczyć [dauby - walka]
+daže - podążać, follow, folgen
+decâre - pogodzić się
+defâreje - zaprzyjaźnić się
+degale - dowiedzieć się/poznać
+dege - odpocząć [degy - odpoczynek]
+dele - zostać
+depaise - zauważyć
+deparete - naprawić
+derese/nete - dostać
+desenke - okazać się
+desete - umożliwić
+deskesete - wyobrazić
+deste, sure - chcieć
+drase - rozwiązać
+driese - zachowywać się
+driesete - traktować
+dryse - mrozić
+duce - pochylić się
+dyrete - oprzeć się czemuś
+däise - przegrać
 enate - uwzględniać, bedenken, berücksichtigen
-parvasate - domyślić się
-smiege - całować
-laskérete - kwestionować
+engire - zaprosić
+esdate - wydać (pieniądze), ergeben
+ese - wyjść, przestać
+espe - zarabiać
+esplike, ranete - wytłumaczyć, tłumaczyć
+fade - łamać
+faje - celeborwać
+faureke - śmierdzieć
+fende - znaleźć
+frasite - szeptać
+frese - usunąć
+frese - usunąć
+gale - wiedzieć/znać
+galete - informować
+gane - widzieć
+gasete - określać, bestimmen
+gate - chrupać [gatie - chipsy, gatik - chrupki, gatir - chrupiący]
+gaune - pomylić
+gele - wisieć, powiesić
+gelve - lubić [gelft - przysługa, Gefallen]
+geve - woleć, preferować [gefty - preferencja]
+gite - wołać
+granete - chronić
+gyse - próbować
+gäile - podnieść [gäilie - dźwignia, Hebel]
+gäine - mieszkać
+gäre - zatrzymać
+gäte - złapać
+hade - gotować [hady - danie]
+haite - spaść, upaść
+haude - trzymać
+haule - ładować (kolokwialnie: dawać czadu, lecieć, szaleć, strzelać)
 hause - wątpić
+ise - pozwolić
+ite - mówić, powiedzieć
+kade - latać
+kaibe - uśmiechać się [kaiby - uśmiech]
+kaite - służyć
+kaitete - obsłużyć [kaitety - obsługa]
+kande - stać, postawić
+kanse - skończyć
+kape - kryć
+kaue - hauen, uderzyć, walnąć
+kave - witać, welcome
+kaže - pokazać
+keke - falować, chwiać się
+kiale - jechać
+kiale - jechać
+kiate - iść
+kiene - montować, mocować
+kieze - rosnąć [decieze - dorosnąć, deciezae - dorosły]
+kire - zgadnąć, zgadywać
+kite - ciągnąć
+korde - pasować [korda - pasujący]
+kore - prowadzić
+krade - porządkować, ordnen [vaskrade - zurodnen, przyporządkować]
+kreje - dotknąć, dotykać
+kute - dusić
+kâre - zgadzać się, zgodzić się
+kâte - żyć
+käme - czuć / odczuwać
+kére - pytać
+lage - śmiać się
+lande - skakać
+lape - zdążyć
+laskérete - kwestionować
+lače - łączyć
+le - być
+leigete - poprzedzać, proceed
+leje - istnieć
+lerse - zdecydować, decydować
+lete - tworzyć
+leuke - lać
+leže - leżeć, położyć
+lieve - ufać
+linte - spieszyć się
+lioise - zakazać
+liokape - odkryć
+liokâre - pokłócić się
+liorese, čule - stracić
+lise - czytać
+mane - umieścić / place
+meslare - decay, rozkładać się
+mete - mieć powinność
+mielse - spotkać się
+mike - tulić
+minte - głaskać
+mire - umrzeć
+miyje - zmniejszyć się, spaść, sinken
+miyte - zmniejszyć, senken
+mäine - czarować [mäinis - magia]
+mäne - interesować, ciekawić
+méne - wozić
+nade - mieć nadzieję
+naitieme - żałować
+nakeje - obudzić się [nak - obudzony, na jawie]
+nakete - obudzić
+nare - słyszeć
+narete - słuchać
+naspene - podarować
+nave - otworzyć, otwierać
+naže - pić
+neme - nazywać (się)
+nesete - następować
+nikeje - zniknąć
+noike - please, sprawić przyjemność
+nopaise - przeglądnąć [nopaiser - przeglądarka]
+nore - robić
+nove - rozmawiać
+nydeje - zgubić się [nyde - zgubić]
+nätete - porządkować, robić porządki
+ose - minąć [osty - przeszłość]
+paise - patrzeć, wyglądać
+parete - poprawić, naprawić
+parvasate - domyślić się
+pase - stać się
+paväse - uważać [pavästy - uwaga]
+paže - jeść
+pede - rzucić
+pede - rzucić
+prache - brać, wziąć
+prade - płakać
+praste - kochać
+prašeje (nasu) - zajmować się (czymś)
+pyse - wrócić
+pysite - odpowiedzieć
+päikeje - promieniować [päiky - promień]
+päre (au) - martwić się (o kogoś)
+rade - rysować
+rale - bawić się [ralie - zabawka]
+rase - przerwać, przestać (coś robić)
+reke - pachnieć
+rese - mieć
+rielve - uciec
+riyje - zwiększyć się, wzrosnąć, steigen
+riyte - zwiększyć, steigern
+roile - kierować [roilty - kierunek]
+roise - ratować, uratować
+roje - brzmieć
+rove - studiować
+roše - palić
+ruse - płynąć, schwimmen [ruskias - basen]
+ryme - działać
+ryte - badać
+sabe - zepsuć się [liosabe - naprawić, sabai - zepsuty]
+saige - używać
+saje - znaczyć
+sane - pisać
+sare - zamknąć
+saule - tonąć
+save - udać się
+sede - siedzieć, posadzić
+sege - oglądać
+seile - myć się
+senke - wydawać się, scheinen
+sete - móc
+siuate (... son ... / ... i ...) - pomylić (coś za coś/ coś z czymś)
+siugäte - zaatakować
+siuite - rozkazać/zamówić
+siukaže - udawać
+siuleže (zav) - zależeć (od)
+skaše - dzwonić
+skoite - ćwiczyć
+smene - leczyć
+smete - kupić
+smide - udowodnić
+smiege - całować
+stake - uczyć
+stale - żegnać
+steze - sprawdzić
+stuve - stecken
+syke - szukać
+symeje - pojawić się
+syze - zasłonić
+sâre - rozumieć
+säine (au) - marzyć (o)
+säne - wygrać
+säve - pchać
+taike - schalten [yktaike - przełączyć, entaike - włączyć, éstaike - wyłączyć]
+taste - ciąć
+taye - stąpać, treten [jeuntaetu - postęp]
+tevkore - kontrolować, sterować
+tiese - uwielbiać [tiesty - uwielbienie]
+time - całować
+tyvväine - polecić, rekomendować
+uare - gonić
+uiele (nas) - czekać (na)
+unte - budować [untis - budownictwo, untu - budowa, untie - budynek]
+vaite - zostać
+vame - rządzić
+vede - kręcić
+vene - przyjść
+vense - życzy
+vere - wierzyć
+vese - zanurzyć (się)
+veske - mieć na myśli, meinen
+veže - płynąć, fließen [vežy - płyn, vežkes - rzeka, veža - płynny]
+viende - wspinać się
+voine - dzielić, trennen
+vriese - spędzać (czas)
+vâre - mierzyć
+väile, éssyke - wybrać, wybierać
+väite - zostawić
+ykväine - przekazać, umleiten (väine - leiten)
+zeve - pakować [zefty - opakowanie, paczka]
+éskaue - wybuchnąć, eksplodować
+éskaže - reprezentować
+čarite - narzekać
+čase - wystarczyć
+čede - nienawidzić
+čende - wysyłać/wysłać
+šane - zmienić/zmienić się
+šarde - płacić
+šeje - musieć
+šele - pomagać, pomóc
+šepe - spać
+šete - potrzebować
+ševe - ruszać (się)
+žaule - życzyć
+žyre - chodzić, spacerować [jeuru - spacer]
+žäipe - chwycić [žäipy - uchwyt]
