@@ -70,7 +70,7 @@
           const lines = text.split('\n');
           let matches = lines.filter(line => line.toLowerCase().includes(keyword));
           adjAmount = matches.length;
-          document.getElementById("sanetnas").textContent = "➡️ SANETNAS " + "(" + String(adjAmount) + " esdatu)";
+          document.getElementById("sanetnas").textContent = "➡️ SANETNAS " + "(" + String(adjAmount) + " ésdaty)";
           if (matches.length > 0) {
             for (let k = 0; k < matches.length; k++){
               if (matches[k].includes("#")){
@@ -93,7 +93,7 @@
           const lines = text.split('\n');
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
  verbAmount = matches.length;
-          document.getElementById("reumnas").textContent = "➡️ REUMNAS " + "(" + String(verbAmount) + " esdatu)";
+          document.getElementById("reumnas").textContent = "➡️ RYMNAS " + "(" + String(verbAmount) + " ésdaty)";
           if (matches.length > 0) {
             for (let k = 0; k < matches.length; k++){
               if (matches[k].includes("#")){
@@ -116,7 +116,7 @@
           const lines = text.split('\n');
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
  nounAmount = matches.length;
-          document.getElementById("dannas").textContent = "➡️ DANNAS " + "(" + String(nounAmount) + " esdatu)";
+          document.getElementById("dannas").textContent = "➡️ DANNAS " + "(" + String(nounAmount) + " ésdaty)";
           if (matches.length > 0) {
             for (let k = 0; k < matches.length; k++){
               if (matches[k].includes("#")){
@@ -139,7 +139,7 @@
           const lines = text.split('\n');
           const matches = lines.filter(line => line.toLowerCase().includes(keyword));
  otherAmount = matches.length;
-          document.getElementById("idcategoris").textContent = "➡️ ID CATEGORIS " + "(" + String(otherAmount) + " esdatu)";
+          document.getElementById("idcategoris").textContent = "➡️ ID CATEGORIS " + "(" + String(otherAmount) + " ésdaty)";
           if (matches.length > 0) {
             for (let k = 0; k < matches.length; k++){
               if (matches[k].includes("#")){
