@@ -1,117 +1,124 @@
 ▶️ LISPEN - KOLOR
 violet - fioletowy
-neux - niebieski
-cheld - zielony
+nyx - niebieski
+šeld - zielony
 nab - żółty
 bras - pomarańczowy
-card - czerwony
-nec - biały
-cieur - czarny 
-neuv - ciemny
+kard - czerwony
+nek - biały
+kiyr - czarny 
+nyv - ciemny
 ran - jasny 
 lang - szary
-siaj - różowy
-raund - brązowy
+siaž - różowy
+rând - brązowy
 noganna - przezroczysty
 lispena - kolorowy
-▶️ ID VASSANTU
+klära - złoty
+argenta - srebrny
+▶️ SMEKENT - SMAKI
+miei - słodki, uroczy [mieity - słodycz, miejesk - słodkość, słodycz]
+sala - słony
+umami - umami
+orsa - gorzki [oris - gorycz]
+géd, picant - ostry, pikantny
+▶️ ID VASSANTY
 para - odpowiedni, poprawny
-tauv - dobry  [teuv teuven teuvas] 
+tâv - dobry  [tyv tyven tyväs] 
 fam - zły
-faed, rig - szybki
-meana - ciekawy
-saega - użyteczny
+faid, rig - szybki
+mäna - ciekawy
+saiga - użyteczny
 laga - śmieszny
-naèc - poważny
+näik - poważny
 avra - prawdziwy
-faeca - fajny
-seuega - łatwy
+faika - fajny
+syiga - łatwy
 sod - lekki, łatwy
-thar - ciężki 
-jeus - trudny
-complex - skomplikowany
-necheas, nes - następny
+čar - ciężki 
+žys - trudny
+komplex - skomplikowany
+nešäs, nes - następny
 pag - póżny
-ches - wczesny
-laes - ostatni
-laèg - poprzedni
+šes - wczesny
+lais - ostatni, końcowy
+leig - poprzedni, ostatni
 gels - mały
 nog - duży
-eges - cały
-reuz - silny
+egs - cały
+ryz - silny
 sag - słaby
-dauv - długi
-carta - krótki
+dâv - długi
+karta - krótki
 riez - różny
-riven - równy
-gelca - szczęśliwy, wesoły
-jal - smutny
+byn - równy
+gelka - szczęśliwy, wesoły
+žal - smutny
 fand - ważny
 norna - do zrobienia
 ilverna - niewiarygodny
 ilversat - małowierny
-saurna - zrozumiały
-eusta - szczery
+sârna - zrozumiały
+ysta - szczery
 setra - dawny
 pata - tani
-vasca - fałszywy
-ciana - wspólny
-thag, chardid - darmowy 
+vaska - fałszywy
+kiana - wspólny
+čah, šardid - darmowy, bezpłatny
 pra - nowy
 vrav - podobny
-cej - dokładnie, ceja - dokładny
+kež - dokładnie, ceja - dokładny
+keždatai - konkretny
 gar - ładny
 sen - sam, samemu
-vraes - pewny [vraesaū - na pewno, pewnie]
-smeca - smaczny
+vrais - pewny [vraisau - na pewno, pewnie]
+smeka - smaczny
 lan - zimny
-valen, led - wolny
-nej - niski
+led - wolny
+než - niski
 suvena - piękny
-fardae - zmęczony
+fardai - zmęczony
 duv - gotowy, gotów
 ful - leniwy
 nusid - jedyny
-savesca - ogólny
-mescaena - różnorodny
+saveska - ogólny
+meskaina - różnorodny
 sner - pełny 
 bel - dziwny
-vilca - randomowy, losowy
-smienc - miły
+vilka - randomowy, losowy
+smienk - miły
 sagala - oczywisty
-cejvesca - szczególny (besonders)
-cejnasa - szczegółowy
-steūs - dumny
-navvesca - publiczny
-raud - gruby
+kežveska - szczególny (besonders)
+kežnasa - szczegółowy
+steu - dumny
+navveska - publiczny
+râd - gruby
 sund - szeroki
 dies - wąski
-blec - gęsty
-neca - rzadki
+blek - gęsty
 diuva - częsty
-meū - ciepły
-gath - gorący
+meu - ciepły
+gač - gorący
 bond - mądry
-gaen - głośny
-fiech - prosty (np. linia)
+hain - głośny
+fieš - prosty (np. linia)
 raf - czysty
-neat - uporządkowany, aufgeräumt
-laès - młody
-driec - stary
-feal - wolny, frei
-baèn - biedny
-naes - bogaty
-savron - niesamowity, awesome
-caèder - żałosny
-noeca - przyjemny
-autsenca - alternatywny
+nät - uporządkowany, aufgeräumt
+läis - młody
+driek - stary
+fäl - wolny, frei
+bäin - biedny
+nais - bogaty
+suvräin - niesamowity, awesome
+käider, lagvarda - żałosny
+noika - przyjemny
+âtsenka - alternatywny
 sevota - wzajemny [sevotaū - nawzajem]
-pravesca - oryginalny (originell)
-suvesca - oryginalny (original)
-medvesca - średni, average
-meda {Aezocis Meda} - środkowy, centralny {Aezocis Główny}
-fien - cienki, chudy
-orsa - gorzki [oris - gorycz]
+praveska - oryginalny (originell)
+suveska - oryginalny (original)
+medveska - średni, average
+meda {Aizokis Meda} - środkowy, centralny {Aizokis Główny}
+vien - cienki, chudy
 blas - płaski
 som - stały #stale
 preg - pusty #empty
@@ -119,4 +126,12 @@ flap - grzeczny
 gom - brzydki
 lig - bezpieczny
 illig - niebezpieczny
-vayan - raczej
+vajan - raczej
+šiala - szalony
+siuglama - przeterminowany
+hyt - suchy
+dräi - mokry
+paral - sprawiedliwy
+senal - samotny
+roi - wielki
+heik - uroczy
