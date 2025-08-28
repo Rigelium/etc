@@ -23,13 +23,6 @@ umami - umami
 orsa - gorzki [oris - gorycz]
 géd, picant - ostry, pikantny
 ▶️ ID VASSANTY
-tâv - dobry  [tyv tyven tyväs] 
-fam - zły
-faid, rig - szybki
-mäna - ciekawy
-saiga - użyteczny
-laga - śmieszny
-näik - poważny
 avra - prawdziwy
 avra - prawdziwy
 bel - dziwny
@@ -143,3 +136,5 @@ ysta - szczery
 šiala - szalony
 žal - smutny
 žys - trudny
+pilny
+chory
