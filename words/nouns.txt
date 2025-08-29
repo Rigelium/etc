@@ -1,157 +1,158 @@
 ▶️ IU - LUDZIE
-sac - mężczyzna
-mae - kobieta
-fauru - kolega
-daec - chłopak
+sak - mężczyzna
+maj - kobieta
+fâr - kolega
+daik - chłopak
 mé - dziewczyna
-sautū - dziecko
-breur - brat
-seveur - siostra
-mamu - mama
-papu - tata
-babu - babcia
-dadu - dziadek
-thantic - ciocia
-gachoc - wujek
-stacsen - nauczyciel
+sâty - dziecko
+bryr - brat
+sevyr - siostra
+mam - mama
+pap - tata
+bab - babcia
+dad - dziadek
+čantik - ciocia
+gašog - wujek
+staksen - nauczyciel
 rovsen - wykładowca
 rovas - student
-stacas - uczeń
-senoc - osoba 
-cianis - społeczeństwo
-▶️ DEGITU - ZAWODY
-rocsen - kasjer
+stakas - uczeń
+senok - osoba 
+kianis - społeczeństwo
+▶️ DEGITY - ZAWODY
+roksen - kasjer
 liosmetas - sprzedawca
-baetas - piekarz
-beucgaūdas - księgowy [Beucgaūdis - księgowość]
-maūtsen - śmieciarz
-neatsen - sprzątaczka
-reutas - badacz
+baitas - piekarz
+bykhaudas - księgowy [Beucgaūdis - księgowość]
+mautsen - śmieciarz
+nätsen - sprzątaczka
+rytas - badacz
 atas - filozof, myśliciel
-gadas - kucharz
-chelas - pomocnik, asystent
-▶️ EUCMÉNTU - TRANSPORT
-citu - pociąg
-bus, dauvas - autobus
-vagu - auto
-vealu - rower
-gearcias - przystanek
-citcias - dworzec kolejowy
-buscias - dworzec autobusowy
-cialie - bilet 
+hadas - kucharz
+šelas - pomocnik, asystent
+▶️ EUCMÉNTY - TRANSPORT
+kity - pociąg
+bus, dâvas - autobus
+vagy - auto
+väly - rower
+härkias - przystanek
+kitkias - dworzec kolejowy
+buskias - dworzec autobusowy
+kialie - bilet 
 tag - statek, Schiff
-cadas - samolot
+kadas - samolot
 ▶️ GEDONT - PAŃSTWA
-Etcas - Eteja
-Polencas - Polska [Polen/Polences - polski]
-Doecas - Niemcy [Doeces - niemiecki]
+Etkas - Eteja
+Polenkas - Polska [Polen/Polenkes - polski]
+Doikas - Niemcy [Doikes - niemiecki]
 Belgis - Belgia [Belgsa - belgijski]
-Necralis - Niederlandy, Holandia [Necralsa - niderlandzki, holenderski]
-Eucraenu - Ukraina [Eucraenam - ukraiński]
+Nežkralis - Niederlandy, Holandia [Nežkralsa - niderlandzki, holenderski]
+Ykrainy - Ukraina [Ykrainam - ukraiński]
 Italis - Włochy [Italsa - włoski]
-Francas - Francja [Frances - francuski]
-Cispanis - Hiszpania [Cispansa - hiszpański]
-Celadis - Grecja [Celadsa - grecki]
+Frankas - Francja [Frankes - francuski]
+Ispanis - Hiszpania [Ispansa - hiszpański]
+Heladis - Grecja [Heladsa - grecki]
 Rosis - Rosja [Rossa - rosyjski]
-Sevedcas - Szwecja [Sevedces - szwedzki]
+Sevedkas - Szwecja [Sevedkes - szwedzki]
 Norvegis - Norwegia [Norvegsa - norweski]
-Ircas - Irlandia [Irces - irlandzki]
+Irkas - Irlandia [Irkes - irlandzki]
 Sevis - Szwajcaria [Sevsa - szwajcarski]
-Eustearis - Austria [Eustearsa - austriacki]
+Ystäris - Austria [Ystärsa - austriacki]
 Nogbritanis - Wielka Brytania [Britansa - brytyjski]
-Portugalū - Portugalia [Portugalam - portugalski]
-Teurcis - Turcja [Teurcsa - turecki]
+Portugaly - Portugalia [Portugalam - portugalski]
+Tyrkis - Turcja [Tyrksa - turecki]
 Romanis - Rumunia [Romansa - rumuński]
-Necrosis - Białoruś [Necrossa - białoruski]
-Estoncas - Estonia [Estonces - estoński]
-Slovencas - Słowacja [Slovences - słowacki]
-Madharcas - Węgierski [Madhar, Madharces - węgierski] 
-Seuyetae Candu N'ameriecu, SCN - USA, Stany Zjednoczone [SC-Ameriecam - amerykański]
+Nekrosis - Białoruś [Nekrossa - białoruski]
+Estonkas - Estonia [Estonkes - estoński]
+Slovenkas - Słowacja [Slovenkes - słowacki]
+Madiarcas - Węgierski [Madiar, Madiarkes - węgierski] 
+Syjetai Kandy N'amerieky, SCN - USA, Stany Zjednoczone [SK-Ameriekam - amerykański]
 Sina - Chiny [Sinam - chiński]
 Indis - Indie [Indsa - indyjski]
 Braziel - Brazylia [brazielam - brazylijski]
-▶️ CONTINENTU I VRAVENT - KONTYNENTY ITP.
-Eūropea - Europa [Eūropeasam - europejski]
-Eūropeasam Unis - Unia Europejska
-Ameriecu - Ameryka [Ameriecam - amerykański] 
-Afriecu - Afryka
-Aūstralis - Australia
-Antarctis - antarktyda
-Azee - Azja
-▶️ MAÈV I CASVAURIS - KSZTAŁTY I GEOMETRIA
+▶️ CONTINENTŪ I VRAVENT - KONTYNENTY ITP.
+Europä - Europa [Eūropeasam - europejski]
+Europäsam Unis - Unia Europejska
+Amerieky - Ameryka [Ameriecam - amerykański] 
+Afrieke - Afryka
+Australis - Australia
+Antarktis - antarktyda
+Azei - Azja
+▶️ MÄIV I CASVAURIS - KSZTAŁTY I GEOMETRIA
+mäiv - kształt
 bear - koło
-vaèzu - okrąg [vaèza - okrągły, vaèze - krążyć]
+väizy - okrąg [väiza - okrągły, väize - krążyć]
 rens - kwadrat
 pad - kąt
-dacpadnas - trójkát
-reuespadnas - prostokąt
-maètu - patyk, sztanga
-neath - linia, wstęga, wstążka
-caèd - kula
-glaèd - słup
-caèc - lina
-caūn (fiech) - linia (prosta)
-blasces - płaszczyzna
-ezu - powierzchnia
-luet - belka
-▶️ UNTOC - MATERIAŁY
-aezoc - metal [aezuc - metalowy]
-drevoc - drewno
-cunstoc - plastic
-linsoc - papier
-cidroc - wodór
-oxegoc - tlen 
-vecoc - szkło
-▶️ SCITU NEREUSAÈT
-reusaèt - ciało
-galvu - głowa
+dakpadnas - trójkát
+ryispadnas - prostokąt
+mäity - patyk, sztanga
+näč - linia, wstęga, wstążka
+käid - kula
+gläid - słup
+käik - lina
+kaun (fieš) - linia (prosta)
+blaskes - płaszczyzna
+ezkas - powierzchnia
+luit - belka
+▶️ UNTOK - MATERIAŁY
+aizok - metal [aezuk - metalowy]
+drevok - drewno
+kunstok - plastic
+linsok - papier
+kidrok - wodór
+oxegok - tlen 
+vekok - szkło
+▶️ SKITY NEČES - CZĘŚCI CIAŁA
+čes - ciało
+galvy - głowa
 atnas - mózg
-paeser/sem - oko, oczy
-recas - nos
-reul - twarz
+paiser/sem - oko, oczy
+rekas - nos
+ryl - twarz
 ram - ręka
-ceurs - dłoń
+kyrs - dłoń
 leb - stopa 
-tothu - szyja
-saèv - włosy
+točy - szyja
+säiv - włosy
 smig - paznokcie
-tevoc - tyłek
-taez - noga
+tevog - tyłek
+taiz - noga
 um - palec
-reuzoc - mięśnie
-rieth - serce
-vaūn - skóra
-sneur - kość
+ryzok - mięśnie
+rieč - serce
+vaun - skóra
+snyr - kość
 sob - brzuch
 nug - komórka
-▶️ ITGALIS I ITSTACIS - LINGWISTYKA I NAUKA JĘZYKÓW
-itu - język
-cu - słowo
+▶️ ITGALIS I ITSTAKIS - LINGWISTYKA I NAUKA JĘZYKÓW
+ity - język
+ky - słowo
 menas - litera 
-vescie - zdanie
+veskie - zdanie
 menasis - alfabet
-roetu - głoska, dźwięk
-cianroetu - spółgłoska
-voenroetu - samogłoska
+roity - głoska, dźwięk
+kianroity - spółgłoska
+voinroity - samogłoska
 ▶️ AXER - URZĄDZENIA
-scachnas - telefon
-dreusie - zamrażarka
-cecie - mikrofalówka
-baetie - piekarnik
-▶️ PAJU I NAJU - JEDZENIE I PICIE
-aemu  - jabłko
-reuet - gruszka
-lestaèj - brzoskwinia
-nutaèr - banan
+skašnas - telefon
+drysnas - zamrażarka
+kekie - mikrofalówka
+baitie - piekarnik
+▶️ PAŽY I NAŽY - JEDZENIE I PICIE
+aimy  - jabłko
+ryit - gruszka
+lesteiž - brzoskwinia
+nuteir - banan
 bris - owoc
-casbris - ziemniak
-ceūt - marchewka
-bec - cebula
-cheldom - warzywo
-ceup - tłuszcz
-bleur - olej
-miusbleur - masło
-baèg - jajko
+kasbris - ziemniak
+keut - marchewka
+bek - cebula
+šeldom - warzywo
+keup - tłuszcz
+blyr - olej
+miusblyr - masło
+beig - jajko
 teut - mięso
 prean - mąka
 preanneath - makaron
@@ -159,256 +160,260 @@ baūth - ciasto (surowe)
 baūthnas - ciasto, tort, placek
 baūthie - ciastko, ciasteczko
 mius - mleko
-thig - chleb
-voedū - woda
-cardocie - pomidor
-sosu - sos
-leūcic, supu - zupa
-cavie - kawa
-thae - herbata
+čig - chleb
+voidy - woda
+kardokie - pomidor
+sosy - sos
+leukik, supy - zupa
+kavie - kawa
+čaj - herbata
 sal - sól
 fan - przyprawa
-chesgadu - śniadanie
-axgadu - lunch
-galvgadu - obiad
-paggadu - kolacja
-inpaju - przekąska
-dreusie - lody
-▶️ ANDAN I AUTA DAN AN SAUN - MEBLE I INNE RZECZY W DOMU
+šeshady - śniadanie
+axhady - lunch
+galvhady - obiad
+paghady - kolacja
+inpažy - przekąska
+drysie - lody
+▶️ ANDAN I AUTA DAN AN SONŪ - MEBLE I INNE RZECZY W DOMU
 sedie - krzesło
-thibu - stół
-seavces - szuflada
-lejces - łóżko
-lejnas - leżak
-gathetas - kaloryfer
-taedie - lampa
-stuvces - kontakt
-nopaesu - okno
-▶️ PRATVAMA I ALDGALSA CASPETONT - POJĘCIA FIZYCZNE I MATEMATYCZNE
-manaètu - pozycja
-eucmanaètu - przemieszczenie
-rigesc - prędkość, velocity
-faedesc - szybkość, speed
-delinte - przyspieszenie
-reuzu - siła
-gaūlfraena - elektryczny
-aezcitū - magnes [aezcitis - magnetyzm, aezcita - magnetyczny, aezcituc - magnesowy] #magnet
-nasreumu - oddziaływanie 
+čiby - stół
+sävkes - szuflada
+ležkes - łóżko
+ležnas - leżak
+gačetas - kaloryfer
+taidie - lampa
+stuvkes - kontakt
+nopaisty - okno
+▶️ PRATVAMA I ALDGALSA KASPETONT - POJĘCIA FIZYCZNE I MATEMATYCZNE
+maneity - pozycja
+ykmaneity - przemieszczenie
+rigesk - prędkość, velocity
+faidesk - szybkość, speed
+delinty - przyspieszenie
+ryzy - siła
+haulfraina - elektryczny
+aizkity - magnes [aizkitis - magnetyzm, aizkita - magnetyczny, aizkituk - magnesowy] #magnet
+nasrymy - oddziaływanie 
 energis - energia
-somrig cheftu - ruch jednostajny
-breustu - ciśnienie, nacisk
+somrig šefty - ruch jednostajny
+bryste - ciśnienie, nacisk
 ▶️ TAP - ZWIERZĘTA
 bram - pies
-caec - kot
-chaen - wilk
-chec - smok
-blae - ptak
-siedoc - małpa
+kaik - kot
+šain - wilk
+šek - smok
+blai - ptak
+siedog - małpa
 gil - ślimak
-pleur - świnia
-breul - kura, kurczas [breulnas - kurnik]
-zachu - wąż
-daetop - gołąb
-jiraf - żyrafa
+plyr - świnia
+bryl - kura, kurczak [brylnas - kurnik]
+zašy - wąż
+daitop - gołąb
+žiraf - żyrafa
 elefant - słoń
-▶️ ID VASSANTU - BEZ KATEGORII
-caèlu - niebo
-ceulu - piekło
-nemu - imię/nazwa
-beat - rok
-pres - sposób
-seur - czas
-sint - powód
-lejvistu - poziom
-nitu - pokój
-cheftu - ruch
-ach - dzień
-man - miejsco
-gedu - państwo
-cas - kraj, ziemia
-chardie - pieniądze
-dan - rzecz
-saun - dom
-dragu - droga
-asteru - gwiazda
-aset - miasto
-cū - słowo
-prat - świat
-meanu - zainteresowanie
-meanoc - ciekawostka
-smidu - dowód
-stacis - nauka
-nadu - nadzieja
-veru - wiara
-avru - prawda
-paveasasc - uważność
-cavel - kawałek
-stedu - strona
-chadu - cień
-scesu - obraz
-caenu - rodzaj
-sapu - cisza
-feuru - ogień
-linu - strach
+▶️ ID VASSANTY - BEZ KATEGORII
+astefty - sufit
+asterom - konstelacja
+astery - gwiazda
+atis - umysł
+atok - fakt
+atsanty - rozprawka
+avieskažy - protest
+avry - prawda
 axer - urządzenie
-chevaxer - urządzenie mobilne
-beru - ubranie
-sauris - inteligencja 
-fincu - chwila
-medu - środek, centrum
-scaèt - księżyc 
-blat - liść 
-caspis - pogoda
-miscu - spokój
-nascitu - napięcie
-drevcas - las
-liscu - piosenka
-roesis - muzyka
-jeuntaetu - postęp 
-navces - drzwi 
-citcias - dworzec
-riezetu - pochodna
-egesic - całka 
-fald - pole
-adis - umysł 
-reuvgantu - telewizja
-reuvganer, RG, paesie - telewizor
-reues - prawo, zasada
-stacie - lekcja
-vardu - wartość 
-foc - typ, ziom, gostek
-iuces - populacja, ludność 
-iusis - ludzkość
-ceudu - problem
-danie - temat
-scitu - część
-scitsen - członek 
-seces - grupa
-mesleju - układ, layout
 axis - firma
-maūt - śmieć, śmieci
-maūtnas - śmietnik
-nesis - kolejność
-seuroc - moment
-vilcu - los
-gasu - głos
-stacdan - przedmiot szkolny/uczelniany
-mald - sens
-molcias - kościół
-lastach - plecak
-besu - cena
-taedu - światło
-taèju - fakt
-rafmaètu - miotła
-drasnas - komputer
-dag - raz, mal
-atoc - fakt
-paesoc - film
-jeurnas - chodnik
-jeurcas - podłoga
-asteftu - sufit
-neaūl - futro
-vamu - władza
-vamis - rząd
-vamsen - władca
-saèlcias - toaleta
-gadcias - kuchnia
-thezu - gość
-theznitu - salon, duży pokój
-jacaèd - półkula, miska
-vaèzezu - talerz
 aznas - ściana
-gaèz - kosmos
-gaèztag - statek kosmiczny, rakieta
-theue - kamień
-ciansauru - umowa, Vertrag
-roc - lada, sklep
-smetcias - sklep
-smetroc - kasa
-fraen - prąd
-senur - kabel
-gaūlie - ładowarka
-stuvnas - wtyczka 
-paèd - przestrzeń
-spatcias - hotel
-reuznas - silnik
-loen - słońce
-laet - warstwa
-nacnas - budzik
-raètu - zdrowie
-cethu - żart 
-teazu - wstyd [teazeye - wstydzić się]
-sield - pas, pasmo, streifen
-smentu - lek
-smencias - apteka
-smenciassen - aptekarz
-smienas - lekarz
-dietu - zasada
-gadeur - toaleta
-atoc - pomysł
-speuftu - duch 
-zél - dusza
-cathu - cel [cathe - celować]
-peusitis - odpowiedzialność
-toelu - wojna
-parciatu - sukces
-faūciatu - porażka, fail, Versagen
-saner - zeszyt
-sannas - długopis
-radnas - kredka
-radu - rysunek
-sanie - esej, wypracowanie
-flaūt - trawa, zioło
-daūtu - blok, klocek [daūte - blokować]
-aviescaju - protest
-faūreftu - koszmar, zły sen
+aš - dzień
+baud - sztuka (jedna sztuka)
+baun - spodnie
+bery - ubranie
+besy - cena
+blat - liść
+bluz - bluza
 bor - moneta, pieniądz
-dhel - towar
-glam - termin
-vraj - bóg
-faūie, fer - błąd
-reūcat - wzór, Muster, pattern
-plid - wzór, Formel, formula
-baūd - sztuka (jedna sztuka)
-gaèzcaèd - planeta
-vuzu - dziura
-stud - most
+bät - rok
+dag - raz, mal
+dan - rzecz
+danie - temat
+dauty - blok, klocek [daūte - blokować]
+degšas - wakacje
+dezesk - ilość
+diety - zasada
+dragy - droga
+drasnas - komputer
+drevkas - las
+džel - towar
+egsik - całka
+fald - pole
+fauie, fer - błąd
+faukiaty - porażka, fail, Versagen
+faurefty - koszmar, zły sen
+fautaity - przestępstwo
+finky - chwila
 flar - zapał
 flaris - pasja
-faūtaetu - przestępstwo
-stag - kara [stagete - ukarać]
-saèm - los
-jeungasetu - przeznaczenie
-zier - plotka
-jeunciatu - proces, Vorgang
-machinu - maszyna
-senreumas - automat [senreuma - automatyczny]
-sug - ślad
-dezesc - ilość
-gald - głód [galda - głodny, galdeye - głodować, galdete - głodzi]
+flaut - trawa, zioło
+fok - typ, ziom, gostek
+frain - prąd
 fras - wiatr
-degchas - wakacje
-mescaju - wykaz, tabelka
-feard - okres (np. czasu)
-glas - skrzydło
-gaūdetas - pojemnik
-loes - pudło
-ūen - para [ūenete - zaparzyć]
-vaèlsetu - opcja, Wahlmöglichkeit
-lad - dach
-chert - koszulka
-lebas - skarpetka
-baun - spodnie 
+fyry - ogień
+färd - okres (np. czasu)
+gaižkäid - planeta
+gald - głód [galda - głodny, galdeye - głodować, galdete - głodzi]
 galvas - czapka
-bluz - bluza
-euctothu - szalik
-tevberu - majtki
-greal - łańcuch
-atsantu - rozprawka
-raū - chmura
-sarom - brama 
+gasty - głos
+gedy - państwo
+glam - termin
+glas - skrzydło
+gräl - łańcuch
+gäiz - kosmos
+gäiztag - statek kosmiczny, rakieta
+hadkias - kuchnia
+hadyr - toaleta
+haudetas - pojemnik
+haulie - ładowarka
+iekes - populacja, ludność
+iesis - ludzkość
+kainy - rodzaj
+kas - kraj, ziemia
+kaspis - pogoda
+kavel - kawałek
+kačy - cel [cathe - celować]
+kečy - żart
+kiansârty - umowa, Vertrag
+kiezom - krzew, krzak
+kitkias - dworzec
+ky - słowo
+kydy - problem
+kyly - piekło
+käily - niebo
+lad - dach
+lait - warstwa
+lastaš - plecak
+lebas - skarpetka
+ležvisty - poziom
+liny - strach
+lisky - piosenka
+loin - słońce
+lois - pudło
+mald - sens
+man - miejsco
+maut - śmieć, śmieci
+mautnas - śmietnik
+mašiny - maszyna
+medy - środek, centrum
+meskažy - wykaz, tabelka
+mesležy - układ, layout
+misky - spokój
+molkias - kościół
+mänog - ciekawostka
+mänty - zainteresowanie
+nadu - nadzieja
+naknas - budzik
+naskity - napięcie
+navkes - drzwi
+nemy - imię/nazwa
+nesis - kolejność
+niej - cud [nieja - cudowny]
+nity - pokój
+näul - futro
+näulie - furras furry
+paisok - film
+parkiaty - sukces
+paväsask - uważność
+plid - wzór, Formel, formula
+prat - świat
+pregkas - pustynia
+pres - sposób
+pysitis - odpowiedzialność
+päid - przestrzeń
+radnas - kredka
+rady - rysunek
+rafmäity - miotła
+rau - chmura
+reukat - wzór, Muster, pattern
+riezety - pochodna
+roisis - muzyka
+rok - lada, sklep
+rošmäity - papieros
+ryis - prawo, zasada
+ryvganer, RG, paisie - telewizor
+ryvganty - telewizja
+ryznas - silnik
+räity - zdrowie
+saner - zeszyt
+sanie - esej, wypracowanie
+sannas - długopis
+sapu - cisza
+sarom - brama
+sekes - grupa
+senrymas - automat [senryma - automatyczny]
+senvesky, aty - opinia {Et senvescoū, esv - moim zdaniem}
+sield - pas, pasmo, streifen
+sint - powód
+skesy - obraz
+skitsen- członek
+skity - część
+skäit - księżyc
+smenkias - apteka
+smenkiassen - aptekarz
+smenty - lek
+smetkias - sklep
+smetrok - kasa
+smidy - dowód
+smienas - lekarz
+snur - kabel
+spatkias - hotel
 spenom - ogrodzenie, Zaun
-ciezom - krzew, krzak
-senvescu, atū - opinia {Et senvescoū, esv - moim zdaniem}
-niee - cud [nieya - cudowny]
-eulc - łyk
+spyfty - duch
+stag - kara [stagete - ukarać]
+stakdan - przedmiot szkolny/uczelniany
+stakie - lekcja
+stakis - nauka
+stedy - strona
+stud - most
+stuvnas - wtyczka
+sug - ślad
+syr - czas
+syrog - moment
+sân - dom
+sâris - inteligencja
+säilkias - toaleta
+säim - los
+taidy - światło
+taizy - wstyd [teazeye - wstydzić się]
+tevbery - majtki
+tevsedy - miasto
+toily - wojna
+täižy - fakt
+uen - para [uenete - zaparzyć]
+vamis - rząd
+vamsen - władca
+vamy - władza
+vardy - wartość
+versis - wersja
+verty - wiara
+vilky - los
+vraž - bóg
+vuzy - dziura
+väilsety - opcja, Wahlmöglichkeit
+väizezy - talerz
+yktočy - szalik
+ylk - łyk
+zier - plotka
+zél - dusza
+čeznity - salon, duży pokój
+čezy - gość
+čyi - kamień
+šady - cień
+šardie - pieniądze
+šefty - ruch
+šert - koszulka
+ševaxer - urządzenie mobilne
+žakäid - półkula, miska
+žyngasety - przeznaczenie
+žynkiaty - proces, Vorgang
+žyntaity - postęp
+žyrkas - podłoga
+žyrnas - chodnik
